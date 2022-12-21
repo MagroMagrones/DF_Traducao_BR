@@ -1,0 +1,7 @@
+text_snatcher_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SNATCHER_PROFESSION]
+
+Eu resgato criancas perdidas e as trago de volta para [CONTEXT:PLACE:TRANS_NAME].

@@ -1,0 +1,13 @@
+text_general
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GENERAL]
+
+cujos gritos de misericordia foram ignorados pela minha ira
+cujo nome insignificante eu luto para lembrar
+uma lesma covarde que foi esmagada sob minha forca
+quem eu enterrei vivo sob uma montanha de odio
+que esta morto, agora apenas uma memoria embaracosa
+que buscou meu louvor, apenas para ser rejeitado na morte
+uma vez reverenciado por aqueles que nao conheciam nada melhor

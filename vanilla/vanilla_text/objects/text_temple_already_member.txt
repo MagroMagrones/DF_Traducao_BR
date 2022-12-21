@@ -1,0 +1,11 @@
+text_temple_already_member
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:TEMPLE_ALREADY_MEMBER]
+
+simplesmente
+eh o suficiente para
+sua tarefa eh simples;
+apenas
+tudo que voce precisa eh

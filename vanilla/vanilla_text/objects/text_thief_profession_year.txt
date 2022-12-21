@@ -1,0 +1,7 @@
+text_thief_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:THIEF_PROFESSION_YEAR]
+
+Eu busco tesouros e os trago de volta para [CONTEXT:PLACE:TRANS_NAME] e tenho feito isso por [CONTEXT:NUMBER] dos anos da minha vida.

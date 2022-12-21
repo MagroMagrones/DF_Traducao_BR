@@ -1,0 +1,7 @@
+text_greet_reply_diff_language
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_REPLY_DIFF_LANGUAGE]
+
+Ola, [AUDIENCE:RACE].  Eu sou [SPEAKER:TRANS_NAME].

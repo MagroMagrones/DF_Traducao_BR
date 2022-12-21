@@ -1,0 +1,11 @@
+text_elf
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_ELF]
+
+que foi derrubado como uma muda delgada
+a quem enviei de volta para a arvore-casa como fertilizante
+cujos ossos frageis se despedacaram diante do poder do meu desprezo
+que desceu da arvore-lar e foi devorado
+quem deveria ter ficado nas arvores quando os verdadeiros elfos desceram para lutar

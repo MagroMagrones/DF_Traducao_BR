@@ -1,0 +1,20 @@
+text_goodbye_worship_1
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GOODBYE_WORSHIP_1]
+
+ao levantar pela manha,
+ao fazer uma longa viagem,
+antes de se deitar a noite,
+tao certo como estou aqui agora,
+e eis,
+nao pode ser dito o suficiente;
+estes sao tempos perigosos, entao
+eu digo de novo
+sim,
+antes de cada refeiao,
+sempre que a mare vira,
+quando voce voltar a este lugar,
+ao chegar ao seu destino,
+neste momento da sua vida,

@@ -1,0 +1,7 @@
+text_snatcher_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SNATCHER_PROFESSION_YEAR]
+
+Durante [CONTEXT:NUMBER] dos meus anos, resgatei criancas perdidas e as trouxe de volta para [CONTEXT:PLACE:TRANS_NAME].

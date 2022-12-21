@@ -1,0 +1,7 @@
+text_hist_fig_slayer
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:HIST_FIG_SLAYER]
+
+Fui eu quem derrubou [CONTEXT:HIST_FIG:TRANS_NAME] o [CONTEXT:HIST_FIG:RACE].

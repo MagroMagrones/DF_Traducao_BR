@@ -1,0 +1,17 @@
+text_goodbye_worship_2
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GOODBYE_WORSHIP_2]
+
+nao se esqueca de
+lembre-se sempre de
+seria sensato
+voce deve
+voce deve
+a prudencia exige que voce
+mesmo por um momento
+siga meu conselho e
+preste atencao as minhas palavras e
+lembrar de
+mostrar devocao e

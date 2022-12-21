@@ -1,0 +1,7 @@
+text_animal_slayer
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:ANIMAL_SLAYER]
+
+Eu abati [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] enquanto andava por [CONTEXT:PLACE:TRANS_NAME].

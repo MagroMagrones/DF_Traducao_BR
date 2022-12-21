@@ -1,0 +1,8 @@
+text_past_mercenary_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_MERCENARY_PROFESSION]
+
+No passado, busquei fortuna e gloria oferecendo minha habilidade com as armas.
+Busquei fortuna e gloria oferecendo minha habilidade nas armas por [CONTEXT:NUMBER] dos meus anos.

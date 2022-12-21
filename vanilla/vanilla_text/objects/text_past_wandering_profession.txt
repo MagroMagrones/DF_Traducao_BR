@@ -1,0 +1,8 @@
+text_past_wandering_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_WANDERING_PROFESSION]
+
+Uma vez eu vaguei pela selva.
+Por [CONTEXT:NUMBER] dos meus anos, eu vaguei pela selva.

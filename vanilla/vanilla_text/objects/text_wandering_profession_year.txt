@@ -1,0 +1,7 @@
+text_wandering_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:WANDERING_PROFESSION_YEAR]
+
+Eu peregrinei por [CONTEXT:PLACE:TRANS_NAME] por [CONTEXT:NUMBER] dos meus anos.

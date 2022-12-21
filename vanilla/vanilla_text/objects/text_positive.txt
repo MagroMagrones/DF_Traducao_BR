@@ -1,0 +1,16 @@
+text_positive
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:POSITIVE]
+
+fantastico!
+Maravilhoso!
+Estou emocionado em ouvir isso.
+Fico feliz em ouvir isso.
+sao boas noticias.
+isso eh uma noticia maravilhosa.
+isso eh encorajador.
+muito bom.
+Estou orgulhoso de voce.
+isso eh uma boa reviravolta.

@@ -1,0 +1,7 @@
+text_justification_experience
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:JUSTIFICATION_EXPERIENCE]
+
+pode permitir que alguem experimente

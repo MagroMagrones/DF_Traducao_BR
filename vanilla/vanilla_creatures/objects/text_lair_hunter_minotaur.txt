@@ -1,0 +1,9 @@
+text_lair_hunter_minotaur
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:LAIR_HUNTER_MINOTAUR]
+
+Eu quero seus ossos para minha fabrica de ossos!
+Vou moe-lo em mingau!
+Eu vou te comer inteiro!

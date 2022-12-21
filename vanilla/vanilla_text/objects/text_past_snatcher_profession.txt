@@ -1,0 +1,8 @@
+text_past_snatcher_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_SNATCHER_PROFESSION]
+
+Uma vez foi meu chamado resgatar criancas perdidas.
+Durante [CONTEXT:NUMBER] dos meus anos, resgatei criancas perdidas.

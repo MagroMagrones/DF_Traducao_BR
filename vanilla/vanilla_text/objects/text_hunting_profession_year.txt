@@ -1,0 +1,7 @@
+text_hunting_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:HUNTING_PROFESSION_YEAR]
+
+Cacei grandes feras em [CONTEXT:PLACE:TRANS_NAME] durante [CONTEXT:NUMBER] dos meus anos.

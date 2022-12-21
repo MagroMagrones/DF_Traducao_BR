@@ -1,0 +1,8 @@
+text_past_thief_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_THIEF_PROFESSION]
+
+Uma vez procurei grandes tesouros.
+Procurei grandes tesouros por [CONTEXT:NUMBER] dos meus anos.

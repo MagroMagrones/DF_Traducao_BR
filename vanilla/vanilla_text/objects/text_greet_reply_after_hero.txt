@@ -1,0 +1,8 @@
+text_greet_reply_after_hero
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_REPLY_AFTER_HERO]
+
+Eu sou [SPEAKER:TRANS_NAME]. Posso ajudar?
+Eu sou [SPEAKER:TRANS_NAME]. Como posso ser util?

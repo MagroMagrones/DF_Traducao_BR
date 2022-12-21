@@ -1,0 +1,7 @@
+text_greet
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET]
+
+Saudacoes.  Meu nome eh [SPEAKER:TRANS_NAME].

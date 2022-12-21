@@ -1,0 +1,10 @@
+text_temple_become_member
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:TEMPLE_BECOME_MEMBER]
+
+Bem-vindo a [CONTEXT:ENTITY:TRANS_NAME]. Louvado seja [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!
+Bem-vindo a [CONTEXT:ENTITY:TRANS_NAME]. Louvado seja [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!
+Como membro de [CONTEXT:ENTITY:TRANS_NAME], agora voce pode buscar os misterios superiores de [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME].
+Como membro de [CONTEXT:ENTITY:TRANS_NAME], agora voce pode buscar os misterios superiores de [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE].

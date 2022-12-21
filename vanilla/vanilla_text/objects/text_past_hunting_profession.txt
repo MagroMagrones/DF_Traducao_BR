@@ -1,0 +1,8 @@
+text_past_hunting_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_HUNTING_PROFESSION]
+
+No passado, eu cacava grandes feras.
+Eu fui um cacador de feras poderosas por [CONTEXT:NUMBER] dos meus anos.

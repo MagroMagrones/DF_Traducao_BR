@@ -1,0 +1,7 @@
+text_thief_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:THIEF_PROFESSION]
+
+Eu busco tesouros e os trago de volta para [CONTEXT:PLACE:TRANS_NAME].

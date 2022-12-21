@@ -1,0 +1,11 @@
+text_greet_worship
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_WORSHIP]
+
+Louvado seja [SPEAKER:HF_LINK:DEITY:TRANS_NAME].
+Louvado seja [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].
+A vida e, em uma palavra, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].
+Este servo de [SPEAKER:HF_LINK:DEITY:TRANS_NAME] cumprimenta voce.
+Este servo de [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] cumprimenta voce.

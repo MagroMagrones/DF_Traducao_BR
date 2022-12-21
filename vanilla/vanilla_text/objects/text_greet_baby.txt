@@ -1,0 +1,9 @@
+text_greet_baby
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_BABY]
+
+Olaaa!
+Olhe para voce!
+Um bebe!  Que adoravel!

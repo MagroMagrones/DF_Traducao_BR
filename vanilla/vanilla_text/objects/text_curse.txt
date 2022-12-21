@@ -1,0 +1,7 @@
+text_curse
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:CURSE]
+
+Quem ousa adentrar minha casa? Eu o amaldico-o!

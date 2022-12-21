@@ -1,0 +1,161 @@
+text_book_instruction
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:BOOK_INSTRUCTION]
+
+[NAME]
+Um Curso sobre [NAME]
+Uma humilde oferta para [NAME]
+Uma meditacao sobre [NAME]
+Um registro de [NAME]
+Um Tratado sobre [NAME]
+Um mundo de [NAME]
+Sobre [NAME]
+Depois de [NAME]
+Contra [NAME]
+Uma Exploracao de [NAME]
+Uma introducao a [NAME]
+Uma oferta para [NAME]
+Em Um Com [NAME]
+Antes de [NAME]
+Melhor [NO_ART_NAME]
+Alem de [NAME]
+Livro de [NAME]
+Cativado por [NAME]
+Escolha NAME]
+Classico [NO_ART_NAME]
+Comentario sobre [NAME]
+Senso comum [NO_ART_NAME]
+Sobre [NAME]
+Discurso sobre [NAME]
+Descobrindo [NAME]
+Duvidas sobre [NAME]
+Sonhos de [NAME]
+Elementos de [NAME]
+Erros em [NAME]
+Explorando [NAME]
+Exploracoes de [NAME]
+[NO_ART_NAME] factual
+Pelo amor de [NAME]
+Fundacoes de [NAME]
+De-me [NAME]
+Ótimo [NO_ART_NAME]
+Em busca de [NAME]
+Consultas sobre [NAME]
+Interpretacoes de [NAME]
+Introducao a [NAME]
+Tudo comeca com [NAME]
+e [NAME]
+Viagem para [NAME]
+Vida com [NAME]
+Mestre de [NAME]
+Masterizacao [NAME]
+Meditacoes sobre [NAME]
+Equivocos sobre [NAME]
+Mais [NO_ART_NAME]
+Reflexoes sobre [NAME]
+Meus pensamentos sobre [NAME]
+Misterios de [NAME]
+Nunca Subestime [NAME]
+Novo [NO_ART_NAME]
+De [NAME]
+Em [NAME]
+Caminhos para [NAME]
+Principios de [NAME]
+Pergunta [NAME]
+Perguntas sobre [NAME]
+Registros de [NAME]
+Reflexoes sobre [NAME]
+Segredo [NO_ART_NAME]
+Comece o seu dia com [NAME]
+Estranho [NO_ART_NAME]
+A Arte de [NAME]
+O Livro de [NAME]
+O futuro de [NAME]
+O Grande [NO_ART_NAME]
+O significado oculto de [NAME]
+A História de [NAME]
+A interpretacao de [NAME]
+A Jornada para [NAME]
+O Conhecimento de [NAME]
+O significado de [NAME]
+Os Misterios de [NAME]
+O misterio de [NAME]
+O matizado [NO_ART_NAME]
+As possibilidades de [NAME]
+A Perseguicao de [NAME]
+O Segredo de [NAME]
+[NO_ART_NAME] do aluno
+O Estudo de [NAME]
+O Verdadeiro [NO_ART_NAME]
+A verdade sobre [NAME]
+O [NO_ART_NAME] Integral
+O caminho com [NAME]
+O Guia do Mago para [NAME]
+O mundo de [NAME]
+O mundo sem [NAME]
+Pensamentos sobre [NAME]
+Tempo gasto com [NAME]
+Tradicional [NO_ART_NAME]
+Tratado sobre [NAME]
+Verdadeiro [NO_ART_NAME]
+Estranho [NO_ART_NAME]
+Descobrindo [NAME]
+Compreendendo [NAME]
+Desconhecido [NO_ART_NAME]
+Incomum [NO_ART_NAME]
+util [NO_ART_NAME]
+Vitória de [NAME]
+[NAME] Depois do Fim
+[NAME] e alem
+[NAME] e mais
+[NAME] e outros tópicos
+[NAME] e outras farsas
+[NAME] e os problemas vindouros
+[NAME] e o Universo
+[NAME] Veio o circulo completo
+[NAME] explicado
+[NAME] Exposto
+[NAME] Para todos
+[NAME] Para Alunos
+[NAME] Para o Praticante Iniciante
+[NAME] Na pratica
+[NAME] Na Era Moderna
+[NAME] No Tempo dos Meus Ancestrais
+[NAME] Em teoria
+[NAME] em [ANY_AGE]
+[NAME] Interpretado
+[NAME] pode ajudar
+[NAME] Questionado
+[NAME] O Caminho Facil
+[NAME] descoberto
+[NAME] Entendido
+[NAME] Quando e importante
+[NAME] dentro do razoavel
+[NAME] Sem Limites
+[NAME], abreviado
+[NAME], minha vida
+[NAME], meu amor
+[NAME]: Uma Breve História
+[NAME]: Uma Breve Introducao
+[NAME]: Uma Nova Abordagem
+[NAME]: Um dilema
+[NAME]: Antes e Depois
+[NAME]: Pratica Comum
+[NAME]: Fato ou Ficcao?
+[NAME]: Mais reflexoes
+[NAME]: Meu unico erro
+[NAME]: Natural ou Sobrenatural?
+[NAME]: Principios e Pratica
+[NAME]: Problemas e Solucoes
+[NAME]: O Guia Definitivo
+[NAME]: A Verdade
+[NAME] pode salvar o mundo?
+Poderia ser [NAME]?
+[NAME] vacilou?
+Nós entendemos [NAME]?
+Voce conhece [NAME]?
+Primeiro [NAME], depois o mundo!
+O livro [NO_ART_NAME]
+Para [NAME] e Glória!

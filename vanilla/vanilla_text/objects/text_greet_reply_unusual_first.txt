@@ -1,0 +1,11 @@
+text_greet_reply_unusual_first
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_REPLY_UNUSUAL_FIRST]
+
+[AUDIENCE:FIRST_NAME]... seus pais devem ter sido interessantes!
+Voce sabe, voce nao conhece muitas pessoas com o nome [AUDIENCE:FIRST_NAME].
+Entao, [AUDIENCE:FIRST_NAME]... [AUDIENCE:FIRST_NAME], foi?
+[AUDIeNCIA:FIRST_NAME]. Isso significa alguma coisa?
+[AUDIeNCIA:FIRST_NAME]. Nao posso dizer que ja ouvi isso antes.

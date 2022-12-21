@@ -1,0 +1,7 @@
+text_current_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:CURRENT_PROFESSION_YEAR]
+
+Este ‚ meu [CONTEXT:ORDINAL] ano como um [CONTEXT:UNIT_NAME].

@@ -1,0 +1,13 @@
+text_dwarf
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_DWARF]
+
+que era muito curto para viver
+que escapou de mim como uma toupeira assustada
+que chupou capacetes gordos como uma larva ronronante
+cujo martelo quebrou na bigorna do meu poder
+que forjou a propria destruicao de [PRO_POS] ao me desafiar
+que foi devolvido a rocha e lama de onde foi gerado
+cujos contos de bravura eram ainda mais embaracosos por causa da altura [PRO_POS]

@@ -1,0 +1,24 @@
+text_book_art
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:BOOK_ART]
+
+[NAME]
+[PHRASE]
+[ADJ] [NO_ART_NAME]
+O [ADJ] [NO_ART_NAME]
+[NAME] [ADJ]
+[NAME] e o [NOUN]
+[NAME] e o [ADJ] [NOUN]
+O [NOUN] e [NAME]
+O [ADJ] [NOUN] e [NAME]
+[NAME]: [PHRASE]
+Deve ter sido [NAME]
+Meu amigo [NAME]
+O Nascimento de [NAME]
+O sol se poe em [NAME]
+Vemos [NAME]
+[NAME] Sempre em frente
+[NAME] e nada mais
+E [ANY_PRONOUN] cantou '[NAME]!'

@@ -1,0 +1,7 @@
+text_greet_reply
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_REPLY]
+
+Ah, ola.  Eu sou [SPEAKER:TRANS_NAME].

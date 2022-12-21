@@ -1,0 +1,22 @@
+[ID:Descritivos-Traducao-PT-BR]
+[NUMERIC_VERSION:001]
+[DISPLAYED_VERSION:0.1]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
+[AUTHOR:Magro]
+[NAME:Descritivos-Traducao-PT-BR]
+[DESCRIPTION:Altera as descricoes de animais e objetos, e algumas poucas frases para o portugues do brasil. Nao espere o jogo todo traduzido. Esse mod eh apenas um facilitador, nao tem a intencao de traduzir todo o jogo.
+*Esse mod nao esta funcionando devido a um --BUG-- encontrado ao remover a pasta de criaturas do vanilla. 
+**--Por sua conta em risco-- Se quiser usar esse mod por enquanto navegue ate sua pasta do Dwarf Fortress e substitua os arquivos vanilla pelos encontrados nesse mod]
+
+[CONFLICTS_WITH_ID:vanilla_creatures]
+[CONFLICTS_WITH_ID:vanilla_text]
+[CONFLICTS_WITH_ID:vanilla_entities]
+[CONFLICTS_WITH_ID:vanilla_reactions]
+
+[STEAM_TAG:mod]
+[STEAM_TAG:br]
+[STEAM_TAG:pt-br]
+[STEAM_TAG:traducao]
+[STEAM_TAG:vanilla]
+
