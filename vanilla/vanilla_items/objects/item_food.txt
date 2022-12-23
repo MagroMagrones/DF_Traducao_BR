@@ -3,13 +3,13 @@ item_food
 [OBJECT:ITEM]
 
 [ITEM_FOOD:ITEM_FOOD_BISCUITS]
-[NAME:biscuits]
+[NAME:biscoitos]
 [LEVEL:2]
 
 [ITEM_FOOD:ITEM_FOOD_STEW]
-[NAME:stew]
+[NAME:ensopado]
 [LEVEL:3]
 
 [ITEM_FOOD:ITEM_FOOD_ROAST]
-[NAME:roast]
+[NAME:assado]
 [LEVEL:4]
