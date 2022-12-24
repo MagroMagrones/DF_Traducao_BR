@@ -4,8 +4,8 @@ creature_annelids
 
 [CREATURE:WORM]
 	[DESCRIPTION:Uma pequena criatura escavadora, encontrada em solo umido. Eh sem pernas, longo e fino.]
-	[NAME:worm:worms:worm]
-	[CASTE_NAME:worm:worms:worm]
+	[NAME:minhoca:minhocas:minhoca]
+	[CASTE_NAME:minhoca:minhocas:minhoca]
 	[CREATURE_TILE:'~'][COLOR:7:0:0]
 	[PETVALUE:10]
 	[VERMIN_SOIL][FREQUENCY:100][VERMIN_HATEABLE]
@@ -56,8 +56,8 @@ creature_annelids
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
-	[NAME:worm man:worm men:worm man]
-	[CASTE_NAME:worm man:worm men:worm man]
+	[NAME:homem-minhoca:homens-minhocas:homem-minhoca]
+	[CASTE_NAME:homem-minhoca:homens-minhocas:homem-minhoca]
 	[DESCRIPTION:Uma criatura parecida com um verme com o torso de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
