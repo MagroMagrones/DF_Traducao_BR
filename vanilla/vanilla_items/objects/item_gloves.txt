@@ -3,7 +3,7 @@ item_gloves
 [OBJECT:ITEM]
 
 [ITEM_GLOVES:ITEM_GLOVES_GAUNTLETS]
-[NAME:gauntlet:gauntlets]
+[NAME:manopla:manoplas]
 [ARMORLEVEL:2]
 [UPSTEP:1]
 [SHAPED]
@@ -18,7 +18,7 @@ item_gloves
 [HARD]
 
 [ITEM_GLOVES:ITEM_GLOVES_GLOVES]
-[NAME:glove:gloves]
+[NAME:luva:luvas]
 [MATERIAL_SIZE:1]
 [LAYER:UNDER]
 [COVERAGE:100]
@@ -29,7 +29,7 @@ item_gloves
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_GLOVES:ITEM_GLOVES_MITTENS]
-[NAME:mitten:mittens]
+[NAME:luva de inverno:luvas de inverno]
 [LAYER:COVER]
 [COVERAGE:150]
 [LAYER_SIZE:15]

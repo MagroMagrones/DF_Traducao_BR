@@ -3,7 +3,7 @@ building_custom
 [OBJECT:BUILDING]
 
 [BUILDING_WORKSHOP:SOAP_MAKER]
-	[NAME:Soap Maker's Workshop]
+	[NAME:Oficina do Fabricante de Sabao]
 	[NAME_COLOR:7:0:1]
 	[DIM:3:3]
 	[WORK_LOCATION:2:2]
