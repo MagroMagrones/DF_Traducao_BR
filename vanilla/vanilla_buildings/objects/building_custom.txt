@@ -41,7 +41,7 @@ building_custom
 	[TOOLTIP:Use sebo (gordura fundida) ou oleo aqui com lixivia para fazer sabao.]
 
 [BUILDING_WORKSHOP:SCREW_PRESS]
-	[NAME:Screw Press]
+	[NAME:Prensa de Rosca]
 	[NAME_COLOR:7:0:1]
 	[DIM:1:1]
 	[WORK_LOCATION:1:1]
