@@ -3,7 +3,7 @@ item_tool
 [OBJECT:ITEM]
 
 [ITEM_TOOL:ITEM_TOOL_CAULDRON]
-[NAME:cauldron:cauldrons]
+[NAME:caldeirao:caldeiroes]
 [VALUE:50]
 [METAL_MAT]
 [TOOL_USE:LIQUID_COOKING]
@@ -13,7 +13,7 @@ item_tool
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_LADLE]
-[NAME:ladle:ladles]
+[NAME:concha:conchas]
 [VALUE:10]
 [METAL_MAT]
 [TOOL_USE:LIQUID_SCOOP]
@@ -22,7 +22,7 @@ item_tool
 [MATERIAL_SIZE:1]
 
 [ITEM_TOOL:ITEM_TOOL_BOWL]
-[NAME:bowl:bowls]
+[NAME:tijela:tijelas]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:MEAL_CONTAINER]
@@ -32,7 +32,7 @@ item_tool
 [CONTAINER_CAPACITY:3000]
 
 [ITEM_TOOL:ITEM_TOOL_MORTAR]
-[NAME:mortar:mortars]
+[NAME:almofariz:almofarizes]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:GRIND_POWDER_RECEPTACLE]
@@ -42,7 +42,7 @@ item_tool
 [CONTAINER_CAPACITY:1000]
 
 [ITEM_TOOL:ITEM_TOOL_PESTLE]
-[NAME:pestle:pestles]
+[NAME:pilao:piloes]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:GRIND_POWDER_GRINDER]
@@ -51,7 +51,7 @@ item_tool
 [MATERIAL_SIZE:1]
 
 [ITEM_TOOL:ITEM_TOOL_KNIFE_CARVING]
-[NAME:carving knife:carving knives]
+[NAME:faca de entalhe:facas de entalhe]
 [VALUE:10]
 [METAL_WEAPON_MAT]
 [TOOL_USE:MEAT_CARVING]
@@ -69,7 +69,7 @@ item_tool
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:ITEM_TOOL_KNIFE_BONING]
-[NAME:boning knife:boning knives]
+[NAME:faca de desossa:facas de desossa]
 [VALUE:10]
 [METAL_WEAPON_MAT]
 [TOOL_USE:MEAT_BONING]
@@ -87,7 +87,7 @@ item_tool
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:ITEM_TOOL_KNIFE_SLICING]
-[NAME:slicing knife:slicing knives]
+[NAME:faca de corte:facas de corte]
 [VALUE:10]
 [METAL_WEAPON_MAT]
 [TOOL_USE:MEAT_SLICING]
@@ -105,7 +105,7 @@ item_tool
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:ITEM_TOOL_KNIFE_MEAT_CLEAVER]
-[NAME:meat cleaver:meat cleavers]
+[NAME:cutelo de carne:cutelos de carne]
 [VALUE:10]
 [METAL_WEAPON_MAT]
 [TOOL_USE:MEAT_CLEAVING]
@@ -123,7 +123,7 @@ item_tool
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:ITEM_TOOL_FORK_CARVING]
-[NAME:carving fork:carving forks]
+[NAME:garfo de entalhe:garfos de entalhe]
 [VALUE:10]
 [METAL_WEAPON_MAT]
 [TOOL_USE:HOLD_MEAT_FOR_CARVING]
@@ -139,7 +139,7 @@ item_tool
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:ITEM_TOOL_NEST_BOX]
-[NAME:nest box:nest boxes]
+[NAME:caixa de ninho:caixas de ninho]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:NEST_BOX]
@@ -149,7 +149,7 @@ item_tool
 [CONTAINER_CAPACITY:2000]
 
 [ITEM_TOOL:ITEM_TOOL_JUG]
-[NAME:jug:jugs]
+[NAME:jarro:jarros]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:LIQUID_CONTAINER]
@@ -159,7 +159,7 @@ item_tool
 [CONTAINER_CAPACITY:10000]
 
 [ITEM_TOOL:ITEM_TOOL_LARGE_POT]
-[NAME:pot:pots]
+[NAME:pote:potes]
 [ADJECTIVE:large]
 [VALUE:10]
 [HARD_MAT]
@@ -170,7 +170,7 @@ item_tool
 [CONTAINER_CAPACITY:60000]
 
 [ITEM_TOOL:ITEM_TOOL_HIVE]
-[NAME:hive:hives]
+[NAME:colmeia:colmeias]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:HIVE]
@@ -180,7 +180,7 @@ item_tool
 [CONTAINER_CAPACITY:5000]
 
 [ITEM_TOOL:ITEM_TOOL_HONEYCOMB]
-[NAME:honeycomb:honeycombs]
+[NAME:favo de mel:favos de mel]
 [VALUE:10]
 [TILE:236]
 [SIZE:1000]
@@ -188,7 +188,7 @@ item_tool
 [UNIMPROVABLE]
 
 [ITEM_TOOL:ITEM_TOOL_POUCH]
-[NAME:pouch:pouches]
+[NAME:bolsa:bolsas]
 [VALUE:10]
 [SOFT_MAT]
 [TOOL_USE:SMALL_OBJECT_STORAGE]
@@ -198,7 +198,7 @@ item_tool
 [CONTAINER_CAPACITY:1000]
 
 [ITEM_TOOL:ITEM_TOOL_MINECART]
-[NAME:minecart:minecarts]
+[NAME:carrinho de mina:carrinhos de mina]
 [VALUE:50]
 [METAL_MAT]
 [WOOD_MAT]
@@ -211,7 +211,7 @@ item_tool
 [CONTAINER_CAPACITY:500000]
 
 [ITEM_TOOL:ITEM_TOOL_WHEELBARROW]
-[NAME:wheelbarrow:wheelbarrows]
+[NAME:carrinho de mao:carrinhos de mao]
 [VALUE:50]
 [METAL_MAT]
 [WOOD_MAT]
@@ -223,7 +223,7 @@ item_tool
 [CONTAINER_CAPACITY:100000]
 
 [ITEM_TOOL:ITEM_TOOL_STEPLADDER]
-[NAME:stepladder:stepladders]
+[NAME:escadote:escadotes]
 [VALUE:50]
 [METAL_MAT]
 [WOOD_MAT]
@@ -234,7 +234,7 @@ item_tool
 [MATERIAL_SIZE:6]
 
 [ITEM_TOOL:ITEM_TOOL_SCROLL_ROLLERS]
-[NAME:scroll rollers:scroll rollers]
+[NAME:rolo de pergaminho:rolos de pergaminho]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:ROLL_UP_SHEET]
@@ -245,7 +245,7 @@ item_tool
 [UNIMPROVABLE]
 
 [ITEM_TOOL:ITEM_TOOL_BOOK_BINDING]
-[NAME:book binding:book bindings]
+[NAME:encadernador de livro:encadernadores de livro]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:PROTECT_FOLDED_SHEETS]
@@ -256,7 +256,7 @@ item_tool
 [UNIMPROVABLE]
 
 [ITEM_TOOL:ITEM_TOOL_SCROLL]
-[NAME:scroll:scrolls]
+[NAME:pergaminho:pergaminhos]
 [VALUE:20]
 [SHEET_MAT]
 [TOOL_USE:CONTAIN_WRITING]
@@ -266,7 +266,7 @@ item_tool
 [DEFAULT_IMPROVEMENT:SPECIFIC:ROLLERS:HARD_MAT]
 
 [ITEM_TOOL:ITEM_TOOL_QUIRE]
-[NAME:quire:quires]
+[NAME:papelada:papeladas]
 [VALUE:20]
 [SHEET_MAT]
 [TOOL_USE:CONTAIN_WRITING]
@@ -278,7 +278,7 @@ item_tool
 [NO_DEFAULT_IMPROVEMENTS]
 
 [ITEM_TOOL:ITEM_TOOL_BOOKCASE]
-[NAME:bookcase:bookcases]
+[NAME:estante de livros:estantes de livros]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:BOOKCASE]
@@ -301,7 +301,7 @@ item_tool
 [NO_DEFAULT_IMPROVEMENTS]
 
 [ITEM_TOOL:ITEM_TOOL_STONE_AXE]
-[NAME:axe:axes]
+[NAME:machado:machados]
 [VALUE:10]
 [STONE_MAT]
 [NO_DEFAULT_JOB]
@@ -319,7 +319,7 @@ item_tool
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_TOOL:ITEM_TOOL_PEDESTAL]
-[NAME:pedestal:pedestals]
+[NAME:pedestal:pedestais]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:DISPLAY_OBJECT]
@@ -329,7 +329,7 @@ item_tool
 [MATERIAL_SIZE:6]
 
 [ITEM_TOOL:ITEM_TOOL_DISPLAY_CASE]
-[NAME:display case:display cases]
+[NAME:vitrine:vitrines]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:DISPLAY_OBJECT]
@@ -340,7 +340,7 @@ item_tool
 [NO_DEFAULT_JOB]
 
 [ITEM_TOOL:ITEM_TOOL_ALTAR]
-[NAME:altar:altars]
+[NAME:altar:altares]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:PLACE_OFFERING]
@@ -350,7 +350,7 @@ item_tool
 [MATERIAL_SIZE:6]
 
 [ITEM_TOOL:ITEM_TOOL_DIE]
-[NAME:die:dice]
+[NAME:dado:dados]
 [VALUE:1]
 [HARD_MAT]
 [TOOL_USE:DIVINATION]
