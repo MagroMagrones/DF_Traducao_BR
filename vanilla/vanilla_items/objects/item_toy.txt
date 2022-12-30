@@ -3,21 +3,21 @@ item_toy
 [OBJECT:ITEM]
 
 [ITEM_TOY:ITEM_TOY_PUZZLEBOX]
-[NAME:puzzlebox:puzzleboxes]
+[NAME:caixa de quebra-cabeças:caixas de quebra-cabeças]
 [HARD_MAT]
 
 [ITEM_TOY:ITEM_TOY_BOAT]
-[NAME:toy boat:toy boats]
+[NAME:barco de brinquedo:barcos de brinquedo]
 [HARD_MAT]
 
 [ITEM_TOY:ITEM_TOY_HAMMER]
-[NAME:toy hammer:toy hammers]
+[NAME:martelo de brinquedo:martelos de brinquedo]
 [HARD_MAT]
 
 [ITEM_TOY:ITEM_TOY_AXE]
-[NAME:toy axe:toy axes]
+[NAME:machado de brinquedo:machados de brinquedo]
 [HARD_MAT]
 
 [ITEM_TOY:ITEM_TOY_MINIFORGE]
-[NAME:mini-forge:mini-forges]
+[NAME:mini forja:mini forjas]
 [HARD_MAT]
