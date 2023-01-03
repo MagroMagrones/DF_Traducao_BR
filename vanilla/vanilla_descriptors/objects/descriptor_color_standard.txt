@@ -55,7 +55,7 @@ Most of these are from Wikipedia's color list.  Palettes only support 255 colors
 	[RGB:0:0:255]
 
 [COLOR:BRASS]
-	[NAME:lat„o]
+	[NAME:latão]
 	[WORD:BRASS]
 	[RGB:181:166:66]
 

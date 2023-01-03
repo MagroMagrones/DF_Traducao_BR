@@ -278,7 +278,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	heph
 
 [CREATURE:LEOPARD_SEAL]
-	[DESCRIPTION:Um grande mamifero anfibio predat¢rio.e dificil evitar uma vez na agua.]
+	[DESCRIPTION:Um grande mamifero anfibio predatório.e dificil evitar uma vez na agua.]
 	[NAME:leopard seal:leopard seals:leopard seal]
 	[CASTE_NAME:leopard seal:leopard seals:leopard seal]
 	[CHILD:1][GENERAL_CHILD_NAME:leopard seal pup:leopard seal pups]
@@ -775,7 +775,7 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:giant sponge:giant sponges:giant sponge]
 	[CASTE_NAME:giant sponge:giant sponges:giant sponge]
-	[DESCRIPTION:Uma enorme esponja im¢vel.]
+	[DESCRIPTION:Uma enorme esponja imóvel.]
 	[POPULATION_NUMBER:250:500]
 	[CREATURE_TILE:'S']
 	[COLOR:4:0:1]
@@ -1028,7 +1028,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	Cruxador
 
 [CREATURE:ELEPHANT_SEAL]
-	[DESCRIPTION:Um grande mamifero marinho predat¢rio.]
+	[DESCRIPTION:Um grande mamifero marinho predatório.]
 	[NAME:elephant seal:elephant seals:elephant seal]
 	[CASTE_NAME:elephant seal:elephant seals:elephant seal]
 	[CHILD:1][GENERAL_CHILD_NAME:elephant seal pup:elephant seal pups]

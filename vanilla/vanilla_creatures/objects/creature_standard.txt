@@ -1006,7 +1006,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GOBLIN]
-	[DESCRIPTION:Um human¢ide de tamanho medio dirigido a crueldade por sua natureza maligna.]
+	[DESCRIPTION:Um humanóide de tamanho medio dirigido a crueldade por sua natureza maligna.]
 	[NAME:goblin:goblins:goblin]
 	[CASTE_NAME:goblin:goblins:goblin]
 	[CREATURE_TILE:'g'][COLOR:7:0:0]
@@ -1280,7 +1280,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KOBOLD]
-	[DESCRIPTION:Um pequeno e agachado human¢ide com grandes orelhas pontudas e olhos brilhantes amarelos.]
+	[DESCRIPTION:Um pequeno e agachado humanóide com grandes orelhas pontudas e olhos brilhantes amarelos.]
 	[NAME:kobold:kobolds:kobold]
 	[CASTE_NAME:kobold:kobolds:kobold]
 	[CREATURE_TILE:'k'][COLOR:6:0:0]
@@ -1516,7 +1516,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GREMLIN]
-	[DESCRIPTION:Uma pequena criatura human¢ide com um sorriso malicioso e dentes.]
+	[DESCRIPTION:Uma pequena criatura humanóide com um sorriso malicioso e dentes.]
 	[NAME:gremlin:gremlins:gremlin]
 	[CASTE_NAME:gremlin:gremlins:gremlin]
 	[CREATURE_TILE:'g'][COLOR:2:0:1]
@@ -1710,7 +1710,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:TROLL]
-	[DESCRIPTION:Um enorme monstro human¢ide com pelo grosso, presas grandes e chifres.]
+	[DESCRIPTION:Um enorme monstro humanóide com pelo grosso, presas grandes e chifres.]
 	[NAME:troll:trolls:troll]
 	[CASTE_NAME:troll:trolls:troll]
 	[CREATURE_TILE:'T'][COLOR:0:0:1]
@@ -1912,7 +1912,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:OGRE]
-	[DESCRIPTION:Um monstro human¢ide gigante encontrou pisando nas planicies do mal.Seus uivos baixos podem ser ouvidos muito antes de serem vistos.]
+	[DESCRIPTION:Um monstro humanóide gigante encontrou pisando nas planicies do mal.Seus uivos baixos podem ser ouvidos muito antes de serem vistos.]
 	[NAME:ogre:ogres:ogre]
 	[CASTE_NAME:ogre:ogres:ogre]
 	[CREATURE_TILE:'O'][COLOR:7:0:0]
@@ -2335,7 +2335,7 @@ creature_standard
 		[MELTING_POINT:10000]
 
 [CREATURE:SATYR]
-	[DESCRIPTION:Um human¢ide de tamanho medio com os chifres e pernas de uma cabra.]
+	[DESCRIPTION:Um humanóide de tamanho medio com os chifres e pernas de uma cabra.]
 	[NAME:satyr:satyrs:satyr]
 	[CASTE_NAME:satyr:satyrs:satyr]
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
@@ -2914,7 +2914,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CYCLOPS]
-	[DESCRIPTION:Um monstro human¢ide gigante com um unico olho em sua testa.]
+	[DESCRIPTION:Um monstro humanóide gigante com um unico olho em sua testa.]
 	[NAME:cyclops:cyclopes:cyclops]
 	[CASTE_NAME:cyclops:cyclopes:cyclops]
 	[CREATURE_TILE:'C'][COLOR:4:0:1]
@@ -3161,7 +3161,7 @@ creature_standard
 				[TLCM_NOUN:eye:SINGULAR]
 
 [CREATURE:ETTIN]
-	[DESCRIPTION:Um monstro human¢ide gigante com duas cabecas.]
+	[DESCRIPTION:Um monstro humanóide gigante com duas cabecas.]
 	[NAME:ettin:ettins:ettin]
 	[CASTE_NAME:ettin:ettins:ettin]
 	[CREATURE_TILE:'E'][COLOR:6:0:1]
@@ -3414,7 +3414,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MINOTAUR]
-	[DESCRIPTION:Um monstro human¢ide gigante com a cabeca de um touro.]
+	[DESCRIPTION:Um monstro humanóide gigante com a cabeca de um touro.]
 	[NAME:minotaur:minotaurs:minotaur]
 	[CASTE_NAME:minotaur:minotaurs:minotaur]
 	[CREATURE_TILE:'M'][COLOR:6:0:0]
@@ -3826,7 +3826,7 @@ creature_standard
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:BLIZZARD_MAN]
-	[DESCRIPTION:Um grande monstro human¢ide da tundra selvagem.Possui pele translucida, pingentes de dentes, olhos brilhantes vermelhos e orelhas pontiagudas.]
+	[DESCRIPTION:Um grande monstro humanóide da tundra selvagem.Possui pele translucida, pingentes de dentes, olhos brilhantes vermelhos e orelhas pontiagudas.]
 	[NAME:blizzard man:blizzard men:blizzard man]
 	[CASTE_NAME:blizzard man:blizzard men:blizzard man]
 	[CREATURE_TILE:'M'][COLOR:3:0:1]
@@ -4201,7 +4201,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PIXIE]
-	[DESCRIPTION:Um minusculo human¢ide alado com cores de mudanca que executa dancas aereas intrincadas em grandes grupos.]
+	[DESCRIPTION:Um minusculo humanóide alado com cores de mudanca que executa dancas aereas intrincadas em grandes grupos.]
 	[NAME:pixie:pixies:pixie]
 	[CASTE_NAME:pixie:pixies:pixie]
 	[CREATURE_TILE:250][COLOR:3:0:1]
@@ -4503,7 +4503,7 @@ creature_standard
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:GRIMELING]
-	[DESCRIPTION:Um monstro maligno do pantano.Assemelha -se a um n¢ de ervas daninhas encharcadas, mas vai atingir a vitima inconsciente.]
+	[DESCRIPTION:Um monstro maligno do pantano.Assemelha -se a um nó de ervas daninhas encharcadas, mas vai atingir a vitima inconsciente.]
 	[NAME:grimeling:grimelings:grimeling]
 	[CASTE_NAME:grimeling:grimelings:grimeling]
 	[CREATURE_TILE:'g'][COLOR:2:0:0]

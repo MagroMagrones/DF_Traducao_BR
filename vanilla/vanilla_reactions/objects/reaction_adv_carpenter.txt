@@ -15,7 +15,7 @@ reaction_adv_carpenter
 	[SKILL:CARPENTRY]
 	[CATEGORY:ADV_CARPENTRY]
 	[CATEGORY_NAME:Carpentry]
-	[CATEGORY_DESCRIPTION:Faca m¢veis na oficina de um carpinteiro usando toras e uma ferramenta nitida.]
+	[CATEGORY_DESCRIPTION:Faca móveis na oficina de um carpinteiro usando toras e uma ferramenta nitida.]
 
 [REACTION:MAKE WOODEN TABLE]
 	[NAME:make wooden table]
