@@ -541,7 +541,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:IGUANA]
-	[DESCRIPTION:Um lagarto arbóreo relativamente grande encontrado nas florestas tropicais.Embora seja vegetariano e principalmente dócil, pode chicotear com sua cauda extremamente longa quando irritada.]
+	[DESCRIPTION:Um lagarto arb¢reo relativamente grande encontrado nas florestas tropicais.Embora seja vegetariano e principalmente d¢cil, pode chicotear com sua cauda extremamente longa quando irritada.]
 	[NAME:iguana:iguanas:iguana]
 	[CASTE_NAME:iguana:iguanas:iguana]
 	[CHILD:1][GENERAL_CHILD_NAME:iguana hatchling:iguana hatchlings]

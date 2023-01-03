@@ -881,7 +881,7 @@ Axolotls were sponsored by the generous contributions of the Bay 12 community.
 Minks were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:MINK]
-	[DESCRIPTION:Um pequeno, predatório, semelhante a um mamifero.Tambem e semi-aquatico.]
+	[DESCRIPTION:Um pequeno, predat¢rio, semelhante a um mamifero.Tambem e semi-aquatico.]
 	[NAME:mink:minks:mink]
 	[CASTE_NAME:mink:minks:mink]
 	[GENERAL_CHILD_NAME:mink kit:mink kits]
