@@ -109,7 +109,7 @@ item_pants
 
 [ITEM_PANTS:ITEM_PANTS_BRAIES]
 [PREPLURAL:pares de]
-[NAME:sutiã:sutiãs]
+[NAME:suti„:suti„s]
 [LBSTEP:1]
 [LAYER:UNDER]
 [COVERAGE:100]

@@ -40,7 +40,7 @@ Exploracoes de [NAME]
 Pelo amor de [NAME]
 Fundacoes de [NAME]
 De-me [NAME]
-Ótimo [NO_ART_NAME]
+¢timo [NO_ART_NAME]
 Em busca de [NAME]
 Consultas sobre [NAME]
 Interpretacoes de [NAME]
@@ -75,7 +75,7 @@ O Livro de [NAME]
 O futuro de [NAME]
 O Grande [NO_ART_NAME]
 O significado oculto de [NAME]
-A História de [NAME]
+A Hist¢ria de [NAME]
 A interpretacao de [NAME]
 A Jornada para [NAME]
 O Conhecimento de [NAME]
@@ -106,11 +106,11 @@ Compreendendo [NAME]
 Desconhecido [NO_ART_NAME]
 Incomum [NO_ART_NAME]
 util [NO_ART_NAME]
-Vitória de [NAME]
+Vit¢ria de [NAME]
 [NAME] Depois do Fim
 [NAME] e alem
 [NAME] e mais
-[NAME] e outros tópicos
+[NAME] e outros t¢picos
 [NAME] e outras farsas
 [NAME] e os problemas vindouros
 [NAME] e o Universo
@@ -137,7 +137,7 @@ Vitória de [NAME]
 [NAME], abreviado
 [NAME], minha vida
 [NAME], meu amor
-[NAME]: Uma Breve História
+[NAME]: Uma Breve Hist¢ria
 [NAME]: Uma Breve Introducao
 [NAME]: Uma Nova Abordagem
 [NAME]: Um dilema
@@ -154,8 +154,8 @@ Vitória de [NAME]
 [NAME] pode salvar o mundo?
 Poderia ser [NAME]?
 [NAME] vacilou?
-Nós entendemos [NAME]?
+N¢s entendemos [NAME]?
 Voce conhece [NAME]?
 Primeiro [NAME], depois o mundo!
 O livro [NO_ART_NAME]
-Para [NAME] e Glória!
+Para [NAME] e Gl¢ria!

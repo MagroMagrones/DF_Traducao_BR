@@ -3,7 +3,7 @@ creature_subterranean
 [OBJECT:CREATURE]
 
 [CREATURE:CROCODILE_CAVE]
-	[DESCRIPTION:Um enorme reptil predatório, com escamas palidas e incolores e olhos vermelhos.Ele vive em cavernas e emboscada sua presa.]
+	[DESCRIPTION:Um enorme reptil predat¢rio, com escamas palidas e incolores e olhos vermelhos.Ele vive em cavernas e emboscada sua presa.]
 	[NAME:cave crocodile:cave crocodiles:cave crocodile]
 	[CASTE_NAME:cave crocodile:cave crocodiles:cave crocodile]
 	[CHILD:3][GENERAL_CHILD_NAME:cave crocodile hatchling:cave crocodile hatchlings]
@@ -877,7 +877,7 @@ creature_subterranean
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:IMP_FIRE]
-	[DESCRIPTION:Um pequeno humanóide cercado por fogo que eles podem atirar em seus inimigos.]
+	[DESCRIPTION:Um pequeno human¢ide cercado por fogo que eles podem atirar em seus inimigos.]
 	[NAME:fire imp:fire imps:fire imp]
 	[CASTE_NAME:fire imp:fire imps:fire imp]
 	[CREATURE_TILE:'i'][COLOR:6:0:1]
@@ -1100,7 +1100,7 @@ creature_subterranean
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:SPIDER_CAVE]
-	[DESCRIPTION:Um pequeno inseto subterraneo, procurado por seu tópico.]
+	[DESCRIPTION:Um pequeno inseto subterraneo, procurado por seu t¢pico.]
 	[NAME:cave spider:cave spiders:cave spider]
 	[CASTE_NAME:cave spider:cave spiders:cave spider]
 	[CREATURE_TILE:249][COLOR:7:0:0]
@@ -1268,7 +1268,7 @@ creature_subterranean
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cave fish man:cave fish men:cave fish man]
-	[DESCRIPTION:Uma criatura humanóide com a cabeca de um peixe cego de caverna.Eles vivem em colônias em regioes aquosas no subsolo.]
+	[DESCRIPTION:Uma criatura human¢ide com a cabeca de um peixe cego de caverna.Eles vivem em colônias em regioes aquosas no subsolo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1277,7 +1277,7 @@ creature_subterranean
 	[EXTRAVISION]
 
 [CREATURE:LOBSTER_CAVE]
-	[DESCRIPTION:Um pequeno e palido artrópode encontrado em riachos e lagoas subterraneas.]
+	[DESCRIPTION:Um pequeno e palido artr¢pode encontrado em riachos e lagoas subterraneas.]
 	[NAME:cave lobster:cave lobsters:cave lobster]
 	[CASTE_NAME:cave lobster:cave lobsters:cave lobster]
 	[CREATURE_TILE:157][COLOR:7:0:1]
@@ -1376,7 +1376,7 @@ creature_subterranean
 	[SMELL_TRIGGER:10000] cannot smell
 
 [CREATURE:OLM]
-	[DESCRIPTION:Um pequeno anfibio, encontrado em córregos subterraneos.]
+	[DESCRIPTION:Um pequeno anfibio, encontrado em c¢rregos subterraneos.]
 	[NAME:olm:olms:olm]
 	[CASTE_NAME:olm:olms:olm]
 	[CREATURE_TILE:249][COLOR:7:0:1]
@@ -1589,7 +1589,7 @@ creature_subterranean
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:bat man:bat men:bat man]
-	[DESCRIPTION:Um humanóide com a cabeca de um morcego e asas que se estendem do pulso ao tornozelo.]
+	[DESCRIPTION:Um human¢ide com a cabeca de um morcego e asas que se estendem do pulso ao tornozelo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:20:30]
@@ -1897,7 +1897,7 @@ creature_subterranean
 	[SWIMS_LEARNED]
 
 [CREATURE:ELEMENTMAN_MUD]
-	[DESCRIPTION:Um humanóide feito de lama que vive perto da agua no subsolo.]
+	[DESCRIPTION:Um human¢ide feito de lama que vive perto da agua no subsolo.]
 	[NAME:mud man:mud men:mud man]
 	[CASTE_NAME:mud man:mud men:mud man]
 	[CREATURE_TILE:'M'][COLOR:6:0:0]
@@ -2548,7 +2548,7 @@ creature_subterranean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ANT_MAN]
-	[DESCRIPTION:Um humanóide com a cabeca e o corpo de uma formiga.]
+	[DESCRIPTION:Um human¢ide com a cabeca e o corpo de uma formiga.]
 	[NAME:antman:antmen:antman]
 	[CREATURE_TILE:'a'][COLOR:0:0:1]
 	[LARGE_ROAMING]
@@ -2665,7 +2665,7 @@ creature_subterranean
 		[BODY_SIZE:2:0:20000]
 
 [CREATURE:RODENT MAN]
-	[DESCRIPTION:Um humanóide maligno com uma cauda longa, pelo espesso preto e nariz de contracao.Ele vive muito no subsolo.]
+	[DESCRIPTION:Um human¢ide maligno com uma cauda longa, pelo espesso preto e nariz de contracao.Ele vive muito no subsolo.]
 	[NAME:rodent man:rodent men:rodent man]
 	[CREATURE_TILE:'r'][COLOR:0:0:1]
 	[CREATURE_CLASS:MAMMAL]
