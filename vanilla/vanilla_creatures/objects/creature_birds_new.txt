@@ -9,7 +9,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	In Memory of Half-Beak
 
 [CREATURE:BIRD_CROW]
-	[DESCRIPTION:Um pequeno p√°ssaros preto que se alimenta de carni√ßa. √â social, muito inteligente e sabe usar ferramentas.]
+	[DESCRIPTION:Um pequeno p†ssaros preto que se alimenta de carniáa. ê social, muito inteligente e sabe usar ferramentas.]
 	[NAME:corvo:corvos:corvo]
 	[CASTE_NAME:corvo:corvos:corvo]
 	[GENERAL_CHILD_NAME:filhote de corvo:filhotes de corvos]
@@ -133,7 +133,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-corvo:homens-corvos:homem-corvo]
-	[DESCRIPTION:Uma pessoa pequena com cabe√ßa e asas de corvo.]
+	[DESCRIPTION:Uma pessoa pequena com cabeáa e asas de corvo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -152,7 +152,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[CASTE_NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[GENERAL_CHILD_NAME:filhote de corvo gigante:filhotes de corvos gigantes]
-	[DESCRIPTION:Um grande monstro parecido com um p√°ssaros, ainda mais mortal quando encontrado em grupos.]
+	[DESCRIPTION:Um grande monstro parecido com um p†ssaros, ainda mais mortal quando encontrado em grupos.]
 	[POPULATION_NUMBER:30:50]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'C']
@@ -175,7 +175,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	Thes33 - "Neverdwarf."
 
 [CREATURE:BIRD_RAVEN]
-	[DESCRIPTION:Um pequeno e sinistro p√°ssaros preto que se alimenta de carni√ßa. √â social, muito inteligente e sabe usar ferramentas.]
+	[DESCRIPTION:Um pequeno e sinistro p†ssaros preto que se alimenta de carniáa. ê social, muito inteligente e sabe usar ferramentas.]
 	[NAME:corvo:corvos:corvo]
 	[CASTE_NAME:corvo:corvos:corvo]
 	[GENERAL_CHILD_NAME:filhote de corvo:filhotes de corvos]
@@ -302,7 +302,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-corvo:homens-corvos:homem-corvo]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de corvo.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de corvo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -321,7 +321,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[CASTE_NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[GENERAL_CHILD_NAME:filhote de corvo gigante:filhotes de corvos gigantes]
-	[DESCRIPTION:Um grande monstro parecido com um p√°ssaros, ainda mais mortal quando encontrado em grupos.]
+	[DESCRIPTION:Um grande monstro parecido com um p†ssaros, ainda mais mortal quando encontrado em grupos.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:3:5]
 	[CREATURE_TILE:'R']
@@ -343,7 +343,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	culling66
 
 [CREATURE:BIRD_CASSOWARY]
-	[DESCRIPTION:Um p√°ssaros pequeno, incapaz de voar e de cores vivas.]
+	[DESCRIPTION:Um p†ssaros pequeno, incapaz de voar e de cores vivas.]
 	[NAME:casuar:casuares:casuares]
 	[CASTE_NAME:casuar:casuares:casuares]
 	[CHILD:1][GENERAL_CHILD_NAME:filhote de casuar:filhotes de casuares]
@@ -456,7 +456,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-casuar:homens-casuares:homem-casuar]
-	[DESCRIPTION:Uma pessoa de cores vivas com a cabe√ßa de um Casuar.]
+	[DESCRIPTION:Uma pessoa de cores vivas com a cabeáa de um Casuar.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -619,7 +619,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-papagaio:homens-papagaios:homem-papagaio]
-	[DESCRIPTION:Uma pessoa verde com a cabe√ßa de um Papagaio.]
+	[DESCRIPTION:Uma pessoa verde com a cabeáa de um Papagaio.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -661,7 +661,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	Errol
 
 [CREATURE:BIRD_OWL_SNOWY]
-	[DESCRIPTION:Um pequeno p√°ssaros branco que ca√ßa nas regi√µes mais frias do mundo.]
+	[DESCRIPTION:Um pequeno p†ssaros branco que caáa nas regi‰es mais frias do mundo.]
 	[NAME:coruja-das-neves:corujas-das-neves:coruja-das-neves]
 	[CASTE_NAME:coruja-das-neves:corujas-das-neves:coruja-das-neves]
 	[GENERAL_CHILD_NAME:filhote de coruja-das-neves:filhotes de corujas-das-neves]
@@ -786,7 +786,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-coruja-das-neves:homens-corujas-das-neves:homem-coruja-das-neves]
-	[DESCRIPTION:Uma pessoa com asas e cabe√ßa de uma coruja branca.]
+	[DESCRIPTION:Uma pessoa com asas e cabeáa de uma coruja branca.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -805,7 +805,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:coruja-das-neves gigante:corujas-das-neves gigantes:coruja-das-neves gigante]
 	[CASTE_NAME:coruja-das-neves gigante:corujas-das-neves gigantes:coruja-das-neves gigante]
 	[GENERAL_CHILD_NAME:filhote de coruja-das-neves gigante:filhotes de corujas-das-neves gigante]
-	[DESCRIPTION:Um grande monstro p√°ssaros na forma de uma coruja das neves.]
+	[DESCRIPTION:Um grande monstro p†ssaros na forma de uma coruja das neves.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'O']
 	[COLOR:7:0:1]
@@ -827,7 +827,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	spuggie
 
 [CREATURE:SPARROW]
-	[DESCRIPTION:Um pequeno p√°ssaros marrom que pode ser encontrado na maioria das regioes temperadas.]
+	[DESCRIPTION:Um pequeno p†ssaros marrom que pode ser encontrado na maioria das regioes temperadas.]
 	[NAME:sparrow:sparrows:sparrow]
 	[CASTE_NAME:sparrow:sparrows:sparrow]
 	[GENERAL_CHILD_NAME:sparrow hatchling:sparrow hatchlings]
@@ -953,7 +953,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:sparrow man:sparrow men:sparrow man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de pardal.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de pardal.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -972,7 +972,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant sparrow:giant sparrows:giant sparrow]
 	[CASTE_NAME:giant sparrow:giant sparrows:giant sparrow]
 	[GENERAL_CHILD_NAME:giant sparrow hatchling:giant sparrow hatchlings]
-	[DESCRIPTION:Um grande monstro parecido com um p√°ssaros na forma de um pardal.]
+	[DESCRIPTION:Um grande monstro parecido com um p†ssaros na forma de um pardal.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'S']
@@ -995,7 +995,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	"From Alsace, with love."
 
 [CREATURE:BIRD_STORK_WHITE]
-	[DESCRIPTION:Um pequeno p√°ssaros com pernas e bico longos e uma envergadura extremamente longa.]
+	[DESCRIPTION:Um pequeno p†ssaros com pernas e bico longos e uma envergadura extremamente longa.]
 	[NAME:white stork:white storks:white stork]
 	[CASTE_NAME:white stork:white storks:white stork]
 	[CHILD:1][GENERAL_CHILD_NAME:white stork hatchling:white stork hatchlings]
@@ -1102,7 +1102,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:white stork man:white stork men:white stork man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de cegonha, tambem de pe sobre pernas longas.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de cegonha, tambem de pe sobre pernas longas.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -1145,7 +1145,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Klokwurk. You can't get better than awesome!
 
 [CREATURE:BIRD_LOON]
-	[DESCRIPTION:Uma pequena ave aquatica encontrada em lagos remotos. √â conhecido por seu canto assustador.]
+	[DESCRIPTION:Uma pequena ave aquatica encontrada em lagos remotos. ê conhecido por seu canto assustador.]
 	[NAME:loon:loons:loon]
 	[CASTE_NAME:loon:loons:loon]
 	[CHILD:1][GENERAL_CHILD_NAME:loon chick:loon chicks]
@@ -1252,7 +1252,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:loon man:loon men:loon man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Mergulh√£o.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Mergulh∆o.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1271,7 +1271,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant loon:giant loons:giant loon]
 	[CASTE_NAME:giant loon:giant loons:giant loon]
 	[GENERAL_CHILD_NAME:giant loon chick:giant loon chicks]
-	[DESCRIPTION:Um grande monstro em forma de mergulh√£o.]
+	[DESCRIPTION:Um grande monstro em forma de mergulh∆o.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:4]
 	[CREATURE_TILE:'L']
@@ -1293,7 +1293,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	Glaucus - "Only when the dusk starts to fall does the owl of Minerva spread its wings and fly."
 
 [CREATURE:BIRD_OWL_BARN]
-	[DESCRIPTION:Uma pequena ave de rapina noturna encontrada em regi√µes florestais. Sua fome de roedores o leva a residir em edificios.]
+	[DESCRIPTION:Uma pequena ave de rapina noturna encontrada em regi‰es florestais. Sua fome de roedores o leva a residir em edificios.]
 	[NAME:barn owl:barn owls:barn owl]
 	[CASTE_NAME:barn owl:barn owls:barn owl]
 	[GENERAL_CHILD_NAME:barn owl chick:barn owl chicks]
@@ -1421,7 +1421,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:barn owl man:barn owl men:barn owl man]
-	[DESCRIPTION:Uma pessoa com os bra√ßos e asas de uma Suindara.]
+	[DESCRIPTION:Uma pessoa com os braáos e asas de uma Suindara.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1461,7 +1461,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	Spinner
 
 [CREATURE:BIRD_PARAKEET]
-	[DESCRIPTION:Um min√∫sculo papagaio encontrado em bandos de muitas centenas. Aves excepcionais podem ser ensinadas a falar.]
+	[DESCRIPTION:Um min£sculo papagaio encontrado em bandos de muitas centenas. Aves excepcionais podem ser ensinadas a falar.]
 	[NAME:parakeet:parakeets:parakeet]
 	[CASTE_NAME:parakeet:parakeets:parakeet]
 	[GENERAL_CHILD_NAME:parakeet hatchling:parakeet hatchlings]
@@ -1584,7 +1584,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:parakeet man:parakeet men:parakeet man]
-	[DESCRIPTION:Pessoa com cabe√ßa e asas de periquito.]
+	[DESCRIPTION:Pessoa com cabeáa e asas de periquito.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1625,7 +1625,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	You've just been shagged by a rare parrot!
 
 [CREATURE:BIRD_KAKAPO]
-	[DESCRIPTION:Um pequeno papagaio verde que n√£o voa. √â noturno e conta-se entre os p√°ssaross mais longevos.]
+	[DESCRIPTION:Um pequeno papagaio verde que n∆o voa. ê noturno e conta-se entre os p†ssaross mais longevos.]
 	[NAME:kakapo:kakapo:kakapo]
 	[CASTE_NAME:kakapo:kakapo:kakapo]
 	[CHILD:7][GENERAL_CHILD_NAME:kakapo chick:kakapo chicks]
@@ -1733,7 +1733,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kakapo man:kakapo men:kakapo man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Papagaio-Kakapo.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Papagaio-Kakapo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1774,7 +1774,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	Rainseeker's bird Maggie
 
 [CREATURE:BIRD_PARROT_GREY]
-	[DESCRIPTION:O mais inteligente dos p√°ssaross. Pode ser encontrado na floresta tropical.]
+	[DESCRIPTION:O mais inteligente dos p†ssaross. Pode ser encontrado na floresta tropical.]
 	[NAME:grey parrot:grey parrots:grey parrot]
 	[CASTE_NAME:grey parrot:grey parrots:grey parrot]
 	[CHILD:1][GENERAL_CHILD_NAME:grey parrot chick:grey parrot chicks]
@@ -1881,7 +1881,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:grey parrot man:grey parrot men:grey parrot man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de um papagaio cinza.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de um papagaio cinza.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:3:5]
 	[MAXAGE:60:80]
@@ -1922,7 +1922,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored on behalf of Ekaterina Puffini
 
 [CREATURE:BIRD_PUFFIN]
-	[DESCRIPTION:Um pequeno p√°ssaros mergulhador encontrado vivendo em penhascos a beira-mar em climas mais frios.]
+	[DESCRIPTION:Um pequeno p†ssaros mergulhador encontrado vivendo em penhascos a beira-mar em climas mais frios.]
 	[NAME:puffin:puffins:puffin]
 	[CASTE_NAME:puffin:puffins:puffin]
 	[CHILD:1][GENERAL_CHILD_NAME:puffin chick:puffin chicks]
@@ -2026,7 +2026,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:puffin man:puffin men:puffin man]
-	[DESCRIPTION:Uma pessoa emplumada com a cabe√ßa de um papagaio-do-mar.]
+	[DESCRIPTION:Uma pessoa emplumada com a cabeáa de um papagaio-do-mar.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2171,7 +2171,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:swan man:swan men:swan man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de cisne.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de cisne.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:2]
 	[MAXAGE:60:80]
@@ -2331,7 +2331,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:lorikeet man:lorikeet men:lorikeet man]
-	[DESCRIPTION:Uma pessoa colorida com a cabe√ßa e as asas de um Papagaio-Lorikeet.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeáa e as asas de um Papagaio-Lorikeet.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2372,7 +2372,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	St. Stephen
 
 [CREATURE:BIRD_WREN]
-	[DESCRIPTION:Um pequeno p√°ssaros marrom dado a cantar canc√µes complexas.]
+	[DESCRIPTION:Um pequeno p†ssaros marrom dado a cantar canc‰es complexas.]
 	[NAME:wren:wrens:wren]
 	[CASTE_NAME:wren:wrens:wren]
 	[GENERAL_CHILD_NAME:wren hatchling:wren hatchlings]
@@ -2496,7 +2496,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:wren man:wren men:wren man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Carrica.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Carrica.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2536,7 +2536,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	Saga Stigsdotter
 
 [CREATURE:BIRD_OSPREY]
-	[DESCRIPTION:Uma pequena ave de rapina com manchas pretas nos olhos. Ele ca√ßa perto de corpos d agua.]
+	[DESCRIPTION:Uma pequena ave de rapina com manchas pretas nos olhos. Ele caáa perto de corpos d agua.]
 	[NAME:osprey:ospreys:osprey]
 	[CASTE_NAME:osprey:ospreys:osprey]
 	[GENERAL_CHILD_NAME:osprey chick:osprey chicks]
@@ -2663,7 +2663,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:osprey man:osprey men:osprey man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de aguia-pesqueira.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de aguia-pesqueira.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2702,7 +2702,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	Pangaron
 
 [CREATURE:BIRD_EMU]
-	[DESCRIPTION:Um grande p√°ssaros que n√£o voa. √â muito curioso e sabe-se que segue outras criaturas.]
+	[DESCRIPTION:Um grande p†ssaros que n∆o voa. ê muito curioso e sabe-se que segue outras criaturas.]
 	[NAME:emu:emus:emu]
 	[CASTE_NAME:emu:emus:emu]
 	[CHILD:1][GENERAL_CHILD_NAME:emu chick:emu chicks]
@@ -2818,7 +2818,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:emu man:emu men:emu man]
-	[DESCRIPTION:Uma pessoa emplumada com cabe√ßa de Ema.]
+	[DESCRIPTION:Uma pessoa emplumada com cabeáa de Ema.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2857,7 +2857,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	To Beth, from Andy
 
 [CREATURE:BIRD_COCKATIEL]
-	[DESCRIPTION:Um pequeno papagaio com crista. Eles s√£o valorizados como companheiros domesticos.]
+	[DESCRIPTION:Um pequeno papagaio com crista. Eles s∆o valorizados como companheiros domesticos.]
 	[NAME:cockatiel:cockatiels:cockatiel]
 	[CASTE_NAME:cockatiel:cockatiels:cockatiel]
 	[GENERAL_CHILD_NAME:cockatiel hatchling:cockatiel hatchlings]
@@ -2977,7 +2977,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cockatiel man:cockatiel men:cockatiel man]
-	[DESCRIPTION:Uma pessoa com crista com cabe√ßa e asas de calopsita.]
+	[DESCRIPTION:Uma pessoa com crista com cabeáa e asas de calopsita.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3015,7 +3015,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_LOVEBIRD_PEACH-FACED]
-	[DESCRIPTION:Um pequeno papagaio de cores vivas. Eles s√£o espertos e aprendem muitos truques.]
+	[DESCRIPTION:Um pequeno papagaio de cores vivas. Eles s∆o espertos e aprendem muitos truques.]
 	[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
 	[CASTE_NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
 	[GENERAL_CHILD_NAME:peach-faced lovebird hatchling:peach-faced lovebird hatchlings]
@@ -3137,7 +3137,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:peach-faced lovebird man:peach-faced lovebird men:peach-faced lovebird man]
-	[DESCRIPTION:Uma pessoa colorida com a cabe√ßa e as asas de um pombinho cor de pessego.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeáa e as asas de um pombinho cor de pessego.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3177,7 +3177,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	harakka
 
 [CREATURE:BIRD_MAGPIE]
-	[DESCRIPTION:Um pequeno p√°ssaros preto e branco. √â uma das criaturas naturais mais inteligentes.]
+	[DESCRIPTION:Um pequeno p†ssaros preto e branco. ê uma das criaturas naturais mais inteligentes.]
 	[NAME:magpie:magpies:magpie]
 	[CASTE_NAME:magpie:magpies:magpie]
 	[GENERAL_CHILD_NAME:magpie hatchling:magpie hatchlings]
@@ -3299,7 +3299,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:magpie man:magpie men:magpie man]
-	[DESCRIPTION:Pessoa com cabe√ßa e asas de Pega.]
+	[DESCRIPTION:Pessoa com cabeáa e asas de Pega.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -3466,7 +3466,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kestrel man:kestrel men:kestrel man]
-	[DESCRIPTION:Pessoa com cabe√ßa e asas de Francelho.]
+	[DESCRIPTION:Pessoa com cabeáa e asas de Francelho.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -3610,7 +3610,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:albatross man:albatross men:albatross man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Pelicano.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Pelicano.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:10]
 	[MAXAGE:60:80]
@@ -3780,7 +3780,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:great horned owl man:great horned owl men:great horned owl man]
-	[DESCRIPTION:Uma pessoa emplumada com cabe√ßa e asas de uma grande coruja com chifres.]
+	[DESCRIPTION:Uma pessoa emplumada com cabeáa e asas de uma grande coruja com chifres.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3948,7 +3948,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:eagle man:eagle men:eagle man]
-	[DESCRIPTION:Uma pessoa emplumada com cabe√ßa e asas de aguia.]
+	[DESCRIPTION:Uma pessoa emplumada com cabeáa e asas de aguia.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -3987,7 +3987,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Hornbill Interactive - Jim Regan / balrogkernel
 
 [CREATURE:BIRD_HORNBILL]
-	[DESCRIPTION:Um p√°ssaros min√∫sculo com um bico grande e colorido.]
+	[DESCRIPTION:Um p†ssaros min£sculo com um bico grande e colorido.]
 	[NAME:hornbill:hornbills:hornbill]
 	[CASTE_NAME:hornbill:hornbills:hornbill]
 	[GENERAL_CHILD_NAME:hornbill chick:hornbill chicks]
@@ -4126,7 +4126,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant hornbill:giant hornbills:giant hornbill]
 	[CASTE_NAME:giant hornbill:giant hornbills:giant hornbill]
 	[GENERAL_CHILD_NAME:giant hornbill chick:giant hornbill chicks]
-	[DESCRIPTION:Um enorme monstro em forma de p√°ssaros Calau.]
+	[DESCRIPTION:Um enorme monstro em forma de p†ssaros Calau.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'H']
 	[COLOR:0:0:1]
@@ -4146,7 +4146,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	From Jake, for my lovebird Heather.
 
 [CREATURE:BIRD_LOVEBIRD_MASKED]
-	[DESCRIPTION:Um p√°ssaros min√∫sculo e colorido. Pode ser treinado para ser um companheiro agradavel.]
+	[DESCRIPTION:Um p†ssaros min£sculo e colorido. Pode ser treinado para ser um companheiro agradavel.]
 	[NAME:masked lovebird:masked lovebirds:masked lovebird]
 	[CASTE_NAME:masked lovebird:masked lovebirds:masked lovebird]
 	[GENERAL_CHILD_NAME:masked lovebird hatchling:masked lovebird hatchlings]
@@ -4265,7 +4265,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:masked lovebird man:masked lovebird men:masked lovebird man]
-	[DESCRIPTION:Uma pessoa colorida com a cabe√ßa e as asas de um pombinho mascarado.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeáa e as asas de um pombinho mascarado.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -4303,7 +4303,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 Bushtits were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_BUSHTIT]
-	[DESCRIPTION:Um pequeno p√°ssaros marrom encontrado em florestas abertas.]
+	[DESCRIPTION:Um pequeno p†ssaros marrom encontrado em florestas abertas.]
 	[NAME:bushtit:bushtits:bushtit]
 	[CASTE_NAME:bushtit:bushtits:bushtit]
 	[GENERAL_CHILD_NAME:bushtit hatchling:bushtit hatchlings]
@@ -4423,7 +4423,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:bushtit man:bushtit men:bushtit man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Bushtit.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Bushtit.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

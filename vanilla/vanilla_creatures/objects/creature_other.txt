@@ -240,7 +240,7 @@ creature_other
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WAMBLER_FLUFFY]
-	[DESCRIPTION:Um ser fofo e cheio de cardapio, conhecido por seu corac√£o quente e tropecos.]
+	[DESCRIPTION:Um ser fofo e cheio de cardapio, conhecido por seu corac∆o quente e tropecos.]
 	[NAME:fluffy wambler:fluffy wamblers:fluffy wambler]
 	[CASTE_NAME:fluffy wambler:fluffy wamblers:fluffy wambler]
 	[CREATURE_TILE:249][COLOR:7:0:1]
@@ -393,7 +393,7 @@ creature_other
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WORM_KNUCKLE]
-	[DESCRIPTION:Uma pequena criatura composta por uma serie de bot√µes crepitantes em angulos estranhos.]
+	[DESCRIPTION:Uma pequena criatura composta por uma serie de bot‰es crepitantes em angulos estranhos.]
 	[NAME:knuckle worm:knuckle worms:knuckle worm]
 	[CASTE_NAME:knuckle worm:knuckle worms:knuckle worm]
 	[CREATURE_TILE:'~'][COLOR:0:0:1]
@@ -567,7 +567,7 @@ creature_other
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GNAT_BLOOD]
-	[DESCRIPTION:Um inseto min√∫sculo com um corpo pulsante e irregular.e um bug mal que busca sangue.]
+	[DESCRIPTION:Um inseto min£sculo com um corpo pulsante e irregular.e um bug mal que busca sangue.]
 	[NAME:blood gnat:blood gnats:blood gnat]
 	[CASTE_NAME:blood gnat:blood gnats:blood gnat]
 	[CREATURE_TILE:250][COLOR:4:0:1]

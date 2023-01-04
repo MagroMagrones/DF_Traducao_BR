@@ -98,7 +98,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:lizard man:lizard men:lizard man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e a cauda de um lagarto.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de um lagarto.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -235,7 +235,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:skink man:skink men:skink man]
-	[DESCRIPTION:Uma pessoa de corpo ha muito tempo com a cabe√ßa e a cauda de um skink.]
+	[DESCRIPTION:Uma pessoa de corpo ha muito tempo com a cabeáa e a cauda de um skink.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -269,7 +269,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:CHAMELEON]
-	[DESCRIPTION:Um lagarto colorido que passa seus insetos de ca√ßa a vida com sua lingua comprida.Ele se move lentamente atraves das arvores, espionando os arredores com seus olhos itinerantes independentemente.]
+	[DESCRIPTION:Um lagarto colorido que passa seus insetos de caáa a vida com sua lingua comprida.Ele se move lentamente atraves das arvores, espionando os arredores com seus olhos itinerantes independentemente.]
 	[NAME:chameleon:chameleons:chameleon]
 	[CASTE_NAME:chameleon:chameleons:chameleon]
 	[CREATURE_TILE:249][COLOR:2:0:1]
@@ -372,7 +372,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:chameleon man:chameleon men:chameleon man]
-	[DESCRIPTION:Uma pessoa colorida com a cabe√ßa e a cauda de um camale√£o.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeáa e a cauda de um camale∆o.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -390,7 +390,7 @@ creature_reptiles
 	[GO_TO_START]
 	[NAME:giant chameleon:giant chameleons:giant chameleon]
 	[CASTE_NAME:giant chameleon:giant chameleons:giant chameleon]
-	[DESCRIPTION:Um grande monstro na forma de um camale√£o.]
+	[DESCRIPTION:Um grande monstro na forma de um camale∆o.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
@@ -506,7 +506,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:anole man:anole men:anole man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e a cauda de um anole.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de um anole.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -541,7 +541,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:IGUANA]
-	[DESCRIPTION:Um lagarto arb√≥reo relativamente grande encontrado nas florestas tropicais.Embora seja vegetariano e principalmente d√≥cil, pode chicotear com sua cauda extremamente longa quando irritada.]
+	[DESCRIPTION:Um lagarto arb¢reo relativamente grande encontrado nas florestas tropicais.Embora seja vegetariano e principalmente d¢cil, pode chicotear com sua cauda extremamente longa quando irritada.]
 	[NAME:iguana:iguanas:iguana]
 	[CASTE_NAME:iguana:iguanas:iguana]
 	[CHILD:1][GENERAL_CHILD_NAME:iguana hatchling:iguana hatchlings]
@@ -650,7 +650,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:iguana man:iguana men:iguana man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e a cauda de uma iguana.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de uma iguana.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]

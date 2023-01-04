@@ -8,7 +8,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	Doug Treder and sons
 
 [CREATURE:WOLVERINE]
-	[DESCRIPTION:Uma criatura pequena, musculosa, parecida com uma doninha. √â conhecido por sua ferocidade.]
+	[DESCRIPTION:Uma criatura pequena, musculosa, parecida com uma doninha. ê conhecido por sua ferocidade.]
 	[NAME:wolverine:wolverines:wolverine]
 	[CASTE_NAME:wolverine:wolverines:wolverine]
 	[CHILD:1][GENERAL_CHILD_NAME:wolverine kit:wolverine kits]
@@ -130,7 +130,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:wolverine man:wolverine men:wolverine man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e cauda de carcaju.]
+	[DESCRIPTION:Uma pessoa com cabeáa e cauda de carcaju.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -168,7 +168,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 Chinchillas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:CHINCHILLA]
-	[DESCRIPTION:Um min√∫sculo roedor peludo habitando as fendas ocas das rochas. Eles podem ser encontrados no alto das montanhas.]
+	[DESCRIPTION:Um min£sculo roedor peludo habitando as fendas ocas das rochas. Eles podem ser encontrados no alto das montanhas.]
 	[NAME:chinchilla:chinchillas:chinchilla]
 	[CASTE_NAME:chinchilla:chinchillas:chinchilla]
 	[CHILD:1][GENERAL_CHILD_NAME:chinchilla kit:chinchilla kits]
@@ -276,7 +276,7 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:chinchilla man:chinchilla men:chinchilla man]
-	[DESCRIPTION:Uma pessoa peluda com cabe√ßa e cauda de chinchila.]
+	[DESCRIPTION:Uma pessoa peluda com cabeáa e cauda de chinchila.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:3:5]
 	[MAXAGE:60:80]

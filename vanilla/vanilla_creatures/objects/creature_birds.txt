@@ -3,7 +3,7 @@ creature_birds
 [OBJECT:CREATURE]
 
 [CREATURE:BIRD_BLUEJAY]
-	[DESCRIPTION:Um pequeno p√°ssaro de crista azul que vive em florestas temperadas, conhecido por seu canto √°spero.]
+	[DESCRIPTION:Um pequeno p†ssaro de crista azul que vive em florestas temperadas, conhecido por seu canto †spero.]
 	[NAME:gaio azul:gaios azuis:gaio azul]
 	[CASTE_NAME:gaio azul:gaios azuis:gaio azul]
 	[GENERAL_CHILD_NAME:gaio azul filhote:gaios azuis filhotes]
@@ -127,7 +127,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem gaio azul:homens gaio azul:homem gaio azul]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de gaio azul.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de gaio azul.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -163,7 +163,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BIRD_CARDINAL]
-	[DESCRIPTION:Um pequeno p√°ssaro vermelho brilhante com uma crista distinta, encontrado em florestas temperadas.]
+	[DESCRIPTION:Um pequeno p†ssaro vermelho brilhante com uma crista distinta, encontrado em florestas temperadas.]
 	[NAME:cardeal:cardeais:cardeal]
 	[CASTE_NAME:cardeal:cardeais:cardeal]
 	[GENERAL_CHILD_NAME:cardeal filhote:cardeais filhotes]
@@ -286,7 +286,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem cardeal:homens cardeal:homem cardeal]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Cardeal.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Cardeal.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -322,7 +322,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BIRD_GRACKLE]
-	[DESCRIPTION:Uma pequena ave greg√°ria, azul e preta com olhos amarelos, encontrada em pastagens temperadas.]
+	[DESCRIPTION:Uma pequena ave greg†ria, azul e preta com olhos amarelos, encontrada em pastagens temperadas.]
 	[CASTE_NAME:gralha:gralhas:gralha]
 	[GENERAL_CHILD_NAME:gralha filhote:gralhas filhotes]
 	[CREATURE_TILE:249][COLOR:0:0:1]
@@ -441,7 +441,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem gralha:homens gralha:homem gralha]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Gralha.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Gralha.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -477,7 +477,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BIRD_ORIOLE]
-	[DESCRIPTION:Um pequeno p√°ssaro amarelo e preto. Eles se alimentam no dossel da floresta.]
+	[DESCRIPTION:Um pequeno p†ssaro amarelo e preto. Eles se alimentam no dossel da floresta.]
 	[NAME:papa-figo:papa-figos:papa-figo]
 	[CASTE_NAME:papa-figo:papa-figos:papa-figo]
 	[GENERAL_CHILD_NAME:papa-figo filhote:papa-figos filhotes]
@@ -596,7 +596,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem papa-figo:homens papa-figo:homem papa-figo]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Papa-Figo.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Papa-Figo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -632,7 +632,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BIRD_RW_BLACKBIRD]
-	[DESCRIPTION:Um pequeno p√°ssaros preto com marcas vermelhas brilhantes sob as asas. Eles vivem no pantano.]
+	[DESCRIPTION:Um pequeno p†ssaros preto com marcas vermelhas brilhantes sob as asas. Eles vivem no pantano.]
 	[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[GENERAL_CHILD_NAME:red-winged blackbird hatchling:red-winged blackbird hatchlings]
@@ -752,7 +752,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:red-winged blackbird man:red-winged blackbird men:red-winged blackbird man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e asas de Melro de asas vermelhas.]
+	[DESCRIPTION:Uma pessoa com cabeáa e asas de Melro de asas vermelhas.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -798,7 +798,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	Theq629
 
 [CREATURE:BIRD_PENGUIN] (based on Magellanic penguin like the ones in the local zoo, while we only have 3 kinds)
-	[DESCRIPTION:Um pequeno p√°ssaros que n√£o voa que vive nas costas articas.]
+	[DESCRIPTION:Um pequeno p†ssaros que n∆o voa que vive nas costas articas.]
 	[NAME:penguin:penguins:penguin]
 	[CASTE_NAME:penguin:penguins:penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:penguin chick:penguin chicks]
@@ -893,7 +893,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_LITTLE]
-	[DESCRIPTION:Um pequeno p√°ssaros que n√£o voa, de cor azul, que vive nas costas articas.]
+	[DESCRIPTION:Um pequeno p†ssaros que n∆o voa, de cor azul, que vive nas costas articas.]
 	[NAME:little penguin:little penguins:little penguin]
 	[CASTE_NAME:little penguin:little penguins:little penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:little penguin chick:little penguin chicks]
@@ -989,7 +989,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_EMPEROR]
-	[DESCRIPTION:Um pequeno p√°ssaros que n√£o voa, √© o maior dos pinguins naturais. √â conhecida por suas caminhadas por leguas de gelo glacial.]
+	[DESCRIPTION:Um pequeno p†ssaros que n∆o voa, Ç o maior dos pinguins naturais. ê conhecida por suas caminhadas por leguas de gelo glacial.]
 	[NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:emperor penguin chick:emperor penguin chicks]
@@ -1107,7 +1107,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:penguin man:penguin men:penguin man]
-	[DESCRIPTION:Um humanoide com cabe√ßa, pes e penas de pinguim.]
+	[DESCRIPTION:Um humanoide com cabeáa, pes e penas de pinguim.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1290,7 +1290,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:peregrine falcon man:peregrine falcon men:peregrine falcon man]
-	[DESCRIPTION:Pessoa com cabe√ßa e asas de Falc√£o peregrino.]
+	[DESCRIPTION:Pessoa com cabeáa e asas de Falc∆o peregrino.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1308,7 +1308,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[GO_TO_START]
 	[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]
 	[GENERAL_CHILD_NAME:giant peregrine falcon chick:giant peregrine falcon chicks]
-	[DESCRIPTION:Um grande monstro p√°ssaros que tem a mesma forma de um falc√£o peregrino.]
+	[DESCRIPTION:Um grande monstro p†ssaros que tem a mesma forma de um falc∆o peregrino.]
 	[CREATURE_TILE:'P']
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
@@ -1334,7 +1334,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	Gregory Kampjes, McLovin
 
 [CREATURE:BIRD_KIWI]
-	[DESCRIPTION:Um pequeno p√°ssaros marrom que n√£o voa. Come insetos e larvas e √© conhecido por seu olfato agucado.]
+	[DESCRIPTION:Um pequeno p†ssaros marrom que n∆o voa. Come insetos e larvas e Ç conhecido por seu olfato agucado.]
 	[NAME:kiwi:kiwis:kiwi]
 	[CHILD:1][GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]
 	[CREATURE_TILE:'k'][COLOR:6:0:0]
@@ -1446,7 +1446,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kiwi man:kiwi men:kiwi man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa e penas de Kiwi.]
+	[DESCRIPTION:Uma pessoa com cabeáa e penas de Kiwi.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1492,7 +1492,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	Tristan Hayes
 
 [CREATURE:BIRD_OSTRICH]
-	[DESCRIPTION:Uma grande ave que n√£o voa que corre pela savana. Tem um longo pescoco e pernas.]
+	[DESCRIPTION:Uma grande ave que n∆o voa que corre pela savana. Tem um longo pescoco e pernas.]
 	[NAME:ostrich:ostriches:ostrich]
 	[CHILD:1][GENERAL_CHILD_NAME:ostrich chick:ostrich chicks]
 	[CREATURE_TILE:'O'][COLOR:0:0:1]
@@ -1629,7 +1629,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:ostrich man:ostrich men:ostrich man]
-	[DESCRIPTION:Esta √© uma criatura de tamanho medio com pernas e bra√ßos, mas o longo pescoco e cabe√ßa de um avestruz.]
+	[DESCRIPTION:Esta Ç uma criatura de tamanho medio com pernas e braáos, mas o longo pescoco e cabeáa de um avestruz.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1646,7 +1646,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:giant ostrich:giant ostriches:giant ostrich]
 	[GENERAL_CHILD_NAME:giant ostrich chick:giant ostrich chicks]
-	[DESCRIPTION:Um enorme monstro p√°ssaros com pernas e pescoco extremamente longos.]
+	[DESCRIPTION:Um enorme monstro p†ssaros com pernas e pescoco extremamente longos.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:10] should be seasonal
 	[CREATURE_TILE:'O']

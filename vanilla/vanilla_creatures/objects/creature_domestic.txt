@@ -123,7 +123,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CAT]
-	[DESCRIPTION:Um pequeno mamifero carnivoro. Geralmente √© domestico e ca√ßa vermes.]
+	[DESCRIPTION:Um pequeno mamifero carnivoro. Geralmente Ç domestico e caáa vermes.]
 	[NAME:cat:cats:feline]
 	[CASTE_NAME:cat:cats:feline]
 	[CREATURE_TILE:'c'][COLOR:0:0:1]
@@ -363,7 +363,7 @@ creature_domestic
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:DONKEY]
-	[DESCRIPTION:Um herbivoro de tamanho medio e cascos. Alguns s√£o domesticados como bestas de carga.]
+	[DESCRIPTION:Um herbivoro de tamanho medio e cascos. Alguns s∆o domesticados como bestas de carga.]
 	[NAME:donkey:donkeys:asinine]
 	[CASTE_NAME:donkey:donkeys:asinine]
 	[CHILD:1][GENERAL_CHILD_NAME:donkey foal:donkey foals]
@@ -477,7 +477,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HORSE]
-	[DESCRIPTION:Um grande herbivoro com cascos. Eles podem correr rapidamente e muitos s√£o domesticados como corceis.]
+	[DESCRIPTION:Um grande herbivoro com cascos. Eles podem correr rapidamente e muitos s∆o domesticados como corceis.]
 	[NAME:horse:horses:equine]
 	[CASTE_NAME:horse:horses:equine]
 	[CREATURE_TILE:'H'][COLOR:7:0:0]
@@ -595,7 +595,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COW]
-	[DESCRIPTION:Um grande mamifero herbivoro. Eles costumam ter chifres grandes e os machos s√£o mal-humorados. Eles s√£o domesticados para leite e carne.]
+	[DESCRIPTION:Um grande mamifero herbivoro. Eles costumam ter chifres grandes e os machos s∆o mal-humorados. Eles s∆o domesticados para leite e carne.]
 	[NAME:cow:cows:bovine]
 	[CASTE_NAME:cow:cows:bovine]
 	[CREATURE_TILE:'C'][COLOR:6:0:0]
@@ -724,7 +724,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHEEP]
-	[DESCRIPTION:Um animal de pastoreio de tamanho medio. √â valorizado por seu casaco de la grossa.]
+	[DESCRIPTION:Um animal de pastoreio de tamanho medio. ê valorizado por seu casaco de la grossa.]
 	[NAME:sheep:sheep:ovine]
 	[CHILD:1][GENERAL_CHILD_NAME:lamb:lambs]
 	[CREATURE_TILE:'s'][COLOR:7:0:1]
@@ -867,7 +867,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PIG]
-	[DESCRIPTION:Animal domestico de porte medio. Tem um focinho distinto e uma cauda em saca-rolhas. √â considerado por alguns como inteligente.]
+	[DESCRIPTION:Animal domestico de porte medio. Tem um focinho distinto e uma cauda em saca-rolhas. ê considerado por alguns como inteligente.]
 	[NAME:pig:pigs:porcine]
 	[CHILD:1][GENERAL_CHILD_NAME:piglet:piglets]
 	[CREATURE_TILE:'p'][COLOR:5:0:1]
@@ -982,7 +982,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GOAT]
-	[DESCRIPTION:Um animal de pastoreio de tamanho medio. √â conhecido por seus chifres curtos e barba.]
+	[DESCRIPTION:Um animal de pastoreio de tamanho medio. ê conhecido por seus chifres curtos e barba.]
 	[NAME:goat:goats:hircine]
 	[CHILD:1][GENERAL_CHILD_NAME:goat kid:goat kids]
 	[CREATURE_TILE:'g'][COLOR:6:0:0]
@@ -1112,7 +1112,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_CHICKEN]
-	[DESCRIPTION:Uma pequena ave domestica capaz de voar curtas distancias. √â valorizada por seus ovos saborosos.]
+	[DESCRIPTION:Uma pequena ave domestica capaz de voar curtas distancias. ê valorizada por seus ovos saborosos.]
 	[NAME:chicken:chickens:chicken]
 	[CHILD:1][GENERAL_CHILD_NAME:chick:chicks]
 	[CREATURE_TILE:'c'][COLOR:6:0:0]
@@ -1308,7 +1308,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_DUCK]
-	[DESCRIPTION:Um pequeno p√°ssaros aquatico. Tem um pescoco longo e pernas poderosas para nadar e mergulhar.]
+	[DESCRIPTION:Um pequeno p†ssaros aquatico. Tem um pescoco longo e pernas poderosas para nadar e mergulhar.]
 	[NAME:duck:ducks:duck]
 	[CHILD:1][GENERAL_CHILD_NAME:duckling:ducklings]
 	[CREATURE_TILE:'d'][COLOR:2:0:0]
@@ -1400,7 +1400,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WATER_BUFFALO]
-	[DESCRIPTION:Um grande mamifero herbivoro. √â poderosamente construido e tem longos chifres curvos.]
+	[DESCRIPTION:Um grande mamifero herbivoro. ê poderosamente construido e tem longos chifres curvos.]
 	[NAME:water buffalo:water buffalos:water buffalo]
 	[CHILD:1][GENERAL_CHILD_NAME:water buffalo calf:water buffalo calves]
 	[CREATURE_TILE:'W'][COLOR:0:0:1]
@@ -1877,7 +1877,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LLAMA]
-	[DESCRIPTION:Um grande animal de carga domestico. Tem pescoco comprido. √â valorizado por seu cabelo.]
+	[DESCRIPTION:Um grande animal de carga domestico. Tem pescoco comprido. ê valorizado por seu cabelo.]
 	[NAME:llama:llamas:llama]
 	[CASTE_NAME:llama:llamas:llama]
 	[CHILD:1][GENERAL_CHILD_NAME:baby llama:baby llamas]
@@ -2133,7 +2133,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_GUINEAFOWL]
-	[DESCRIPTION:Um pequeno p√°ssaros terrestre. Tem a cabe√ßa sem penas e come sementes e insetos. Ele se move em grupos.]
+	[DESCRIPTION:Um pequeno p†ssaros terrestre. Tem a cabeáa sem penas e come sementes e insetos. Ele se move em grupos.]
 	[NAME:guineafowl:guineafowls:guineafowl]
 	[CHILD:1][GENERAL_CHILD_NAME:keet:keets]
 	[CREATURE_TILE:'g'][COLOR:0:0:1]
@@ -2232,7 +2232,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PEAFOWL_BLUE]
-	[DESCRIPTION:Um pequeno p√°ssaros da floresta. A cauda do macho cria uma exibic√£o extravagante para as femeas. A noite, eles se empoleiram nas arvores.]
+	[DESCRIPTION:Um pequeno p†ssaros da floresta. A cauda do macho cria uma exibic∆o extravagante para as femeas. A noite, eles se empoleiram nas arvores.]
 	[NAME:blue peafowl:blue peafowls:blue peafowl]
 	[CHILD:1][GENERAL_CHILD_NAME:blue peachick:blue peachicks]
 	[CREATURE_TILE:'p'][COLOR:1:0:1]
@@ -2341,7 +2341,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_TURKEY]
-	[DESCRIPTION:Um pequeno p√°ssaros da floresta conhecido pelas abas distintas de pele penduradas em seu rosto. √â valorizado por sua carne.]
+	[DESCRIPTION:Um pequeno p†ssaros da floresta conhecido pelas abas distintas de pele penduradas em seu rosto. ê valorizado por sua carne.]
 	[NAME:turkey:turkeys:turkey]
 	[CHILD:1][GENERAL_CHILD_NAME:poult:poults]
 	[CREATURE_TILE:'t'][COLOR:4:0:1]

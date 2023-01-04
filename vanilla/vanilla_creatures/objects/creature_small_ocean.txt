@@ -259,7 +259,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_HAGFISH]
-	[DESCRIPTION:Um peixe pequeno, copassado e semelhante a uma enguia que vive no fundo do oceano.Pode transformar a agua √£o redor de seu corpo em uma nuvem de lodo para escapar dos predadores.]
+	[DESCRIPTION:Um peixe pequeno, copassado e semelhante a uma enguia que vive no fundo do oceano.Pode transformar a agua ∆o redor de seu corpo em uma nuvem de lodo para escapar dos predadores.]
 	[NAME:hagfish:hagfish:hagfish]
 	[CASTE_NAME:hagfish:hagfish:hagfish]
 	[CREATURE_TILE:'~'][COLOR:6:0:0]
@@ -327,7 +327,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_LAMPREY_BROOK]
-	[DESCRIPTION:Um peixe pequeno, sem mandibula e alimentac√£o de filtros encontrado em riachos e riachos.]
+	[DESCRIPTION:Um peixe pequeno, sem mandibula e alimentac∆o de filtros encontrado em riachos e riachos.]
 	[NAME:brook lamprey:brook lampreys:brook lamprey]
 	[CASTE_NAME:brook lamprey:brook lampreys:brook lamprey]
 	[CREATURE_TILE:'~'][COLOR:3:0:0]
@@ -531,7 +531,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RATFISH_SPOTTED]
-	[DESCRIPTION:Uma pequena criatura parecida com um tubar√£o que vive nas aguas rasas lamacentas do oceano.Sua pele brilha e tem uma coluna venenosa nas costas.]
+	[DESCRIPTION:Uma pequena criatura parecida com um tubar∆o que vive nas aguas rasas lamacentas do oceano.Sua pele brilha e tem uma coluna venenosa nas costas.]
 	[NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CREATURE_TILE:224][COLOR:6:0:0]
@@ -965,7 +965,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SEAHORSE]
-	[DESCRIPTION:Um peixe min√∫sculo, curvado e colorido encontrado em recifes de coral.]
+	[DESCRIPTION:Um peixe min£sculo, curvado e colorido encontrado em recifes de coral.]
 	[NAME:seahorse:seahorses:seahorse]
 	[CASTE_NAME:seahorse:seahorses:seahorse]
 	[CREATURE_TILE:224][COLOR:2:0:0]
@@ -1030,7 +1030,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_GLASSEYE]
-	[DESCRIPTION:Um peixe marinho pequeno, noturno e marinho.Pode ser encontrado ca√ßando em recifes de coral.]
+	[DESCRIPTION:Um peixe marinho pequeno, noturno e marinho.Pode ser encontrado caáando em recifes de coral.]
 	[NAME:glasseye:glasseye:glasseye]
 	[CASTE_NAME:glasseye:glasseye:glasseye]
 	[CREATURE_TILE:224][COLOR:4:0:1]
@@ -1425,7 +1425,7 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 	In loving memory of Reveredtour
 
 [CREATURE:SQUID]
-	[DESCRIPTION:Um min√∫sculo vermin do mar com oito bra√ßos e dois tentaculos.Pode pulverizar tinta para confundir predadores.]
+	[DESCRIPTION:Um min£sculo vermin do mar com oito braáos e dois tentaculos.Pode pulverizar tinta para confundir predadores.]
 	[NAME:squid:squids:squid]
 	[CASTE_NAME:squid:squids:squid]
 	[CREATURE_TILE:11][COLOR:7:0:1]
@@ -1538,7 +1538,7 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:squid man:squid men:squid man]
-	[DESCRIPTION:Uma pessoa pequena com uma cabe√ßa com dez tentaculos.]
+	[DESCRIPTION:Uma pessoa pequena com uma cabeáa com dez tentaculos.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

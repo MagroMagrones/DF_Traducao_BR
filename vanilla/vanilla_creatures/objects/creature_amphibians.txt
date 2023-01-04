@@ -3,7 +3,7 @@ creature_amphibians
 [OBJECT:CREATURE]
 
 [CREATURE:TOAD]
-	[DESCRIPTION:Um anfibio atarracado com pele coriacea, encontrado em √°reas relativamente secas.]
+	[DESCRIPTION:Um anfibio atarracado com pele coriacea, encontrado em †reas relativamente secas.]
 	[NAME:sapo:sapos:sapo]
 	[CASTE_NAME:sapo:sapos:sapo]
 	[CREATURE_TILE:249][COLOR:2:0:0]
@@ -85,7 +85,7 @@ creature_amphibians
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem cogumelo:homens cogumelos:homem cogumelo]
-	[DESCRIPTION:Um homem verde escuro com a distinta cabe√ßa de um sapo.]
+	[DESCRIPTION:Um homem verde escuro com a distinta cabeáa de um sapo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]

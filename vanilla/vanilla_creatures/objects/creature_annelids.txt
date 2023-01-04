@@ -3,7 +3,7 @@ creature_annelids
 [OBJECT:CREATURE]
 
 [CREATURE:WORM]
-	[DESCRIPTION:Uma pequena criatura escavadora, encontrada em solo umido. √â sem pernas, longo e fino.]
+	[DESCRIPTION:Uma pequena criatura escavadora, encontrada em solo umido. ê sem pernas, longo e fino.]
 	[NAME:minhoca:minhocas:minhoca]
 	[CASTE_NAME:minhoca:minhocas:minhoca]
 	[CREATURE_TILE:'~'][COLOR:7:0:0]

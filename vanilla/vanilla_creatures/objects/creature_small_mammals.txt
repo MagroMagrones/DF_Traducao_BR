@@ -112,7 +112,7 @@ creature_small_mammals
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:rat man:rat men:rat man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e a cauda de um rato.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de um rato.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -226,7 +226,7 @@ creature_small_mammals
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:gray squirrel man:gray squirrel men:gray squirrel man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e a cauda de um esquilo cinza.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de um esquilo cinza.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -367,7 +367,7 @@ creature_small_mammals
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:red squirrel man:red squirrel men:red squirrel man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e a cauda de um esquilo vermelho.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de um esquilo vermelho.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -508,7 +508,7 @@ creature_small_mammals
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:chipmunk man:chipmunk men:chipmunk man]
-	[DESCRIPTION:Uma pessoa listrada com a cabe√ßa e a cauda de um chipmunk.]
+	[DESCRIPTION:Uma pessoa listrada com a cabeáa e a cauda de um chipmunk.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]

@@ -8,7 +8,7 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	Naros - Stoats! The solution to your rabbit and/or cat problems.
 
 [CREATURE:STOAT]
-	[DESCRIPTION:Uma pequena criatura parecida com a doninha que ca√ßa roedores e penhas nos ninhos de p√°ssaross.]
+	[DESCRIPTION:Uma pequena criatura parecida com a doninha que caáa roedores e penhas nos ninhos de p†ssaross.]
 	[NAME:stoat:stoats:stoat]
 	[GENERAL_CHILD_NAME:stoat kit:stoat kits]
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
@@ -272,7 +272,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:lynx man:lynx men:lynx man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e a cauda de um lince.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de um lince.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]

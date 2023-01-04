@@ -125,7 +125,7 @@ creature_large_mountain
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:mountain goat man:mountain goat men:mountain goat man]
-	[DESCRIPTION:Uma pessoa com chifres e cabe√ßa de cabrito montes.]
+	[DESCRIPTION:Uma pessoa com chifres e cabeáa de cabrito montes.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -273,7 +273,7 @@ creature_large_mountain
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:hoary marmot man:hoary marmot men:hoary marmot man]
-	[DESCRIPTION:Uma pessoa com a cabe√ßa e o pelo de uma marmota grisalha.]
+	[DESCRIPTION:Uma pessoa com a cabeáa e o pelo de uma marmota grisalha.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -309,7 +309,7 @@ creature_large_mountain
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:GNOME_MOUNTAIN]
-	[DESCRIPTION:Uma pequena e alegre criatura humanoide que habita as belas montanhas. Eles s√£o conhecidos por gostar de beber bebidas alcoolicas e n√£o se importam se √© deles ou n√£o.]
+	[DESCRIPTION:Uma pequena e alegre criatura humanoide que habita as belas montanhas. Eles s∆o conhecidos por gostar de beber bebidas alcoolicas e n∆o se importam se Ç deles ou n∆o.]
 	[NAME:mountain gnome:mountain gnomes:mountain gnome]
 	[CASTE_NAME:mountain gnome:mountain gnomes:mountain gnome]
 	[CREATURE_TILE:'g'][COLOR:0:0:1]
@@ -552,7 +552,7 @@ creature_large_mountain
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GNOME_DARK]
-	[DESCRIPTION:Uma pequena criatura humanoide mal-humorada que mora nas montanhas malignas. Eles s√£o conhecidos por gostar de beber bebidas alcoolicas e aceitam qualquer suprimento de bebida desprotegido.]
+	[DESCRIPTION:Uma pequena criatura humanoide mal-humorada que mora nas montanhas malignas. Eles s∆o conhecidos por gostar de beber bebidas alcoolicas e aceitam qualquer suprimento de bebida desprotegido.]
 	[NAME:dark gnome:dark gnomes:dark gnome]
 	[CASTE_NAME:dark gnome:dark gnomes:dark gnome]
 	[CREATURE_TILE:'g'][COLOR:3:0:0]

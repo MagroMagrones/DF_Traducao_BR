@@ -3,7 +3,7 @@ creature_large_tundra
 [OBJECT:CREATURE]
 
 [CREATURE:MUSKOX]
-	[DESCRIPTION:Um grande animal de cascos com chifres curvos e uma espessa pelagem marrom. √â conhecido por seu forte odor.]
+	[DESCRIPTION:Um grande animal de cascos com chifres curvos e uma espessa pelagem marrom. ê conhecido por seu forte odor.]
 	[NAME:muskox:muskoxen:muskox]
 	[CASTE_NAME:muskox:muskoxen:muskox]
 	[CHILD:1][GENERAL_CHILD_NAME:muskox calf:muskox calves]
@@ -128,7 +128,7 @@ creature_large_tundra
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:muskox man:muskox men:muskox man]
-	[DESCRIPTION:Uma pessoa com chifres e cabe√ßa de boi-almiscarado.]
+	[DESCRIPTION:Uma pessoa com chifres e cabeáa de boi-almiscarado.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -289,7 +289,7 @@ creature_large_tundra
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:elk man:elk men:elk man]
-	[DESCRIPTION:Uma pessoa com cabe√ßa de alce.]
+	[DESCRIPTION:Uma pessoa com cabeáa de alce.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -323,7 +323,7 @@ creature_large_tundra
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BEAR_POLAR]
-	[DESCRIPTION:Um enorme mamifero predador coberto de pelos brancos. Ele ca√ßa nas costas √£o longo da tundra e das geleiras.]
+	[DESCRIPTION:Um enorme mamifero predador coberto de pelos brancos. Ele caáa nas costas ∆o longo da tundra e das geleiras.]
 	[NAME:polar bear:polar bears:polar bear]
 	[CASTE_NAME:polar bear:polar bears:polar bear]
 	[GENERAL_CHILD_NAME:polar bear cub:polar bear cubs]
@@ -443,7 +443,7 @@ creature_large_tundra
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:polar bear man:polar bear men:polar bear man]
-	[DESCRIPTION:Uma pessoa grande com a cabe√ßa de um urso polar.]
+	[DESCRIPTION:Uma pessoa grande com a cabeáa de um urso polar.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
