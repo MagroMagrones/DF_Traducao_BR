@@ -323,7 +323,7 @@ creature_large_tundra
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BEAR_POLAR]
-	[DESCRIPTION:Um enorme mamifero predador coberto de pelos brancos. Ele caca nas costas ão longo da tundra e das geleiras.]
+	[DESCRIPTION:Um enorme mamifero predador coberto de pelos brancos. Ele caça nas costas ão longo da tundra e das geleiras.]
 	[NAME:polar bear:polar bears:polar bear]
 	[CASTE_NAME:polar bear:polar bears:polar bear]
 	[GENERAL_CHILD_NAME:polar bear cub:polar bear cubs]

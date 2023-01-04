@@ -1472,7 +1472,7 @@ creature_subterranean
 	[LOW_LIGHT_VISION:10000]
 
 [CREATURE:BAT]
-	[DESCRIPTION:Uma pequena criatura alada que caca a noite e descansa em cavernas durante o dia.]
+	[DESCRIPTION:Uma pequena criatura alada que caça a noite e descansa em cavernas durante o dia.]
 	[NAME:bat:bats:bat]
 	[CASTE_NAME:bat:bats:bat]
 	[CREATURE_TILE:249][COLOR:0:0:1]
@@ -1961,7 +1961,7 @@ creature_subterranean
 	[SWIMS_LEARNED]
 
 [CREATURE:BIRD_SWALLOW_CAVE]
-	[DESCRIPTION:Um pequeno passaro azul e laranja.]
+	[DESCRIPTION:Um pequeno pássaros azul e laranja.]
 	[NAME:cave swallow:cave swallows:cave swallow]
 	[CASTE_NAME:cave swallow:cave swallows:cave swallow]
 	[GENERAL_CHILD_NAME:cave swallow hatchling:cave swallow hatchlings]
@@ -2080,7 +2080,7 @@ creature_subterranean
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cave swallow man:cave swallow men:cave swallow man]
-	[DESCRIPTION:Um homem emplumado com as asas e cabeça de um passaro.Vive no subsolo.]
+	[DESCRIPTION:Um homem emplumado com as asas e cabeça de um pássaros.Vive no subsolo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:20:30]
@@ -2089,7 +2089,7 @@ creature_subterranean
 	[LOW_LIGHT_VISION:10000]
 
 [CREATURE:BIRD_SWALLOW_CAVE_GIANT]
-	[DESCRIPTION:Um gigantesco passaro azul e laranja.]
+	[DESCRIPTION:Um gigantesco pássaros azul e laranja.]
 	[NAME:giant cave swallow:giant cave swallows:giant cave swallow]
 	[CASTE_NAME:giant cave swallow:giant cave swallows:giant cave swallow]
 	[GENERAL_CHILD_NAME:giant cave swallow hatchling:giant cave swallow hatchlings]
@@ -2192,7 +2192,7 @@ creature_subterranean
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:AMPHIBIAN_MAN]
-	[DESCRIPTION:Essas criaturas malignas se assemelham a sapos andando com os bracos e a inteligencia para usa -las.Eles vivem nas aguas distantes sob a terra.]
+	[DESCRIPTION:Essas criaturas malignas se assemelham a sapos andando com os braços e a inteligencia para usa -las.Eles vivem nas aguas distantes sob a terra.]
 	[NAME:amphibian man:amphibian men:amphibian man]
 	[LARGE_ROAMING]
 	[BIOME:SUBTERRANEAN_WATER]
@@ -2408,7 +2408,7 @@ creature_subterranean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SERPENT_MAN]
-	[DESCRIPTION:Uma grande cobra branca com os bracos e o tronco de um homem.Essas criaturas são mas e vivem muito no subsolo.]
+	[DESCRIPTION:Uma grande cobra branca com os braços e o tronco de um homem.Essas criaturas são mas e vivem muito no subsolo.]
 	[NAME:serpent man:serpent men:serpent man]
 	[CREATURE_TILE:'s'][COLOR:7:0:1]
 	[CREATURE_CLASS:POISONOUS]

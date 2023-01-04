@@ -4201,7 +4201,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PIXIE]
-	[DESCRIPTION:Um minusculo humanóide alado com cores de mudanca que executa dancas aereas intrincadas em grandes grupos.]
+	[DESCRIPTION:Um minúsculo humanóide alado com cores de mudanca que executa dancas aereas intrincadas em grandes grupos.]
 	[NAME:pixie:pixies:pixie]
 	[CASTE_NAME:pixie:pixies:pixie]
 	[CREATURE_TILE:250][COLOR:3:0:1]
@@ -4400,7 +4400,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BEAK_DOG]
-	[DESCRIPTION:Uma criatura do pantano do mal.Lembra um passaro agachado e sem asas com bico e pernas poderosos.Sua pele manchada e colorida.]
+	[DESCRIPTION:Uma criatura do pantano do mal.Lembra um pássaros agachado e sem asas com bico e pernas poderosos.Sua pele manchada e colorida.]
 	[NAME:beak dog:beak dogs:beak dog]
 	[CASTE_NAME:beak dog:beak dogs:beak dog]
 	[CHILD:1][GENERAL_CHILD_NAME:beak dog pup:beak dog pups]
@@ -4688,7 +4688,7 @@ creature_standard
 				[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:STRANGLER]
-	[DESCRIPTION:Uma grande criatura macaca de quatro bracos com tres olhos e dentes nitidos.]
+	[DESCRIPTION:Uma grande criatura macaça de quatro braços com tres olhos e dentes nitidos.]
 	[NAME:strangler:stranglers:strangler]
 	[CASTE_NAME:strangler:stranglers:strangler]
 	[CREATURE_TILE:'s'][COLOR:0:0:1]
@@ -4868,7 +4868,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HARPY]
-	[DESCRIPTION:Um monstro na forma de uma mulher com asas de um passaro no lugar das armas e garras para os pes.]
+	[DESCRIPTION:Um monstro na forma de uma mulher com asas de um pássaros no lugar das armas e garras para os pes.]
 	[NAME:harpy:harpies:harpy]
 	[CASTE_NAME:harpy:harpies:harpy]
 	[CREATURE_TILE:'h'][COLOR:6:0:0]
@@ -5499,7 +5499,7 @@ creature_standard
 		[MULTIPLY_VALUE:5]
 
 [CREATURE:SEA_MONSTER]
-	[DESCRIPTION:Uma criatura gigante com muitos olhos e bracos para aterrorizar o mar.]
+	[DESCRIPTION:Uma criatura gigante com muitos olhos e braços para aterrorizar o mar.]
 	[NAME:sea monster:sea monsters:sea monster]
 	[CASTE_NAME:sea monster:sea monsters:sea monster]
 	[CREATURE_TILE:'M'][COLOR:0:0:1]
@@ -5581,7 +5581,7 @@ creature_standard
 		[MULTIPLY_VALUE:5]
 
 [CREATURE:BIRD_ROC]
-	[DESCRIPTION:Um passaro de rapina tão grande e feroz que supera muitos dragões.Tudo embaixo de suas asas poderosas deve temer o ceu.]
+	[DESCRIPTION:Um pássaros de rapina tão grande e feroz que supera muitos dragões.Tudo embaixo de suas asas poderosas deve temer o ceu.]
 	[NAME:roc:rocs:roc]
 	[CASTE_NAME:roc:rocs:roc]
 	[GENERAL_CHILD_NAME:roc hatchling:roc hatchlings]

@@ -269,7 +269,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:CHAMELEON]
-	[DESCRIPTION:Um lagarto colorido que passa seus insetos de caca a vida com sua lingua comprida.Ele se move lentamente atraves das arvores, espionando os arredores com seus olhos itinerantes independentemente.]
+	[DESCRIPTION:Um lagarto colorido que passa seus insetos de caça a vida com sua lingua comprida.Ele se move lentamente atraves das arvores, espionando os arredores com seus olhos itinerantes independentemente.]
 	[NAME:chameleon:chameleons:chameleon]
 	[CASTE_NAME:chameleon:chameleons:chameleon]
 	[CREATURE_TILE:249][COLOR:2:0:1]

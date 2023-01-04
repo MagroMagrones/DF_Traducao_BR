@@ -159,7 +159,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BEAR_BLACK]
-	[DESCRIPTION:Um grande predador onivoro encontrado em florestas temperadas. Alimentando-se principalmente de bagas, tambem rouba carcacas de outros cacadores. Embora normalmente seja um animal docil, sabe-se que mata em um ataque predatorio.]
+	[DESCRIPTION:Um grande predador onivoro encontrado em florestas temperadas. Alimentando-se principalmente de bagas, tambem rouba carcaças de outros caçadores. Embora normalmente seja um animal docil, sabe-se que mata em um ataque predatorio.]
 	[NAME:black bear:black bears:black bear]
 	[CASTE_NAME:black bear:black bears:black bear]
 	[CHILD:1][GENERAL_CHILD_NAME:black bear cub:black bear cubs]
@@ -622,7 +622,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:RACCOON]
-	[DESCRIPTION:Um pequeno animal onivoro com uma mascara brilhante de pelo. É noturno e encontrado em florestas temperadas. É um animal curioso e é conhecido por roubar de areas civilizadas.]
+	[DESCRIPTION:Um pequeno animal onivoro com uma mascara brilhante de pelo. É noturno e encontrado em florestas temperadas. É um animal curioso e é conhecido por roubar de áreas civilizadas.]
 	[NAME:raccoon:raccoons:raccoon]
 	[CASTE_NAME:raccoon:raccoons:raccoon]
 	[CHILD:1][GENERAL_CHILD_NAME:raccoon pup:raccoon pups]
@@ -772,7 +772,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:MACAQUE_RHESUS]
-	[DESCRIPTION:Um macaco de tamanho medio encontrado em florestas e pastagens. Geralmente vive de raizes e insetos, mas pode se tornar uma praga em areas civilizadas, vagando em grandes grupos e implorando por restos.]
+	[DESCRIPTION:Um macaco de tamanho medio encontrado em florestas e pastagens. Geralmente vive de raizes e insetos, mas pode se tornar uma praga em áreas civilizadas, vagando em grandes grupos e implorando por restos.]
 	[NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CASTE_NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CREATURE_TILE:'m'][COLOR:7:0:0]
@@ -1071,7 +1071,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:WOLF]
-	[DESCRIPTION:Um grande canino encontrado em regiões temperadas. É territorial e caca em bandos.]
+	[DESCRIPTION:Um grande canino encontrado em regiões temperadas. É territorial e caça em bandos.]
 	[NAME:wolf:wolves:wolf]
 	[CASTE_NAME:wolf:wolves:wolf]
 	[CHILD:1][GENERAL_CHILD_NAME:wolf pup:wolf pups]
@@ -1529,7 +1529,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:3251:2446:1640:798:4600:6500] 11 kph
 
 [CREATURE:BIRD_BUZZARD]
-	[DESCRIPTION:Um passaro preto de rosto vermelho de tamanho medio que procura carniça nas terras temperadas.]
+	[DESCRIPTION:Um pássaros preto de rosto vermelho de tamanho medio que procura carniça nas terras temperadas.]
 	[NAME:buzzard:buzzards:buzzard]
 	[CASTE_NAME:buzzard:buzzards:buzzard]
 	[GENERAL_CHILD_NAME:buzzard hatchling:buzzard hatchlings]
@@ -2589,7 +2589,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:red panda man:red panda men:red panda man]
-	[DESCRIPTION:Um panda vermelho ambulante de tamanho medio com bracos e cauda. Prefere a floresta e suas amadas arvores.]
+	[DESCRIPTION:Um panda vermelho ambulante de tamanho medio com braços e cauda. Prefere a floresta e suas amadas arvores.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

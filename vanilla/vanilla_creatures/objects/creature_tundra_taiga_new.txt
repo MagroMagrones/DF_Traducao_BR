@@ -8,7 +8,7 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	Naros - Stoats! The solution to your rabbit and/or cat problems.
 
 [CREATURE:STOAT]
-	[DESCRIPTION:Uma pequena criatura parecida com a doninha que caca roedores e penhas nos ninhos de passaros.]
+	[DESCRIPTION:Uma pequena criatura parecida com a doninha que caça roedores e penhas nos ninhos de pássaross.]
 	[NAME:stoat:stoats:stoat]
 	[GENERAL_CHILD_NAME:stoat kit:stoat kits]
 	[CREATURE_TILE:'s'][COLOR:6:0:0]

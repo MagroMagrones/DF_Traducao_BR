@@ -829,7 +829,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:adder man:adder men:adder man]
-	[DESCRIPTION:Um grande somador com o tronco e os bracos de um homem.]
+	[DESCRIPTION:Um grande somador com o tronco e os braços de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2227,7 +2227,7 @@ Rattlesnakes were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:rattlesnake man:rattlesnake men:rattlesnake man]
-	[DESCRIPTION:Uma pessoa que se assemelha a uma grande cascavel com os bracos.]
+	[DESCRIPTION:Uma pessoa que se assemelha a uma grande cascavel com os braços.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -2281,7 +2281,7 @@ Weasels were sponsored by the generous contributions of the Bay 12 community.
 	Vorith
 
 [CREATURE:WEASEL]
-	[DESCRIPTION:Um minusculo mamifero com um corpo esbelto.Caca em buracos de mouse, bem como no celeiro.]
+	[DESCRIPTION:Um minúsculo mamifero com um corpo esbelto.caça em buracos de mouse, bem como no celeiro.]
 	[NAME:weasel:weasels:weasel]
 	[CASTE_NAME:weasel:weasels:weasel]
 	[GENERAL_CHILD_NAME:weasel kit:weasel kits]
@@ -2565,7 +2565,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:copperhead snake man:copperhead snake men:copperhead snake man]
-	[DESCRIPTION:Uma grande cobra de cobre com os bracos de um homem.]
+	[DESCRIPTION:Uma grande cobra de cobre com os braços de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]

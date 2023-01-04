@@ -1153,7 +1153,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_REEF_WHITETIP]
-	[DESCRIPTION:Peixe de tamanho medio que se abriga em cavernas no fundo do mar raso. Caca em bandos para se alimentar, mas não é agressivo.]
+	[DESCRIPTION:Peixe de tamanho medio que se abriga em cavernas no fundo do mar raso. caça em bandos para se alimentar, mas não é agressivo.]
 	[NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]
 	[CASTE_NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]
 	[CHILD:1][GENERAL_CHILD_NAME:whitetip reef shark pup:whitetip reef shark pups]
@@ -1232,7 +1232,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_BLUE]
-	[DESCRIPTION:Um peixe grande e perigoso encontrado cacando em bandos em qualquer oceano.]
+	[DESCRIPTION:Um peixe grande e perigoso encontrado caçando em bandos em qualquer oceano.]
 	[NAME:blue shark:blue sharks:blue shark]
 	[CASTE_NAME:blue shark:blue sharks:blue shark]
 	[CHILD:1][GENERAL_CHILD_NAME:blue shark pup:blue shark pups]
@@ -1311,7 +1311,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_HAMMERHEAD]
-	[DESCRIPTION:Um peixe grande e perigoso, frequentemente encontrado cacando sozinho ão longo da costa.]
+	[DESCRIPTION:Um peixe grande e perigoso, frequentemente encontrado caçando sozinho ão longo da costa.]
 	[NAME:hammerhead shark:hammerhead sharks:hammerhead shark]
 	[CASTE_NAME:hammerhead shark:hammerhead sharks:hammerhead shark]
 	[CHILD:1][GENERAL_CHILD_NAME:hammerhead shark pup:hammerhead shark pups]
@@ -2009,7 +2009,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_COD]
-	[DESCRIPTION:Peixe oceanico de tamanho medio, frequentemente cacado por sua carne.]
+	[DESCRIPTION:Peixe oceanico de tamanho medio, frequentemente caçado por sua carne.]
 	[NAME:cod:cod:cod]
 	[CASTE_NAME:cod:cod:cod]
 	[CHILD:1][GENERAL_CHILD_NAME:cod fry:cod fry]
@@ -2677,7 +2677,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BARRACUDA_GREAT]
-	[DESCRIPTION:Um peixe grande e comprido com muitas presas afiadas. Ele caca emboscando sua presa.]
+	[DESCRIPTION:Um peixe grande e comprido com muitas presas afiadas. Ele caça emboscando sua presa.]
 	[NAME:great barracuda:great barracudas:great barracuda]
 	[CASTE_NAME:great barracuda:great barracudas:great barracuda]
 	[CHILD:1][GENERAL_CHILD_NAME:great barracuda fry:great barracuda fry]
@@ -2965,7 +2965,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:narwhal man:narwhal men:narwhal man]
-	[DESCRIPTION:Uma criatura de tamanho medio com os bracos e o tronco de um homem, mas com a cabeça e a cauda de um narval.]
+	[DESCRIPTION:Uma criatura de tamanho medio com os braços e o tronco de um homem, mas com a cabeça e a cauda de um narval.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

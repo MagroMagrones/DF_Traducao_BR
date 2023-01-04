@@ -581,7 +581,7 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_MOLLY_SAILFIN]
-	[DESCRIPTION:Um peixe malhado minusculo encontrado em rios costeiros e lagos temperados.]
+	[DESCRIPTION:Um peixe malhado minúsculo encontrado em rios costeiros e lagos temperados.]
 	[NAME:sailfin molly:sailfin mollies:sailfin molly]
 	[CASTE_NAME:sailfin molly:sailfin mollies:sailfin molly]
 	[CREATURE_TILE:224][COLOR:2:0:0]

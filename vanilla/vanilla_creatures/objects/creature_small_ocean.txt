@@ -965,7 +965,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SEAHORSE]
-	[DESCRIPTION:Um peixe minusculo, curvado e colorido encontrado em recifes de coral.]
+	[DESCRIPTION:Um peixe minúsculo, curvado e colorido encontrado em recifes de coral.]
 	[NAME:seahorse:seahorses:seahorse]
 	[CASTE_NAME:seahorse:seahorses:seahorse]
 	[CREATURE_TILE:224][COLOR:2:0:0]
@@ -1030,7 +1030,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_GLASSEYE]
-	[DESCRIPTION:Um peixe marinho pequeno, noturno e marinho.Pode ser encontrado cacando em recifes de coral.]
+	[DESCRIPTION:Um peixe marinho pequeno, noturno e marinho.Pode ser encontrado caçando em recifes de coral.]
 	[NAME:glasseye:glasseye:glasseye]
 	[CASTE_NAME:glasseye:glasseye:glasseye]
 	[CREATURE_TILE:224][COLOR:4:0:1]
@@ -1425,7 +1425,7 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 	In loving memory of Reveredtour
 
 [CREATURE:SQUID]
-	[DESCRIPTION:Um minusculo vermin do mar com oito bracos e dois tentaculos.Pode pulverizar tinta para confundir predadores.]
+	[DESCRIPTION:Um minúsculo vermin do mar com oito braços e dois tentaculos.Pode pulverizar tinta para confundir predadores.]
 	[NAME:squid:squids:squid]
 	[CASTE_NAME:squid:squids:squid]
 	[CREATURE_TILE:11][COLOR:7:0:1]

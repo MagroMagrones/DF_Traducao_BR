@@ -7,7 +7,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	C.J. Hull
 
 [CREATURE:DAMSELFLY]
-	[DESCRIPTION:Um inseto minusculo, colorido e de corpo comprido.]
+	[DESCRIPTION:Um inseto minúsculo, colorido e de corpo comprido.]
 	[NAME:damselfly:damselflies:damselfly]
 	[CASTE_NAME:damselfly:damselflies:damselfly]
 	[CREATURE_TILE:249][COLOR:3:0:1]
@@ -115,7 +115,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	Shakkara thinks this game had a serious lack of cute moths
 
 [CREATURE:MOTH]
-	[DESCRIPTION:Um minusculo inseto noturno. Ele voa em direcão as chamas na noite.]
+	[DESCRIPTION:Um minúsculo inseto noturno. Ele voa em direcão as chamas na noite.]
 	[CREATURE_TILE:249][COLOR:6:0:0]
 	[NAME:moth:moths:moth]
 	[CASTE_NAME:moth:moths:moth]
@@ -222,7 +222,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	Bernard Suits
 
 [CREATURE:GRASSHOPPER]
-	[DESCRIPTION:Um minusculo inseto que usa suas pernas poderosas para pular e fazer barulho.]
+	[DESCRIPTION:Um minúsculo inseto que usa suas pernas poderosas para pular e fazer barulho.]
 	[NAME:grasshopper:grasshoppers:grasshopper]
 	[CASTE_NAME:grasshopper:grasshoppers:grasshopper]
 	[CREATURE_TILE:250][COLOR:2:0:1]
@@ -325,7 +325,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	in fond memory of Ivan
 
 [CREATURE:BARK_SCORPION]
-	[DESCRIPTION:Um minusculo inseto amarelo. Tem pincas e uma cauda que pode ser fatal.]
+	[DESCRIPTION:Um minúsculo inseto amarelo. Tem pincas e uma cauda que pode ser fatal.]
 	[NAME:bark scorpion:bark scorpions:bark scorpion]
 	[CASTE_NAME:bark scorpion:bark scorpions:bark scorpion]
 	[CREATURE_TILE:249][COLOR:6:0:1]
@@ -563,7 +563,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:mantis man:mantis men:mantis man]
-	[DESCRIPTION:Uma pessoa verde com a cabeça e os bracos de um louva-a-deus.]
+	[DESCRIPTION:Uma pessoa verde com a cabeça e os braços de um louva-a-deus.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -602,7 +602,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	infection vector extrãordinaire!
 
 [CREATURE:TICK]
-	[DESCRIPTION:Um minusculo inseto sugador de sangue encontrado em areas arborizadas.]
+	[DESCRIPTION:Um minúsculo inseto sugador de sangue encontrado em áreas arborizadas.]
 	[NAME:tick:ticks:tick]
 	[CASTE_NAME:tick:ticks:tick]
 	[CREATURE_TILE:250][COLOR:0:0:1]
@@ -710,7 +710,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:LOUSE]
 	Should not be able to survive away from host.
-	[DESCRIPTION:Um minusculo inseto parasita. Alimenta-se de pele e sangue.]
+	[DESCRIPTION:Um minúsculo inseto parasita. Alimenta-se de pele e sangue.]
 	[NAME:louse:lice:louse]
 	[CASTE_NAME:louse:lice:louse]
 	[CREATURE_TILE:250][COLOR:6:0:0]
@@ -816,7 +816,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	For Sachin Gadani
 
 [CREATURE:THRIPS]
-	[DESCRIPTION:Um minusculo inseto praga. Alimenta-se de colheitas e outros insetos.]
+	[DESCRIPTION:Um minúsculo inseto praga. Alimenta-se de colheitas e outros insetos.]
 	[NAME:thrips:thrips:thrips]
 	[CASTE_NAME:thrips:thrips:thrips]
 	[CREATURE_TILE:250][COLOR:6:0:0]
@@ -923,7 +923,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 Slugs were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SLUG]
-	[DESCRIPTION:Um minusculo molusco terrestre. Pode ser encontrado sob troncos podres e em jardins.]
+	[DESCRIPTION:Um minúsculo molusco terrestre. Pode ser encontrado sob troncos podres e em jardins.]
 	[NAME:slug:slugs:slug]
 	[CASTE_NAME:slug:slugs:slug]
 	[CREATURE_TILE:'~'][COLOR:6:0:0]
@@ -1010,7 +1010,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:MOSQUITO]
-	[DESCRIPTION:Um minusculo inseto praga. Ele usa seu nariz comprido para sugar o sangue de seu hospedeiro.]
+	[DESCRIPTION:Um minúsculo inseto praga. Ele usa seu nariz comprido para sugar o sangue de seu hospedeiro.]
 	[NAME:mosquito:mosquitos:mosquito]
 	[CASTE_NAME:mosquito:mosquitos:mosquito]
 	[CREATURE_TILE:250][COLOR:0:0:1]
@@ -1124,7 +1124,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	John 'Chãoseed' Evans
 
 [CREATURE:SPIDER_JUMPING]
-	[DESCRIPTION:Um minusculo inseto preto que não tem teia, mas pode saltar distancias curtas.]
+	[DESCRIPTION:Um minúsculo inseto preto que não tem teia, mas pode saltar distancias curtas.]
 	[NAME:jumping spider:jumping spiders:jumping spider]
 	[CASTE_NAME:jumping spider:jumping spiders:jumping spider]
 	[CREATURE_TILE:250][COLOR:0:0:1]
@@ -1192,7 +1192,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:jumping spider man:jumping spider men:jumping spider man]
-	[DESCRIPTION:Uma pessoa com a cabeça e os bracos de uma aranha saltadora.]
+	[DESCRIPTION:Uma pessoa com a cabeça e os braços de uma aranha saltadora.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -1230,7 +1230,7 @@ Termites were sponsored by the generous contributions of the Bay 12 community.
 	RiceMunk
 
 [CREATURE:TERMITE]
-	[DESCRIPTION:Um minusculo inseto capaz de destruir grandes estruturas de madeira quando em grande numero.]
+	[DESCRIPTION:Um minúsculo inseto capaz de destruir grandes estruturas de madeira quando em grande numero.]
 	[NAME:termite:termites:termite]
 	[CREATURE_TILE:250][COLOR:7:0:1]
 	[NATURAL]
@@ -1297,7 +1297,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	"In soviet russia, snail eats YOU with tiny fork!"
 
 [CREATURE:MOON_SNAIL]
-	[DESCRIPTION:Um minusculo molusco predador. É brilhantemente colorido.]
+	[DESCRIPTION:Um minúsculo molusco predador. É brilhantemente colorido.]
 	[NAME:moon snail:moon snails:moon snail]
 	[CASTE_NAME:moon snail:moon snails:moon snail]
 	[CREATURE_TILE:249][COLOR:4:0:1]
@@ -1405,7 +1405,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	Arthemax
 
 [CREATURE:SPIDER_BROWN_RECLUSE]
-	[DESCRIPTION:Um minusculo inseto marrom conhecido por seu poderoso veneno.]
+	[DESCRIPTION:Um minúsculo inseto marrom conhecido por seu poderoso veneno.]
 	[NAME:brown recluse spider:brown recluse spiders:brown recluse spider]
 	[CASTE_NAME:brown recluse spider:brown recluse spiders:brown recluse spider]
 	[CREATURE_TILE:249][COLOR:6:0:0]
@@ -1512,7 +1512,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:brown recluse spider man:brown recluse spider men:brown recluse spider man]
-	[DESCRIPTION:Uma pessoa com a cabeça e os bracos de uma aranha-marrom.]
+	[DESCRIPTION:Uma pessoa com a cabeça e os braços de uma aranha-marrom.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]

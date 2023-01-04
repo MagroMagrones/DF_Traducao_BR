@@ -9,7 +9,7 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	DevHyfes - Should this journey lead to death, we ride together!
 
 [CREATURE:MONGOOSE]
-	[DESCRIPTION:Um mamifero muito pequeno com pernas curtas e uma cauda longa.Caca pequenos animais para comer.]
+	[DESCRIPTION:Um mamifero muito pequeno com pernas curtas e uma cauda longa.caça pequenos animais para comer.]
 	[NAME:mongoose:mongooses:mongoose]
 	[CASTE_NAME:mongoose:mongooses:mongoose]
 	[CHILD:1][GENERAL_CHILD_NAME:mongoose pup:mongoose pups]
@@ -142,7 +142,7 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant mongoose:giant mongooses:giant mongoose]
 	[CASTE_NAME:giant mongoose:giant mongooses:giant mongoose]
 	[GENERAL_CHILD_NAME:giant mongoose pup:giant mongoose pups]
-	[DESCRIPTION:Um grande monstro semelhante a um mangusto conhecido por cacar pessoas entre outras coisas.]
+	[DESCRIPTION:Um grande monstro semelhante a um mangusto conhecido por caçar pessoas entre outras coisas.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
@@ -413,7 +413,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:anaconda man:anaconda men:anaconda man]
-	[DESCRIPTION:Uma grande anaconda com o tronco e os bracos de um homem.]
+	[DESCRIPTION:Uma grande anaconda com o tronco e os braços de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1402,7 +1402,7 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 	Matt Umbro
 
 [CREATURE:SPIDER_MONKEY]
-	[DESCRIPTION:Um pequeno animal encontrado no dossel da selva.Eles tem bracos e pernas extremamente longos.]
+	[DESCRIPTION:Um pequeno animal encontrado no dossel da selva.Eles tem braços e pernas extremamente longos.]
 	[NAME:spider monkey:spider monkeys:spider monkey]
 	[CASTE_NAME:spider monkey:spider monkeys:spider monkey]
 	[CREATURE_TILE:'m'][COLOR:0:0:1]
@@ -1855,7 +1855,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:black mamba man:black mamba men:black mamba man]
-	[DESCRIPTION:Uma pessoa na forma de uma grande cobra mamba preto com bracos.]
+	[DESCRIPTION:Uma pessoa na forma de uma grande cobra mamba preto com braços.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -2354,7 +2354,7 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:bushmaster man:bushmaster men:bushmaster man]
-	[DESCRIPTION:Um grande mestre de arbustos com os bracos de um homem.]
+	[DESCRIPTION:Um grande mestre de arbustos com os braços de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -2509,7 +2509,7 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:python man:python men:python man]
-	[DESCRIPTION:Um grande python com bracos de um homem.]
+	[DESCRIPTION:Um grande python com braços de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]

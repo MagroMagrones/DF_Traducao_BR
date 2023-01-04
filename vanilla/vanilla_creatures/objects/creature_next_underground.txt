@@ -743,7 +743,7 @@ creature_next_underground
 
 [CREATURE:ELK_BIRD]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma grande criatura encontrada pastando em cogumelos no subsolo. Anda sobre duas patas e tem a cabeça de um passaro com os chifres de um grande alce.]
+	[DESCRIPTION:Uma grande criatura encontrada pastando em cogumelos no subsolo. Anda sobre duas patas e tem a cabeça de um pássaros com os chifres de um grande alce.]
 	[NAME:elk bird:elk birds:elk bird]
 	[CASTE_NAME:elk bird:elk birds:elk bird]
 	[GENERAL_CHILD_NAME:elk bird hatchling:elk bird hatchlings]
@@ -1261,7 +1261,7 @@ creature_next_underground
 
 [CREATURE:GIANT_EARTHWORM]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma versão gigantesca de seu primo minusculo, esta criatura longa e viscosa abre tuneis nas rochas profundas do subsolo.]
+	[DESCRIPTION:Uma versão gigantesca de seu primo minúsculo, esta criatura longa e viscosa abre tuneis nas rochas profundas do subsolo.]
 	[NAME:giant earthworm:giant earthworms:giant earthworm]
 	[CASTE_NAME:giant earthworm:giant earthworms:giant earthworm]
 	[CREATURE_TILE:'W'][COLOR:7:0:0]
@@ -1467,7 +1467,7 @@ creature_next_underground
 
 [CREATURE:MANERA]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma criatura que rasteja ão longo do teto da caverna com quatro bracos longos. Seu corpo tem a forma da cabeça de um homem com a boca cheia de dentes de tubarão. Ele espera que sua presa passe abaixo.]
+	[DESCRIPTION:Uma criatura que rasteja ão longo do teto da caverna com quatro braços longos. Seu corpo tem a forma da cabeça de um homem com a boca cheia de dentes de tubarão. Ele espera que sua presa passe abaixo.]
 	[NAME:manera:maneras:manera]
 	[CASTE_NAME:manera:maneras:manera]
 	[CREATURE_TILE:'m'][COLOR:6:0:0]
@@ -2014,7 +2014,7 @@ creature_next_underground
 
 [CREATURE:REACHER]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um monstro humanoide encontrado a espreita no subsolo. Ele finge estar morto, geralmente perto da agua, ate que uma vitima passe. Ele então usa seus longos bracos para arrastar suas presas para a agua para afoga-las ou estrangula-las.]
+	[DESCRIPTION:Um monstro humanoide encontrado a espreita no subsolo. Ele finge estar morto, geralmente perto da agua, ate que uma vitima passe. Ele então usa seus longos braços para arrastar suas presas para a agua para afoga-las ou estrangula-las.]
 	[NAME:reacher:reachers:reacher]
 	[CASTE_NAME:reacher:reachers:reacher]
 	[CREATURE_TILE:'R'][COLOR:7:0:0]
@@ -2405,7 +2405,7 @@ creature_next_underground
 
 [CREATURE:PLUMP_HELMET_MAN]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um pequeno humanoide semelhante a um cogumelo ambulante com bracos e pernas. Ele vive bem no subsolo, perto da agua e do solo.]
+	[DESCRIPTION:Um pequeno humanoide semelhante a um cogumelo ambulante com braços e pernas. Ele vive bem no subsolo, perto da agua e do solo.]
 	[NAME:plump helmet man:plump helmet men:plump helmet man]
 	[CASTE_NAME:plump helmet man:plump helmet men:plump helmet man]
 	[CREATURE_TILE:'m'][COLOR:5:0:0]

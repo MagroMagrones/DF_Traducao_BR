@@ -9,7 +9,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	In Memory of Half-Beak
 
 [CREATURE:BIRD_CROW]
-	[DESCRIPTION:Um pequeno passaro preto que se alimenta de carniça. É social, muito inteligente e sabe usar ferramentas.]
+	[DESCRIPTION:Um pequeno pássaros preto que se alimenta de carniça. É social, muito inteligente e sabe usar ferramentas.]
 	[NAME:corvo:corvos:corvo]
 	[CASTE_NAME:corvo:corvos:corvo]
 	[GENERAL_CHILD_NAME:filhote de corvo:filhotes de corvos]
@@ -152,7 +152,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[CASTE_NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[GENERAL_CHILD_NAME:filhote de corvo gigante:filhotes de corvos gigantes]
-	[DESCRIPTION:Um grande monstro parecido com um passaro, ainda mais mortal quando encontrado em grupos.]
+	[DESCRIPTION:Um grande monstro parecido com um pássaros, ainda mais mortal quando encontrado em grupos.]
 	[POPULATION_NUMBER:30:50]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'C']
@@ -175,7 +175,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	Thes33 - "Neverdwarf."
 
 [CREATURE:BIRD_RAVEN]
-	[DESCRIPTION:Um pequeno e sinistro passaro preto que se alimenta de carniça. É social, muito inteligente e sabe usar ferramentas.]
+	[DESCRIPTION:Um pequeno e sinistro pássaros preto que se alimenta de carniça. É social, muito inteligente e sabe usar ferramentas.]
 	[NAME:corvo:corvos:corvo]
 	[CASTE_NAME:corvo:corvos:corvo]
 	[GENERAL_CHILD_NAME:filhote de corvo:filhotes de corvos]
@@ -321,7 +321,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[CASTE_NAME:corvo gigante:corvos gigantes:corvo gigante]
 	[GENERAL_CHILD_NAME:filhote de corvo gigante:filhotes de corvos gigantes]
-	[DESCRIPTION:Um grande monstro parecido com um passaro, ainda mais mortal quando encontrado em grupos.]
+	[DESCRIPTION:Um grande monstro parecido com um pássaros, ainda mais mortal quando encontrado em grupos.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:3:5]
 	[CREATURE_TILE:'R']
@@ -343,7 +343,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	culling66
 
 [CREATURE:BIRD_CASSOWARY]
-	[DESCRIPTION:Um passaro pequeno, incapaz de voar e de cores vivas.]
+	[DESCRIPTION:Um pássaros pequeno, incapaz de voar e de cores vivas.]
 	[NAME:casuar:casuares:casuares]
 	[CASTE_NAME:casuar:casuares:casuares]
 	[CHILD:1][GENERAL_CHILD_NAME:filhote de casuar:filhotes de casuares]
@@ -661,7 +661,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	Errol
 
 [CREATURE:BIRD_OWL_SNOWY]
-	[DESCRIPTION:Um pequeno passaro branco que caca nas regioes mais frias do mundo.]
+	[DESCRIPTION:Um pequeno pássaros branco que caça nas regiões mais frias do mundo.]
 	[NAME:coruja-das-neves:corujas-das-neves:coruja-das-neves]
 	[CASTE_NAME:coruja-das-neves:corujas-das-neves:coruja-das-neves]
 	[GENERAL_CHILD_NAME:filhote de coruja-das-neves:filhotes de corujas-das-neves]
@@ -805,7 +805,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:coruja-das-neves gigante:corujas-das-neves gigantes:coruja-das-neves gigante]
 	[CASTE_NAME:coruja-das-neves gigante:corujas-das-neves gigantes:coruja-das-neves gigante]
 	[GENERAL_CHILD_NAME:filhote de coruja-das-neves gigante:filhotes de corujas-das-neves gigante]
-	[DESCRIPTION:Um grande monstro passaro na forma de uma coruja das neves.]
+	[DESCRIPTION:Um grande monstro pássaros na forma de uma coruja das neves.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'O']
 	[COLOR:7:0:1]
@@ -827,7 +827,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	spuggie
 
 [CREATURE:SPARROW]
-	[DESCRIPTION:Um pequeno passaro marrom que pode ser encontrado na maioria das regioes temperadas.]
+	[DESCRIPTION:Um pequeno pássaros marrom que pode ser encontrado na maioria das regioes temperadas.]
 	[NAME:sparrow:sparrows:sparrow]
 	[CASTE_NAME:sparrow:sparrows:sparrow]
 	[GENERAL_CHILD_NAME:sparrow hatchling:sparrow hatchlings]
@@ -972,7 +972,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant sparrow:giant sparrows:giant sparrow]
 	[CASTE_NAME:giant sparrow:giant sparrows:giant sparrow]
 	[GENERAL_CHILD_NAME:giant sparrow hatchling:giant sparrow hatchlings]
-	[DESCRIPTION:Um grande monstro parecido com um passaro na forma de um pardal.]
+	[DESCRIPTION:Um grande monstro parecido com um pássaros na forma de um pardal.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'S']
@@ -995,7 +995,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	"From Alsace, with love."
 
 [CREATURE:BIRD_STORK_WHITE]
-	[DESCRIPTION:Um pequeno passaro com pernas e bico longos e uma envergadura extremamente longa.]
+	[DESCRIPTION:Um pequeno pássaros com pernas e bico longos e uma envergadura extremamente longa.]
 	[NAME:white stork:white storks:white stork]
 	[CASTE_NAME:white stork:white storks:white stork]
 	[CHILD:1][GENERAL_CHILD_NAME:white stork hatchling:white stork hatchlings]
@@ -1293,7 +1293,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	Glaucus - "Only when the dusk starts to fall does the owl of Minerva spread its wings and fly."
 
 [CREATURE:BIRD_OWL_BARN]
-	[DESCRIPTION:Uma pequena ave de rapina noturna encontrada em regioes florestais. Sua fome de roedores o leva a residir em edificios.]
+	[DESCRIPTION:Uma pequena ave de rapina noturna encontrada em regiões florestais. Sua fome de roedores o leva a residir em edificios.]
 	[NAME:barn owl:barn owls:barn owl]
 	[CASTE_NAME:barn owl:barn owls:barn owl]
 	[GENERAL_CHILD_NAME:barn owl chick:barn owl chicks]
@@ -1421,7 +1421,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:barn owl man:barn owl men:barn owl man]
-	[DESCRIPTION:Uma pessoa com os bracos e asas de uma Suindara.]
+	[DESCRIPTION:Uma pessoa com os braços e asas de uma Suindara.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1461,7 +1461,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	Spinner
 
 [CREATURE:BIRD_PARAKEET]
-	[DESCRIPTION:Um minusculo papagaio encontrado em bandos de muitas centenas. Aves excepcionais podem ser ensinadas a falar.]
+	[DESCRIPTION:Um minúsculo papagaio encontrado em bandos de muitas centenas. Aves excepcionais podem ser ensinadas a falar.]
 	[NAME:parakeet:parakeets:parakeet]
 	[CASTE_NAME:parakeet:parakeets:parakeet]
 	[GENERAL_CHILD_NAME:parakeet hatchling:parakeet hatchlings]
@@ -1625,7 +1625,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	You've just been shagged by a rare parrot!
 
 [CREATURE:BIRD_KAKAPO]
-	[DESCRIPTION:Um pequeno papagaio verde que não voa. É noturno e conta-se entre os passaros mais longevos.]
+	[DESCRIPTION:Um pequeno papagaio verde que não voa. É noturno e conta-se entre os pássaross mais longevos.]
 	[NAME:kakapo:kakapo:kakapo]
 	[CASTE_NAME:kakapo:kakapo:kakapo]
 	[CHILD:7][GENERAL_CHILD_NAME:kakapo chick:kakapo chicks]
@@ -1774,7 +1774,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	Rainseeker's bird Maggie
 
 [CREATURE:BIRD_PARROT_GREY]
-	[DESCRIPTION:O mais inteligente dos passaros. Pode ser encontrado na floresta tropical.]
+	[DESCRIPTION:O mais inteligente dos pássaross. Pode ser encontrado na floresta tropical.]
 	[NAME:grey parrot:grey parrots:grey parrot]
 	[CASTE_NAME:grey parrot:grey parrots:grey parrot]
 	[CHILD:1][GENERAL_CHILD_NAME:grey parrot chick:grey parrot chicks]
@@ -1922,7 +1922,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored on behalf of Ekaterina Puffini
 
 [CREATURE:BIRD_PUFFIN]
-	[DESCRIPTION:Um pequeno passaro mergulhador encontrado vivendo em penhascos a beira-mar em climas mais frios.]
+	[DESCRIPTION:Um pequeno pássaros mergulhador encontrado vivendo em penhascos a beira-mar em climas mais frios.]
 	[NAME:puffin:puffins:puffin]
 	[CASTE_NAME:puffin:puffins:puffin]
 	[CHILD:1][GENERAL_CHILD_NAME:puffin chick:puffin chicks]
@@ -2372,7 +2372,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	St. Stephen
 
 [CREATURE:BIRD_WREN]
-	[DESCRIPTION:Um pequeno passaro marrom dado a cantar cancoes complexas.]
+	[DESCRIPTION:Um pequeno pássaros marrom dado a cantar cancões complexas.]
 	[NAME:wren:wrens:wren]
 	[CASTE_NAME:wren:wrens:wren]
 	[GENERAL_CHILD_NAME:wren hatchling:wren hatchlings]
@@ -2536,7 +2536,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	Saga Stigsdotter
 
 [CREATURE:BIRD_OSPREY]
-	[DESCRIPTION:Uma pequena ave de rapina com manchas pretas nos olhos. Ele caca perto de corpos d agua.]
+	[DESCRIPTION:Uma pequena ave de rapina com manchas pretas nos olhos. Ele caça perto de corpos d agua.]
 	[NAME:osprey:ospreys:osprey]
 	[CASTE_NAME:osprey:ospreys:osprey]
 	[GENERAL_CHILD_NAME:osprey chick:osprey chicks]
@@ -2702,7 +2702,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	Pangaron
 
 [CREATURE:BIRD_EMU]
-	[DESCRIPTION:Um grande passaro que não voa. É muito curioso e sabe-se que segue outras criaturas.]
+	[DESCRIPTION:Um grande pássaros que não voa. É muito curioso e sabe-se que segue outras criaturas.]
 	[NAME:emu:emus:emu]
 	[CASTE_NAME:emu:emus:emu]
 	[CHILD:1][GENERAL_CHILD_NAME:emu chick:emu chicks]
@@ -3177,7 +3177,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	harakka
 
 [CREATURE:BIRD_MAGPIE]
-	[DESCRIPTION:Um pequeno passaro preto e branco. É uma das criaturas naturais mais inteligentes.]
+	[DESCRIPTION:Um pequeno pássaros preto e branco. É uma das criaturas naturais mais inteligentes.]
 	[NAME:magpie:magpies:magpie]
 	[CASTE_NAME:magpie:magpies:magpie]
 	[GENERAL_CHILD_NAME:magpie hatchling:magpie hatchlings]
@@ -3987,7 +3987,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Hornbill Interactive - Jim Regan / balrogkernel
 
 [CREATURE:BIRD_HORNBILL]
-	[DESCRIPTION:Um passaro minusculo com um bico grande e colorido.]
+	[DESCRIPTION:Um pássaros minúsculo com um bico grande e colorido.]
 	[NAME:hornbill:hornbills:hornbill]
 	[CASTE_NAME:hornbill:hornbills:hornbill]
 	[GENERAL_CHILD_NAME:hornbill chick:hornbill chicks]
@@ -4126,7 +4126,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant hornbill:giant hornbills:giant hornbill]
 	[CASTE_NAME:giant hornbill:giant hornbills:giant hornbill]
 	[GENERAL_CHILD_NAME:giant hornbill chick:giant hornbill chicks]
-	[DESCRIPTION:Um enorme monstro em forma de passaro Calau.]
+	[DESCRIPTION:Um enorme monstro em forma de pássaros Calau.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'H']
 	[COLOR:0:0:1]
@@ -4146,7 +4146,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	From Jake, for my lovebird Heather.
 
 [CREATURE:BIRD_LOVEBIRD_MASKED]
-	[DESCRIPTION:Um passaro minusculo e colorido. Pode ser treinado para ser um companheiro agradavel.]
+	[DESCRIPTION:Um pássaros minúsculo e colorido. Pode ser treinado para ser um companheiro agradavel.]
 	[NAME:masked lovebird:masked lovebirds:masked lovebird]
 	[CASTE_NAME:masked lovebird:masked lovebirds:masked lovebird]
 	[GENERAL_CHILD_NAME:masked lovebird hatchling:masked lovebird hatchlings]
@@ -4303,7 +4303,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 Bushtits were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_BUSHTIT]
-	[DESCRIPTION:Um pequeno passaro marrom encontrado em florestas abertas.]
+	[DESCRIPTION:Um pequeno pássaros marrom encontrado em florestas abertas.]
 	[NAME:bushtit:bushtits:bushtit]
 	[CASTE_NAME:bushtit:bushtits:bushtit]
 	[GENERAL_CHILD_NAME:bushtit hatchling:bushtit hatchlings]

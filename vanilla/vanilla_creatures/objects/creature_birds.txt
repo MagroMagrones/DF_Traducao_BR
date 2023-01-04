@@ -632,7 +632,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BIRD_RW_BLACKBIRD]
-	[DESCRIPTION:Um pequeno passaro preto com marcas vermelhas brilhantes sob as asas. Eles vivem no pantano.]
+	[DESCRIPTION:Um pequeno pássaros preto com marcas vermelhas brilhantes sob as asas. Eles vivem no pantano.]
 	[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[GENERAL_CHILD_NAME:red-winged blackbird hatchling:red-winged blackbird hatchlings]
@@ -798,7 +798,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	Theq629
 
 [CREATURE:BIRD_PENGUIN] (based on Magellanic penguin like the ones in the local zoo, while we only have 3 kinds)
-	[DESCRIPTION:Um pequeno passaro que não voa que vive nas costas articas.]
+	[DESCRIPTION:Um pequeno pássaros que não voa que vive nas costas articas.]
 	[NAME:penguin:penguins:penguin]
 	[CASTE_NAME:penguin:penguins:penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:penguin chick:penguin chicks]
@@ -893,7 +893,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_LITTLE]
-	[DESCRIPTION:Um pequeno passaro que não voa, de cor azul, que vive nas costas articas.]
+	[DESCRIPTION:Um pequeno pássaros que não voa, de cor azul, que vive nas costas articas.]
 	[NAME:little penguin:little penguins:little penguin]
 	[CASTE_NAME:little penguin:little penguins:little penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:little penguin chick:little penguin chicks]
@@ -989,7 +989,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_EMPEROR]
-	[DESCRIPTION:Um pequeno passaro que não voa, é o maior dos pinguins naturais. É conhecida por suas caminhadas por leguas de gelo glacial.]
+	[DESCRIPTION:Um pequeno pássaros que não voa, é o maior dos pinguins naturais. É conhecida por suas caminhadas por leguas de gelo glacial.]
 	[NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:emperor penguin chick:emperor penguin chicks]
@@ -1308,7 +1308,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[GO_TO_START]
 	[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]
 	[GENERAL_CHILD_NAME:giant peregrine falcon chick:giant peregrine falcon chicks]
-	[DESCRIPTION:Um grande monstro passaro que tem a mesma forma de um falcão peregrino.]
+	[DESCRIPTION:Um grande monstro pássaros que tem a mesma forma de um falcão peregrino.]
 	[CREATURE_TILE:'P']
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
@@ -1334,7 +1334,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	Gregory Kampjes, McLovin
 
 [CREATURE:BIRD_KIWI]
-	[DESCRIPTION:Um pequeno passaro marrom que não voa. Come insetos e larvas e é conhecido por seu olfato agucado.]
+	[DESCRIPTION:Um pequeno pássaros marrom que não voa. Come insetos e larvas e é conhecido por seu olfato agucado.]
 	[NAME:kiwi:kiwis:kiwi]
 	[CHILD:1][GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]
 	[CREATURE_TILE:'k'][COLOR:6:0:0]
@@ -1629,7 +1629,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:ostrich man:ostrich men:ostrich man]
-	[DESCRIPTION:Esta é uma criatura de tamanho medio com pernas e bracos, mas o longo pescoco e cabeça de um avestruz.]
+	[DESCRIPTION:Esta é uma criatura de tamanho medio com pernas e braços, mas o longo pescoco e cabeça de um avestruz.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1646,7 +1646,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:giant ostrich:giant ostriches:giant ostrich]
 	[GENERAL_CHILD_NAME:giant ostrich chick:giant ostrich chicks]
-	[DESCRIPTION:Um enorme monstro passaro com pernas e pescoco extremamente longos.]
+	[DESCRIPTION:Um enorme monstro pássaros com pernas e pescoco extremamente longos.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:10] should be seasonal
 	[CREATURE_TILE:'O']

@@ -168,7 +168,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 Chinchillas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:CHINCHILLA]
-	[DESCRIPTION:Um minusculo roedor peludo habitando as fendas ocas das rochas. Eles podem ser encontrados no alto das montanhas.]
+	[DESCRIPTION:Um minúsculo roedor peludo habitando as fendas ocas das rochas. Eles podem ser encontrados no alto das montanhas.]
 	[NAME:chinchilla:chinchillas:chinchilla]
 	[CASTE_NAME:chinchilla:chinchillas:chinchilla]
 	[CHILD:1][GENERAL_CHILD_NAME:chinchilla kit:chinchilla kits]

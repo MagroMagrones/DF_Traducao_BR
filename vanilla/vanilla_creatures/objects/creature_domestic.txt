@@ -123,7 +123,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CAT]
-	[DESCRIPTION:Um pequeno mamifero carnivoro. Geralmente é domestico e caca vermes.]
+	[DESCRIPTION:Um pequeno mamifero carnivoro. Geralmente é domestico e caça vermes.]
 	[NAME:cat:cats:feline]
 	[CASTE_NAME:cat:cats:feline]
 	[CREATURE_TILE:'c'][COLOR:0:0:1]
@@ -1308,7 +1308,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_DUCK]
-	[DESCRIPTION:Um pequeno passaro aquatico. Tem um pescoco longo e pernas poderosas para nadar e mergulhar.]
+	[DESCRIPTION:Um pequeno pássaros aquatico. Tem um pescoco longo e pernas poderosas para nadar e mergulhar.]
 	[NAME:duck:ducks:duck]
 	[CHILD:1][GENERAL_CHILD_NAME:duckling:ducklings]
 	[CREATURE_TILE:'d'][COLOR:2:0:0]
@@ -2133,7 +2133,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_GUINEAFOWL]
-	[DESCRIPTION:Um pequeno passaro terrestre. Tem a cabeça sem penas e come sementes e insetos. Ele se move em grupos.]
+	[DESCRIPTION:Um pequeno pássaros terrestre. Tem a cabeça sem penas e come sementes e insetos. Ele se move em grupos.]
 	[NAME:guineafowl:guineafowls:guineafowl]
 	[CHILD:1][GENERAL_CHILD_NAME:keet:keets]
 	[CREATURE_TILE:'g'][COLOR:0:0:1]
@@ -2232,7 +2232,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PEAFOWL_BLUE]
-	[DESCRIPTION:Um pequeno passaro da floresta. A cauda do macho cria uma exibicão extravagante para as femeas. A noite, eles se empoleiram nas arvores.]
+	[DESCRIPTION:Um pequeno pássaros da floresta. A cauda do macho cria uma exibicão extravagante para as femeas. A noite, eles se empoleiram nas arvores.]
 	[NAME:blue peafowl:blue peafowls:blue peafowl]
 	[CHILD:1][GENERAL_CHILD_NAME:blue peachick:blue peachicks]
 	[CREATURE_TILE:'p'][COLOR:1:0:1]
@@ -2341,7 +2341,7 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_TURKEY]
-	[DESCRIPTION:Um pequeno passaro da floresta conhecido pelas abas distintas de pele penduradas em seu rosto. É valorizado por sua carne.]
+	[DESCRIPTION:Um pequeno pássaros da floresta conhecido pelas abas distintas de pele penduradas em seu rosto. É valorizado por sua carne.]
 	[NAME:turkey:turkeys:turkey]
 	[CHILD:1][GENERAL_CHILD_NAME:poult:poults]
 	[CREATURE_TILE:'t'][COLOR:4:0:1]

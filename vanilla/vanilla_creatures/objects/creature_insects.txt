@@ -3,7 +3,7 @@ creature_insects
 [OBJECT:CREATURE]
 
 [CREATURE:FLY]
-	[DESCRIPTION:Um minusculo inseto voador encontrado em torno de carne podre e lixo. Esses insetos são amplamente considerados um incomodo.]
+	[DESCRIPTION:Um minúsculo inseto voador encontrado em torno de carne podre e lixo. Esses insetos são amplamente considerados um incomodo.]
 	[NAME:fly:flies:fly]
 	[CASTE_NAME:fly:flies:fly]
 	[CREATURE_TILE:250][COLOR:0:0:1]
@@ -215,7 +215,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:BEETLE]
-	[DESCRIPTION:Um minusculo inseto que pode ser encontrado em quase qualquer lugar do lado de fora.]
+	[DESCRIPTION:Um minúsculo inseto que pode ser encontrado em quase qualquer lugar do lado de fora.]
 	[NAME:beetle:beetles:beetle]
 	[CASTE_NAME:beetle:beetles:beetle]
 	[CREATURE_TILE:250][COLOR:4:0:0]
@@ -317,7 +317,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:ANT]
-	[DESCRIPTION:Este minusculo inseto pode ser encontrado em enormes colonias na terra. Eles oprimem seus inimigos com enxames. Alguns tem picadas de veneno.]
+	[DESCRIPTION:Este minúsculo inseto pode ser encontrado em enormes colonias na terra. Eles oprimem seus inimigos com enxames. Alguns tem picadas de veneno.]
 	[NAME:ant:ants:ant]
 	[CREATURE_TILE:250][COLOR:7:0:0]
 	[NATURAL]
@@ -499,7 +499,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:FIREFLY]
-	[DESCRIPTION:Um minusculo inseto voador que pode ser visto a noite por sua cauda brilhante.]
+	[DESCRIPTION:Um minúsculo inseto voador que pode ser visto a noite por sua cauda brilhante.]
 	[NAME:firefly:fireflies:firefly]
 	[CASTE_NAME:firefly:fireflies:firefly]
 	[CREATURE_TILE:249][COLOR:2:0:1]

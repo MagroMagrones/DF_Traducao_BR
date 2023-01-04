@@ -333,7 +333,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:LION]
-	[DESCRIPTION:Um grande predador feroz encontrado em pastagens. Vive em grupos de femeas e um macho com uma grande juba. Eles cacam juntos e são capazes de abater presas extremamente grandes.]
+	[DESCRIPTION:Um grande predador feroz encontrado em pastagens. Vive em grupos de femeas e um macho com uma grande juba. Eles caçam juntos e são capazes de abater presas extremamente grandes.]
 	[NAME:lion:lions:lion]
 	[CASTE_NAME:lion:lions:lion]
 	[CHILD:3][GENERAL_CHILD_NAME:lion cub:lion cubs]
@@ -482,7 +482,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:LEOPARD]
-	[DESCRIPTION:Um grande felino malhado encontrado na grama e na floresta. É conhecido pela grande velocidade na caca.]
+	[DESCRIPTION:Um grande felino malhado encontrado na grama e na floresta. É conhecido pela grande velocidade na caça.]
 	[NAME:leopard:leopards:leopard]
 	[CASTE_NAME:leopard:leopards:leopard]
 	[CHILD:3][GENERAL_CHILD_NAME:leopard cub:leopard cubs]
@@ -780,7 +780,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:TIGER]
-	[DESCRIPTION:Um enorme predador listrado. É encontrado em quase todos os climas em uma cacada solitaria por suas presas.]
+	[DESCRIPTION:Um enorme predador listrado. É encontrado em quase todos os climas em uma caçada solitaria por suas presas.]
 	[NAME:tiger:tigers:tiger]
 	[CASTE_NAME:tiger:tigers:tiger]
 	[CHILD:3][GENERAL_CHILD_NAME:tiger cub:tiger cubs]
@@ -916,7 +916,7 @@ creature_large_tropical
 	[NAME:giant tiger:giant tigers:giant tiger]
 	[CASTE_NAME:giant tiger:giant tigers:giant tiger]
 	[GENERAL_CHILD_NAME:giant tiger cub:giant tiger cubs]
-	[DESCRIPTION:O maior dos gatos gigantes. Pode ser encontrado cacando sozinho no campo mais selvagem.]
+	[DESCRIPTION:O maior dos gatos gigantes. Pode ser encontrado caçando sozinho no campo mais selvagem.]
 	[POPULATION_NUMBER:2:3]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'T']
@@ -1833,7 +1833,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GIBBON_WHITE_HANDED]
-	[DESCRIPTION:Um pequeno macaco de bracos longos. Vive nas arvores e come frutas.]
+	[DESCRIPTION:Um pequeno macaco de braços longos. Vive nas arvores e come frutas.]
 	[NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]
 	[CASTE_NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]
 	[CREATURE_TILE:'g'][COLOR:6:0:0]
@@ -3106,7 +3106,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:900:714:529:303:1900:2900] 29 kph
 
 [CREATURE:BIRD_VULTURE]
-	[DESCRIPTION:Um grande passaro com uma cabeça vermelha sem penas encontrada no ceu dos desertos tropicais, examinando o solo em busca de carcacas mortas.]
+	[DESCRIPTION:Um grande pássaros com uma cabeça vermelha sem penas encontrada no ceu dos desertos tropicais, examinando o solo em busca de carcaças mortas.]
 	[NAME:vulture:vultures:vulture]
 	[CASTE_NAME:vulture:vultures:vulture]
 	[GENERAL_CHILD_NAME:vulture hatchling:vulture hatchlings]
