@@ -29,7 +29,7 @@ inorganic_other
 
 [INORGANIC:CERAMIC_STONEWARE]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
-	[STATE_NAME_ADJ:ALL:gres]
+	[STATE_NAME_ADJ:ALL:grês]
 	[DISPLAY_COLOR:7:0:0][TILE:'#']
 	[SOLID_DENSITY:2000]
 	[IS_STONE]
@@ -84,8 +84,8 @@ inorganic_other
 
 [INORGANIC:MILK_OF_LIME] limewater / hydrated calcium oxide
 	[STATE_COLOR:ALL_SOLID:WHITE]
-	[STATE_NAME:ALL:agua de cal]
-	[STATE_NAME_ADJ:ALL:agua de cal]
+	[STATE_NAME:ALL:água de cal]
+	[STATE_NAME_ADJ:ALL:água de cal]
 	[DISPLAY_COLOR:7:7:1][TILE:'#']
 	[MATERIAL_VALUE:10]
 	[SPEC_HEAT:4181]
