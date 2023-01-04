@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla World Map]
-[DESCRIPTION:Os graficos da fortaleza ana padrao para o mapa do mundo.]
+[DESCRIPTION:Os graficos da fortaleza ana padrão para o mapa do mundo.]

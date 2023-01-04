@@ -100,12 +100,12 @@ Most of these are from Wikipedia's color list.  Palettes only support 255 colors
 	[RGB:0:123:167]
 
 [COLOR:CHARCOAL]
-	[NAME:carvao vegetal]
+	[NAME:carvão vegetal]
 	[WORD:CHARCOAL]
 	[RGB:54:69:79]
 
 [COLOR:CHARTREUSE]
-	[NAME:verde-limao]
+	[NAME:verde-limão]
 	[WORD:CHARTREUSE]
 	[RGB:127:255:0]
 
@@ -296,7 +296,7 @@ Most of these are from Wikipedia's color list.  Palettes only support 255 colors
 	[RGB:255:240:245]
 
 [COLOR:LEMON]
-	[NAME:limao]
+	[NAME:limão]
 	[WORD:LEMON]
 	[RGB:253:233:16]
 
@@ -469,7 +469,7 @@ Most of these are from Wikipedia's color list.  Palettes only support 255 colors
 	[RGB:183:65:14]
 
 [COLOR:SAFFRON]
-	[NAME:acafrao]
+	[NAME:acafrão]
 	[WORD:SAFFRON]
 	[RGB:244:196:48]
 
@@ -563,7 +563,7 @@ Most of these are from Wikipedia's color list.  Palettes only support 255 colors
 	[RGB:48:213:200]
 
 [COLOR:VERMILION]
-	[NAME:vermelhao]
+	[NAME:vermelhão]
 	[WORD:VERMILION]
 	[RGB:227:66:52]
 

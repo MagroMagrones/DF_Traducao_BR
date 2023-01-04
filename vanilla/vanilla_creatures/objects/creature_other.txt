@@ -240,7 +240,7 @@ creature_other
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WAMBLER_FLUFFY]
-	[DESCRIPTION:Um ser fofo e cheio de cardapio, conhecido por seu coracao quente e tropecos.]
+	[DESCRIPTION:Um ser fofo e cheio de cardapio, conhecido por seu coracão quente e tropecos.]
 	[NAME:fluffy wambler:fluffy wamblers:fluffy wambler]
 	[CASTE_NAME:fluffy wambler:fluffy wamblers:fluffy wambler]
 	[CREATURE_TILE:249][COLOR:7:0:1]
@@ -393,7 +393,7 @@ creature_other
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WORM_KNUCKLE]
-	[DESCRIPTION:Uma pequena criatura composta por uma serie de botoes crepitantes em angulos estranhos.]
+	[DESCRIPTION:Uma pequena criatura composta por uma serie de botões crepitantes em angulos estranhos.]
 	[NAME:knuckle worm:knuckle worms:knuckle worm]
 	[CASTE_NAME:knuckle worm:knuckle worms:knuckle worm]
 	[CREATURE_TILE:'~'][COLOR:0:0:1]

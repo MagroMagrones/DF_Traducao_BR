@@ -4,4 +4,4 @@ text_guard_warning
 
 [TEXT_SET:GUARD_WARNING]
 
-Nao comece nenhum problema.
+Não comece nenhum problema.

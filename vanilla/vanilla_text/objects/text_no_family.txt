@@ -4,4 +4,4 @@ text_no_family
 
 [TEXT_SET:NO_FAMILY]
 
-Eu nao tenho familia para falar
+Eu não tenho familia para falar

@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Creatures Graphics]
-[DESCRIPTION:Essas sao as imagens das criaturas da fortaleza ana padrao.Algumas partes, como o anao, empunhava imagens de equipamentos, confiam nos itens de baunilha ou equivalentes presentes.]
+[DESCRIPTION:Essas são as imagens das criaturas da fortaleza ana padrão.Algumas partes, como o anão, empunhava imagens de equipamentos, confiam nos itens de baunilha ou equivalentes presentes.]

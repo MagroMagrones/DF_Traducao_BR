@@ -72,7 +72,7 @@ item_helm
 [SHAPED]
 
 [ITEM_HELM:ITEM_HELM_VEIL_HEAD]
-[NAME:veu de cabeca:veus de cabeca]
+[NAME:veu de cabeça:veus de cabeça]
 [LAYER:OVER]
 [COVERAGE:50]
 [LAYER_SIZE:10]
@@ -94,7 +94,7 @@ item_helm
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_HELM:ITEM_HELM_SCARF_HEAD]
-[NAME:lenco de cabeca:lencos de cabeca]
+[NAME:lenco de cabeça:lencos de cabeça]
 [LAYER:OVER]
 [COVERAGE:50]
 [LAYER_SIZE:10]

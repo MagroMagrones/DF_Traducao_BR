@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Bodies]
-[DESCRIPTION:Estes sao os corpos da fortaleza ana padrao para criaturas, incluindo criaturas geradas aleatoriamente e modelos de tecido.]
+[DESCRIPTION:Estes são os corpos da fortaleza ana padrão para criaturas, incluindo criaturas geradas aleatoriamente e modelos de tecido.]

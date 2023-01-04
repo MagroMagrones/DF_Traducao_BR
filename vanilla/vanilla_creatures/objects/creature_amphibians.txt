@@ -85,7 +85,7 @@ creature_amphibians
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem cogumelo:homens cogumelos:homem cogumelo]
-	[DESCRIPTION:Um homem verde escuro com a distinta cabeca de um sapo.]
+	[DESCRIPTION:Um homem verde escuro com a distinta cabeça de um sapo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]

@@ -110,7 +110,7 @@ Hamsters were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:hamster man:hamster men:hamster man]
-	[DESCRIPTION:Uma pessoa com a cabeca e pelo de um hamster.]
+	[DESCRIPTION:Uma pessoa com a cabeça e pelo de um hamster.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -149,7 +149,7 @@ Hedgehogs were sponsored by the generous contributions of the Bay 12 community.
 	Hedgehog: Closest thing to a zefie in Vanilla DF. -Sponsored by Strife
 
 [CREATURE:HEDGEHOG]
-	[DESCRIPTION:Um pequeno mamifero redondo cujas costas sao cobertas de espinhos.e noturno e se alimenta de insetos.Ele se enrola em uma bola quando assustado e e encontrado em regioes temperadas.]
+	[DESCRIPTION:Um pequeno mamifero redondo cujas costas são cobertas de espinhos.e noturno e se alimenta de insetos.Ele se enrola em uma bola quando assustado e e encontrado em regiões temperadas.]
 	[NAME:hedgehog:hedgehogs:hedgehog]
 	[CASTE_NAME:hedgehog:hedgehogs:hedgehog]
 	[CREATURE_TILE:249][COLOR:6:0:0]
@@ -260,7 +260,7 @@ Hedgehogs were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:hedgehog man:hedgehog men:hedgehog man]
-	[DESCRIPTION:Uma pessoa com a cabeca e os espinhos de um ourico.]
+	[DESCRIPTION:Uma pessoa com a cabeça e os espinhos de um ourico.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -404,7 +404,7 @@ Flying squirrels were sponsored by the generous contributions of the Bay 12 comm
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:flying squirrel man:flying squirrel men:flying squirrel man]
-	[DESCRIPTION:Uma pessoa com a cabeca e asas de um esquilo voador.]
+	[DESCRIPTION:Uma pessoa com a cabeça e asas de um esquilo voador.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:3:5]
 	[MAXAGE:60:80]

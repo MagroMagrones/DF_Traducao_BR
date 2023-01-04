@@ -9,7 +9,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	In Memory of Half-Beak
 
 [CREATURE:BIRD_CROW]
-	[DESCRIPTION:Um pequeno passaro preto que se alimenta de carnica. Eh social, muito inteligente e sabe usar ferramentas.]
+	[DESCRIPTION:Um pequeno passaro preto que se alimenta de carniça. É social, muito inteligente e sabe usar ferramentas.]
 	[NAME:corvo:corvos:corvo]
 	[CASTE_NAME:corvo:corvos:corvo]
 	[GENERAL_CHILD_NAME:filhote de corvo:filhotes de corvos]
@@ -133,7 +133,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-corvo:homens-corvos:homem-corvo]
-	[DESCRIPTION:Uma pessoa pequena com cabeca e asas de corvo.]
+	[DESCRIPTION:Uma pessoa pequena com cabeça e asas de corvo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -175,7 +175,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	Thes33 - "Neverdwarf."
 
 [CREATURE:BIRD_RAVEN]
-	[DESCRIPTION:Um pequeno e sinistro passaro preto que se alimenta de carnica. Eh social, muito inteligente e sabe usar ferramentas.]
+	[DESCRIPTION:Um pequeno e sinistro passaro preto que se alimenta de carniça. É social, muito inteligente e sabe usar ferramentas.]
 	[NAME:corvo:corvos:corvo]
 	[CASTE_NAME:corvo:corvos:corvo]
 	[GENERAL_CHILD_NAME:filhote de corvo:filhotes de corvos]
@@ -302,7 +302,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-corvo:homens-corvos:homem-corvo]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de corvo.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de corvo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -456,7 +456,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-casuar:homens-casuares:homem-casuar]
-	[DESCRIPTION:Uma pessoa de cores vivas com a cabeca de um Casuar.]
+	[DESCRIPTION:Uma pessoa de cores vivas com a cabeça de um Casuar.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -619,7 +619,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-papagaio:homens-papagaios:homem-papagaio]
-	[DESCRIPTION:Uma pessoa verde com a cabeca de um Papagaio.]
+	[DESCRIPTION:Uma pessoa verde com a cabeça de um Papagaio.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -786,7 +786,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:homem-coruja-das-neves:homens-corujas-das-neves:homem-coruja-das-neves]
-	[DESCRIPTION:Uma pessoa com asas e cabeca de uma coruja branca.]
+	[DESCRIPTION:Uma pessoa com asas e cabeça de uma coruja branca.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -953,7 +953,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:sparrow man:sparrow men:sparrow man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de pardal.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de pardal.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1102,7 +1102,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:white stork man:white stork men:white stork man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de cegonha, tambem de pe sobre pernas longas.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de cegonha, tambem de pe sobre pernas longas.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -1145,7 +1145,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Klokwurk. You can't get better than awesome!
 
 [CREATURE:BIRD_LOON]
-	[DESCRIPTION:Uma pequena ave aquatica encontrada em lagos remotos. Eh conhecido por seu canto assustador.]
+	[DESCRIPTION:Uma pequena ave aquatica encontrada em lagos remotos. É conhecido por seu canto assustador.]
 	[NAME:loon:loons:loon]
 	[CASTE_NAME:loon:loons:loon]
 	[CHILD:1][GENERAL_CHILD_NAME:loon chick:loon chicks]
@@ -1252,7 +1252,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:loon man:loon men:loon man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de Mergulhao.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de Mergulhão.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1271,7 +1271,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant loon:giant loons:giant loon]
 	[CASTE_NAME:giant loon:giant loons:giant loon]
 	[GENERAL_CHILD_NAME:giant loon chick:giant loon chicks]
-	[DESCRIPTION:Um grande monstro em forma de mergulhao.]
+	[DESCRIPTION:Um grande monstro em forma de mergulhão.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:4]
 	[CREATURE_TILE:'L']
@@ -1584,7 +1584,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:parakeet man:parakeet men:parakeet man]
-	[DESCRIPTION:Pessoa com cabeca e asas de periquito.]
+	[DESCRIPTION:Pessoa com cabeça e asas de periquito.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1625,7 +1625,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	You've just been shagged by a rare parrot!
 
 [CREATURE:BIRD_KAKAPO]
-	[DESCRIPTION:Um pequeno papagaio verde que nao voa. Eh noturno e conta-se entre os passaros mais longevos.]
+	[DESCRIPTION:Um pequeno papagaio verde que não voa. É noturno e conta-se entre os passaros mais longevos.]
 	[NAME:kakapo:kakapo:kakapo]
 	[CASTE_NAME:kakapo:kakapo:kakapo]
 	[CHILD:7][GENERAL_CHILD_NAME:kakapo chick:kakapo chicks]
@@ -1733,7 +1733,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kakapo man:kakapo men:kakapo man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de Papagaio-Kakapo.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de Papagaio-Kakapo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1881,7 +1881,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:grey parrot man:grey parrot men:grey parrot man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de um papagaio cinza.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de um papagaio cinza.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:3:5]
 	[MAXAGE:60:80]
@@ -2026,7 +2026,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:puffin man:puffin men:puffin man]
-	[DESCRIPTION:Uma pessoa emplumada com a cabeca de um papagaio-do-mar.]
+	[DESCRIPTION:Uma pessoa emplumada com a cabeça de um papagaio-do-mar.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2171,7 +2171,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:swan man:swan men:swan man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de cisne.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de cisne.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:2]
 	[MAXAGE:60:80]
@@ -2331,7 +2331,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:lorikeet man:lorikeet men:lorikeet man]
-	[DESCRIPTION:Uma pessoa colorida com a cabeca e as asas de um Papagaio-Lorikeet.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeça e as asas de um Papagaio-Lorikeet.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2496,7 +2496,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:wren man:wren men:wren man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de Carrica.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de Carrica.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2663,7 +2663,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:osprey man:osprey men:osprey man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de aguia-pesqueira.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de aguia-pesqueira.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2702,7 +2702,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	Pangaron
 
 [CREATURE:BIRD_EMU]
-	[DESCRIPTION:Um grande passaro que nao voa. Eh muito curioso e sabe-se que segue outras criaturas.]
+	[DESCRIPTION:Um grande passaro que não voa. É muito curioso e sabe-se que segue outras criaturas.]
 	[NAME:emu:emus:emu]
 	[CASTE_NAME:emu:emus:emu]
 	[CHILD:1][GENERAL_CHILD_NAME:emu chick:emu chicks]
@@ -2818,7 +2818,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:emu man:emu men:emu man]
-	[DESCRIPTION:Uma pessoa emplumada com cabeca de Ema.]
+	[DESCRIPTION:Uma pessoa emplumada com cabeça de Ema.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2857,7 +2857,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	To Beth, from Andy
 
 [CREATURE:BIRD_COCKATIEL]
-	[DESCRIPTION:Um pequeno papagaio com crista. Eles sao valorizados como companheiros domesticos.]
+	[DESCRIPTION:Um pequeno papagaio com crista. Eles são valorizados como companheiros domesticos.]
 	[NAME:cockatiel:cockatiels:cockatiel]
 	[CASTE_NAME:cockatiel:cockatiels:cockatiel]
 	[GENERAL_CHILD_NAME:cockatiel hatchling:cockatiel hatchlings]
@@ -2977,7 +2977,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cockatiel man:cockatiel men:cockatiel man]
-	[DESCRIPTION:Uma pessoa com crista com cabeca e asas de calopsita.]
+	[DESCRIPTION:Uma pessoa com crista com cabeça e asas de calopsita.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3015,7 +3015,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_LOVEBIRD_PEACH-FACED]
-	[DESCRIPTION:Um pequeno papagaio de cores vivas. Eles sao espertos e aprendem muitos truques.]
+	[DESCRIPTION:Um pequeno papagaio de cores vivas. Eles são espertos e aprendem muitos truques.]
 	[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
 	[CASTE_NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
 	[GENERAL_CHILD_NAME:peach-faced lovebird hatchling:peach-faced lovebird hatchlings]
@@ -3137,7 +3137,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:peach-faced lovebird man:peach-faced lovebird men:peach-faced lovebird man]
-	[DESCRIPTION:Uma pessoa colorida com a cabeca e as asas de um pombinho cor de pessego.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeça e as asas de um pombinho cor de pessego.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3177,7 +3177,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	harakka
 
 [CREATURE:BIRD_MAGPIE]
-	[DESCRIPTION:Um pequeno passaro preto e branco. Eh uma das criaturas naturais mais inteligentes.]
+	[DESCRIPTION:Um pequeno passaro preto e branco. É uma das criaturas naturais mais inteligentes.]
 	[NAME:magpie:magpies:magpie]
 	[CASTE_NAME:magpie:magpies:magpie]
 	[GENERAL_CHILD_NAME:magpie hatchling:magpie hatchlings]
@@ -3299,7 +3299,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:magpie man:magpie men:magpie man]
-	[DESCRIPTION:Pessoa com cabeca e asas de Pega.]
+	[DESCRIPTION:Pessoa com cabeça e asas de Pega.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -3466,7 +3466,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kestrel man:kestrel men:kestrel man]
-	[DESCRIPTION:Pessoa com cabeca e asas de Francelho.]
+	[DESCRIPTION:Pessoa com cabeça e asas de Francelho.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -3610,7 +3610,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:albatross man:albatross men:albatross man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de Pelicano.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de Pelicano.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:10]
 	[MAXAGE:60:80]
@@ -3780,7 +3780,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:great horned owl man:great horned owl men:great horned owl man]
-	[DESCRIPTION:Uma pessoa emplumada com cabeca e asas de uma grande coruja com chifres.]
+	[DESCRIPTION:Uma pessoa emplumada com cabeça e asas de uma grande coruja com chifres.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3948,7 +3948,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:eagle man:eagle men:eagle man]
-	[DESCRIPTION:Uma pessoa emplumada com cabeca e asas de aguia.]
+	[DESCRIPTION:Uma pessoa emplumada com cabeça e asas de aguia.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -4265,7 +4265,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:masked lovebird man:masked lovebird men:masked lovebird man]
-	[DESCRIPTION:Uma pessoa colorida com a cabeca e as asas de um pombinho mascarado.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeça e as asas de um pombinho mascarado.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -4423,7 +4423,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:bushtit man:bushtit men:bushtit man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de Bushtit.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de Bushtit.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

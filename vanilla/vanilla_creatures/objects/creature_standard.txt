@@ -448,7 +448,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HUMAN]
-	[DESCRIPTION:Uma criatura de tamanho medio propenso a uma grande ambicao.]
+	[DESCRIPTION:Uma criatura de tamanho medio propenso a uma grande ambicão.]
 	[NAME:human:humans:human]
 	[CASTE_NAME:human:humans:human]
 	[OUTSIDER_CONTROLLABLE]
@@ -728,7 +728,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ELF]
-	[DESCRIPTION:Uma criatura de tamanho medio dedicado a protecao implacavel da natureza.]
+	[DESCRIPTION:Uma criatura de tamanho medio dedicado a protecão implacavel da natureza.]
 	[NAME:elf:elves:elven]
 	[CASTE_NAME:elf:elves:elven]
 	[CREATURE_TILE:'e'][COLOR:3:0:0]
@@ -2594,7 +2594,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COLOSSUS_BRONZE]
-	[DESCRIPTION:Uma gigantesca estatua magica feita de bronze e inclinada no caos.]
+	[DESCRIPTION:Uma gigantesca estatua magica feita de bronze e inclinada no cãos.]
 	[NAME:bronze colossus:bronze colossuses:bronze colossus]
 	[CASTE_NAME:bronze colossus:bronze colossuses:bronze colossus]
 	[CREATURE_TILE:'C'][COLOR:6:0:0]
@@ -3161,7 +3161,7 @@ creature_standard
 				[TLCM_NOUN:eye:SINGULAR]
 
 [CREATURE:ETTIN]
-	[DESCRIPTION:Um monstro humanóide gigante com duas cabecas.]
+	[DESCRIPTION:Um monstro humanóide gigante com duas cabeças.]
 	[NAME:ettin:ettins:ettin]
 	[CASTE_NAME:ettin:ettins:ettin]
 	[CREATURE_TILE:'E'][COLOR:6:0:1]
@@ -3414,7 +3414,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MINOTAUR]
-	[DESCRIPTION:Um monstro humanóide gigante com a cabeca de um touro.]
+	[DESCRIPTION:Um monstro humanóide gigante com a cabeça de um touro.]
 	[NAME:minotaur:minotaurs:minotaur]
 	[CASTE_NAME:minotaur:minotaurs:minotaur]
 	[CREATURE_TILE:'M'][COLOR:6:0:0]
@@ -3430,7 +3430,7 @@ creature_standard
 	[BIOME:ANY_LAND]
 	[PERSONALITY:BRAVERY:75:90:100]
 	[SPHERE:CAVERNS]
-	[SPHERE:CHAOS]
+	[SPHERE:CHãoS]
 	[SPHERE:DARKNESS]
 	[SPHERE:DEFORMITY]
 	[SPHERE:STRENGTH]
@@ -4780,7 +4780,7 @@ creature_standard
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:NIGHTWING]
-	[DESCRIPTION:Um monstro voador com pele esticada sobre seu corpo emaciado.Tem a cabeca de um chacal com chifres em forma de agulha saindo atraves de sua juba.]
+	[DESCRIPTION:Um monstro voador com pele esticada sobre seu corpo emaciado.Tem a cabeça de um chacal com chifres em forma de agulha saindo atraves de sua juba.]
 	[NAME:nightwing:nightwings:nightwing]
 	[CASTE_NAME:nightwing:nightwings:nightwing]
 	[CREATURE_TILE:'N'][COLOR:0:0:1]
@@ -5048,7 +5048,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HYDRA]
-	[DESCRIPTION:Um monstro gigante parecido com um dragao com sete cabecas mordidas.]
+	[DESCRIPTION:Um monstro gigante parecido com um dragão com sete cabeças mordidas.]
 	[NAME:hydra:hydras:hydra]
 	[CASTE_NAME:hydra:hydras:hydra]
 	[CREATURE_TILE:'H'][COLOR:4:0:1]
@@ -5406,7 +5406,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SEA_SERPENT]
-	[DESCRIPTION:Um dragao gigantesco que vive no mar.]
+	[DESCRIPTION:Um dragão gigantesco que vive no mar.]
 	[NAME:sea serpent:sea serpents:sea serpent]
 	[CASTE_NAME:sea serpent:sea serpents:sea serpent]
 	[CREATURE_TILE:'S'][COLOR:3:0:1]
@@ -5581,7 +5581,7 @@ creature_standard
 		[MULTIPLY_VALUE:5]
 
 [CREATURE:BIRD_ROC]
-	[DESCRIPTION:Um passaro de rapina tao grande e feroz que supera muitos dragoes.Tudo embaixo de suas asas poderosas deve temer o ceu.]
+	[DESCRIPTION:Um passaro de rapina tão grande e feroz que supera muitos dragões.Tudo embaixo de suas asas poderosas deve temer o ceu.]
 	[NAME:roc:rocs:roc]
 	[CASTE_NAME:roc:rocs:roc]
 	[GENERAL_CHILD_NAME:roc hatchling:roc hatchlings]

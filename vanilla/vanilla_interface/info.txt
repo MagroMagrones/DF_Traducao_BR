@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Interface]
-[DESCRIPTION:Os graficos de fortaleza ana padrao para os botoes de interface, icones, etc.]
+[DESCRIPTION:Os graficos de fortaleza ana padrão para os botões de interface, icones, etc.]

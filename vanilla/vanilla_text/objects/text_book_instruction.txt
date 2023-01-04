@@ -7,15 +7,15 @@ text_book_instruction
 [NAME]
 Um Curso sobre [NAME]
 Uma humilde oferta para [NAME]
-Uma meditacao sobre [NAME]
+Uma meditacão sobre [NAME]
 Um registro de [NAME]
 Um Tratado sobre [NAME]
 Um mundo de [NAME]
 Sobre [NAME]
 Depois de [NAME]
 Contra [NAME]
-Uma Exploracao de [NAME]
-Uma introducao a [NAME]
+Uma Exploracão de [NAME]
+Uma introducão a [NAME]
 Uma oferta para [NAME]
 Em Um Com [NAME]
 Antes de [NAME]
@@ -35,26 +35,26 @@ Sonhos de [NAME]
 Elementos de [NAME]
 Erros em [NAME]
 Explorando [NAME]
-Exploracoes de [NAME]
+Explorações de [NAME]
 [NO_ART_NAME] factual
 Pelo amor de [NAME]
-Fundacoes de [NAME]
+Fundações de [NAME]
 De-me [NAME]
 ótimo [NO_ART_NAME]
 Em busca de [NAME]
 Consultas sobre [NAME]
-Interpretacoes de [NAME]
-Introducao a [NAME]
+Interpretações de [NAME]
+Introducão a [NAME]
 Tudo comeca com [NAME]
 e [NAME]
 Viagem para [NAME]
 Vida com [NAME]
 Mestre de [NAME]
-Masterizacao [NAME]
-Meditacoes sobre [NAME]
+Masterizacão [NAME]
+Meditações sobre [NAME]
 Equivocos sobre [NAME]
 Mais [NO_ART_NAME]
-Reflexoes sobre [NAME]
+Reflexões sobre [NAME]
 Meus pensamentos sobre [NAME]
 Misterios de [NAME]
 Nunca Subestime [NAME]
@@ -66,7 +66,7 @@ Principios de [NAME]
 Pergunta [NAME]
 Perguntas sobre [NAME]
 Registros de [NAME]
-Reflexoes sobre [NAME]
+Reflexões sobre [NAME]
 Segredo [NO_ART_NAME]
 Comece o seu dia com [NAME]
 Estranho [NO_ART_NAME]
@@ -76,7 +76,7 @@ O futuro de [NAME]
 O Grande [NO_ART_NAME]
 O significado oculto de [NAME]
 A História de [NAME]
-A interpretacao de [NAME]
+A interpretacão de [NAME]
 A Jornada para [NAME]
 O Conhecimento de [NAME]
 O significado de [NAME]
@@ -84,7 +84,7 @@ Os Misterios de [NAME]
 O misterio de [NAME]
 O matizado [NO_ART_NAME]
 As possibilidades de [NAME]
-A Perseguicao de [NAME]
+A Perseguicão de [NAME]
 O Segredo de [NAME]
 [NO_ART_NAME] do aluno
 O Estudo de [NAME]
@@ -138,17 +138,17 @@ Vitória de [NAME]
 [NAME], minha vida
 [NAME], meu amor
 [NAME]: Uma Breve História
-[NAME]: Uma Breve Introducao
+[NAME]: Uma Breve Introducão
 [NAME]: Uma Nova Abordagem
 [NAME]: Um dilema
 [NAME]: Antes e Depois
 [NAME]: Pratica Comum
-[NAME]: Fato ou Ficcao?
-[NAME]: Mais reflexoes
+[NAME]: Fato ou Ficcão?
+[NAME]: Mais reflexões
 [NAME]: Meu unico erro
 [NAME]: Natural ou Sobrenatural?
 [NAME]: Principios e Pratica
-[NAME]: Problemas e Solucoes
+[NAME]: Problemas e Soluções
 [NAME]: O Guia Definitivo
 [NAME]: A Verdade
 [NAME] pode salvar o mundo?

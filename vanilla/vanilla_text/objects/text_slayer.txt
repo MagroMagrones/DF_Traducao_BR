@@ -4,7 +4,7 @@ text_slayer
 
 [TEXT_SET:SLAYER]
 
-maldicao
+maldicão
 conquistador
 morte
 inimigo

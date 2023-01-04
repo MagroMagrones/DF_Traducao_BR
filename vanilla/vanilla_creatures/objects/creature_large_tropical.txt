@@ -295,7 +295,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:warthog man:warthog men:warthog man]
-	[DESCRIPTION:Uma pessoa com a cabeca de um javali.]
+	[DESCRIPTION:Uma pessoa com a cabeça de um javali.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -333,7 +333,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:LION]
-	[DESCRIPTION:Um grande predador feroz encontrado em pastagens. Vive em grupos de femeas e um macho com uma grande juba. Eles cacam juntos e sao capazes de abater presas extremamente grandes.]
+	[DESCRIPTION:Um grande predador feroz encontrado em pastagens. Vive em grupos de femeas e um macho com uma grande juba. Eles cacam juntos e são capazes de abater presas extremamente grandes.]
 	[NAME:lion:lions:lion]
 	[CASTE_NAME:lion:lions:lion]
 	[CHILD:3][GENERAL_CHILD_NAME:lion cub:lion cubs]
@@ -446,7 +446,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:lion man:lion men:lion man]
-	[DESCRIPTION:Uma pessoa com cabeca de leao.]
+	[DESCRIPTION:Uma pessoa com cabeça de leão.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -467,7 +467,7 @@ creature_large_tropical
 	[NAME:giant lion:giant lions:giant lion]
 	[CASTE_NAME:giant lion:giant lions:giant lion]
 	[GENERAL_CHILD_NAME:giant lion cub:giant lion cubs]
-	[DESCRIPTION:Uma versao gigantesca do predador felino. Seus orgulhos gigantes podem ser encontrados nas partes mais selvagens e selvagens do mundo.]
+	[DESCRIPTION:Uma versão gigantesca do predador felino. Seus orgulhos gigantes podem ser encontrados nas partes mais selvagens e selvagens do mundo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[CREATURE_TILE:'L']
@@ -482,7 +482,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:LEOPARD]
-	[DESCRIPTION:Um grande felino malhado encontrado na grama e na floresta. Eh conhecido pela grande velocidade na caca.]
+	[DESCRIPTION:Um grande felino malhado encontrado na grama e na floresta. É conhecido pela grande velocidade na caca.]
 	[NAME:leopard:leopards:leopard]
 	[CASTE_NAME:leopard:leopards:leopard]
 	[CHILD:3][GENERAL_CHILD_NAME:leopard cub:leopard cubs]
@@ -595,7 +595,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:leopard man:leopard men:leopard man]
-	[DESCRIPTION:Uma pessoa malhada com cabeca e cauda de leopardo.]
+	[DESCRIPTION:Uma pessoa malhada com cabeça e cauda de leopardo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -616,7 +616,7 @@ creature_large_tropical
 	[NAME:giant leopard:giant leopards:giant leopard]
 	[CASTE_NAME:giant leopard:giant leopards:giant leopard]
 	[GENERAL_CHILD_NAME:giant leopard cub:giant leopard cubs]
-	[DESCRIPTION:Um gigantesco predador malhado, superando seus primos pequenos. Eh encontrado nas terras selvagens.]
+	[DESCRIPTION:Um gigantesco predador malhado, superando seus primos pequenos. É encontrado nas terras selvagens.]
 	[POPULATION_NUMBER:2:3]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'L']
@@ -631,7 +631,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:JAGUAR]
-	[DESCRIPTION:Um felino grande, musculoso e malhado encontrado em selvas tropicais. Eh solitario e espreita e embosca suas presas.]
+	[DESCRIPTION:Um felino grande, musculoso e malhado encontrado em selvas tropicais. É solitario e espreita e embosca suas presas.]
 	[NAME:jaguar:jaguars:jaguar]
 	[CASTE_NAME:jaguar:jaguars:jaguar]
 	[CHILD:3][GENERAL_CHILD_NAME:jaguar cub:jaguar cubs]
@@ -744,7 +744,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:jaguar man:jaguar men:jaguar man]
-	[DESCRIPTION:Homem malhado com cabeca e rabo de onca.]
+	[DESCRIPTION:Homem malhado com cabeça e rabo de onca.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -780,7 +780,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:TIGER]
-	[DESCRIPTION:Um enorme predador listrado. Eh encontrado em quase todos os climas em uma cacada solitaria por suas presas.]
+	[DESCRIPTION:Um enorme predador listrado. É encontrado em quase todos os climas em uma cacada solitaria por suas presas.]
 	[NAME:tiger:tigers:tiger]
 	[CASTE_NAME:tiger:tigers:tiger]
 	[CHILD:3][GENERAL_CHILD_NAME:tiger cub:tiger cubs]
@@ -895,7 +895,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:tiger man:tiger men:tiger man]
-	[DESCRIPTION:Uma pessoa listrada de laranja com a cabeca de um tigre.]
+	[DESCRIPTION:Uma pessoa listrada de laranja com a cabeça de um tigre.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -931,7 +931,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:CHEETAH]
-	[DESCRIPTION:Um grande predador felino manchado. Eh capaz de uma velocidade incrivel ao emboscar sua presa.]
+	[DESCRIPTION:Um grande predador felino manchado. É capaz de uma velocidade incrivel ão emboscar sua presa.]
 	[NAME:cheetah:cheetahs:cheetah]
 	[CASTE_NAME:cheetah:cheetahs:cheetah]
 	[CHILD:3][GENERAL_CHILD_NAME:cheetah cub:cheetah cubs]
@@ -1043,7 +1043,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cheetah man:cheetah men:cheetah man]
-	[DESCRIPTION:Uma pessoa malhada com cabeca e cauda de chita.]
+	[DESCRIPTION:Uma pessoa malhada com cabeça e cauda de chita.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1064,7 +1064,7 @@ creature_large_tropical
 	[NAME:giant cheetah:giant cheetahs:giant cheetah]
 	[CASTE_NAME:giant cheetah:giant cheetahs:giant cheetah]
 	[GENERAL_CHILD_NAME:giant cheetah cub:giant cheetah cubs]
-	[DESCRIPTION:Um gato malhado gigante. Eh possivelmente o animal mais rapido em terra e eh encontrado na selva selvagem.]
+	[DESCRIPTION:Um gato malhado gigante. É possivelmente o animal mais rapido em terra e é encontrado na selva selvagem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
@@ -1079,7 +1079,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:GAZELLE]
-	[DESCRIPTION:Uma pequena criatura com cascos encontrada em grandes grupos nas pastagens. Tem chifres curtos e se move aos trancos e barrancos.]
+	[DESCRIPTION:Uma pequena criatura com cascos encontrada em grandes grupos nas pastagens. Tem chifres curtos e se move ãos trancos e barrancos.]
 	[NAME:gazelle:gazelles:gazelle]
 	[CASTE_NAME:gazelle:gazelles:gazelle]
 	[CHILD:1][GENERAL_CHILD_NAME:gazelle fawn:gazelle fawns]
@@ -1194,7 +1194,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:gazelle man:gazelle men:gazelle man]
-	[DESCRIPTION:Uma pessoa com chifres e cabeca de gazela.]
+	[DESCRIPTION:Uma pessoa com chifres e cabeça de gazela.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1228,7 +1228,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:MANDRILL]
-	[DESCRIPTION:Um grande macaco com rosto azul e garupa. Vive em grandes grupos e frequentemente sobrevive destruindo plantacoes e roubando lixo. Os machos sao maiores, com mandibulas poderosas.]
+	[DESCRIPTION:Um grande macaco com rosto azul e garupa. Vive em grandes grupos e frequentemente sobrevive destruindo plantações e roubando lixo. Os machos são maiores, com mandibulas poderosas.]
 	[NAME:mandrill:mandrills:mandrill]
 	[CASTE_NAME:mandrill:mandrills:mandrill]
 	[CREATURE_TILE:'m'][COLOR:1:0:1]
@@ -1339,7 +1339,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:mandrill man:mandrill men:mandrill man]
-	[DESCRIPTION:Uma pessoa de nadegas azuis com cabeca e cauda de mandril.]
+	[DESCRIPTION:Uma pessoa de nadegas azuis com cabeça e cauda de mandril.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1375,7 +1375,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:CHIMPANZEE]
-	[DESCRIPTION:Um grande macaco que vive nas florestas tropicais. Vive em complexos grupos sociais de muitos membros. Embora seja bastante inteligente, eh conhecido por ataques ferozes.]
+	[DESCRIPTION:Um grande macaco que vive nas florestas tropicais. Vive em complexos grupos sociais de muitos membros. Embora seja bastante inteligente, é conhecido por ataques ferozes.]
 	[NAME:chimpanzee:chimpanzees:chimpanzee]
 	[CASTE_NAME:chimpanzee:chimpanzees:chimpanzee]
 	[CREATURE_TILE:'c'][COLOR:0:0:1]
@@ -1466,7 +1466,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BONOBO]
-	[DESCRIPTION:Um grande macaco que vive nas florestas tropicais. Eh bastante inteligente e vive em grandes e complexos grupos sociais.]
+	[DESCRIPTION:Um grande macaco que vive nas florestas tropicais. É bastante inteligente e vive em grandes e complexos grupos sociais.]
 	[NAME:bonobo:bonobos:bonobo]
 	[CASTE_NAME:bonobo:bonobos:bonobo]
 	[CREATURE_TILE:'b'][COLOR:0:0:1]
@@ -1557,7 +1557,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GORILLA]
-	[DESCRIPTION:Um enorme macaco encontrado na floresta. Vive em pequenos grupos comendo plantas. Os grupos sao liderados por um grande macho dominante com dorso prateado.]
+	[DESCRIPTION:Um enorme macaco encontrado na floresta. Vive em pequenos grupos comendo plantas. Os grupos são liderados por um grande macho dominante com dorso prateado.]
 	[NAME:gorilla:gorillas:gorilla]
 	[CASTE_NAME:gorilla:gorillas:gorilla]
 	[CREATURE_TILE:'G'][COLOR:0:0:1]
@@ -1651,7 +1651,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ORANGUTAN]
-	[DESCRIPTION:Um enorme macaco inteligente encontrado nas florestas tropicais. Eh vermelho brilhante e encontrado vivendo nas arvores.]
+	[DESCRIPTION:Um enorme macaco inteligente encontrado nas florestas tropicais. É vermelho brilhante e encontrado vivendo nas arvores.]
 	[NAME:orangutan:orangutans:orangutan]
 	[CASTE_NAME:orangutan:orangutans:orangutan]
 	[CREATURE_TILE:'O'][COLOR:6:0:0]
@@ -1742,7 +1742,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GIBBON_SIAMANG]
-	[DESCRIPTION:Um macaco de tamanho medio encontrado nas arvores. Eh conhecido por suas chamadas altas.]
+	[DESCRIPTION:Um macaco de tamanho medio encontrado nas arvores. É conhecido por suas chamadas altas.]
 	[NAME:siamang:siamangs:siamang]
 	[CASTE_NAME:siamang:siamangs:siamang]
 	[CREATURE_TILE:'s'][COLOR:0:0:1]
@@ -2017,7 +2017,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GIBBON_GRAY]
-	[DESCRIPTION:Um pequeno macaco encontrado nas arvores da floresta tropical. Eh conhecido por suas chamadas.]
+	[DESCRIPTION:Um pequeno macaco encontrado nas arvores da floresta tropical. É conhecido por suas chamadas.]
 	[NAME:gray gibbon:gray gibbons:gray gibbon]
 	[CASTE_NAME:gray gibbon:gray gibbons:gray gibbon]
 	[CREATURE_TILE:'g'][COLOR:0:0:1]
@@ -2199,7 +2199,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GIBBON_PILEATED]
-	[DESCRIPTION:Um pequeno macaco encontrado aos pares, balancando nas arvores.]
+	[DESCRIPTION:Um pequeno macaco encontrado ãos pares, balancando nas arvores.]
 	[NAME:pileated gibbon:pileated gibbons:pileated gibbon]
 	[CASTE_NAME:pileated gibbon:pileated gibbons:pileated gibbon]
 	[CREATURE_TILE:'g'][COLOR:0:0:1]
@@ -2566,7 +2566,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CAMEL_1_HUMP]
-	[DESCRIPTION:Uma grande criatura de pescoco comprido com uma grande corcunda em seu corpo robusto. Foi domesticado para transportar passageiros e carga, mas mesmo assim eh mal-humorado e cuspira.]
+	[DESCRIPTION:Uma grande criatura de pescoco comprido com uma grande corcunda em seu corpo robusto. Foi domesticado para transportar passageiros e carga, mas mesmo assim é mal-humorado e cuspira.]
 	[NAME:one-humped camel:one-humped camels:one-humped camel]
 	[CASTE_NAME:one-humped camel:one-humped camels:one-humped camel]
 	[CHILD:1][GENERAL_CHILD_NAME:one-humped camel calf:one-humped camel calves]
@@ -2710,7 +2710,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:one-humped camel man:one-humped camel men:one-humped camel man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a corcova de um camelo de uma corcunda.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a corcova de um camelo de uma corcunda.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2757,7 +2757,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:CAMEL_2_HUMP]
-	[DESCRIPTION:Uma grande criatura de pescoco comprido com duas corcundas carnudas nas costas. Eh domesticado para transportar passageiros e cargas.]
+	[DESCRIPTION:Uma grande criatura de pescoco comprido com duas corcundas carnudas nas costas. É domesticado para transportar passageiros e cargas.]
 	[NAME:two-humped camel:two-humped camels:two-humped camel]
 	[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel]
 	[CHILD:1][GENERAL_CHILD_NAME:two-humped camel calf:two-humped camel calves]
@@ -2901,7 +2901,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:two-humped camel man:two-humped camel men:two-humped camel man]
-	[DESCRIPTION:Uma pessoa com cabeca e corcunda de um camelo de duas corcundas.]
+	[DESCRIPTION:Uma pessoa com cabeça e corcunda de um camelo de duas corcundas.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3070,7 +3070,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:saltwater crocodile man:saltwater crocodile men:saltwater crocodile man]
-	[DESCRIPTION:Uma pessoa com cabeca e cauda de crocodilo de agua salgada.]
+	[DESCRIPTION:Uma pessoa com cabeça e cauda de crocodilo de agua salgada.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -3106,7 +3106,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:900:714:529:303:1900:2900] 29 kph
 
 [CREATURE:BIRD_VULTURE]
-	[DESCRIPTION:Um grande passaro com uma cabeca vermelha sem penas encontrada no ceu dos desertos tropicais, examinando o solo em busca de carcacas mortas.]
+	[DESCRIPTION:Um grande passaro com uma cabeça vermelha sem penas encontrada no ceu dos desertos tropicais, examinando o solo em busca de carcacas mortas.]
 	[NAME:vulture:vultures:vulture]
 	[CASTE_NAME:vulture:vultures:vulture]
 	[GENERAL_CHILD_NAME:vulture hatchling:vulture hatchlings]
@@ -3229,7 +3229,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:vulture man:vulture men:vulture man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de abutre.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de abutre.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3264,7 +3264,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:RHINOCEROS]
-	[DESCRIPTION:Um enorme herbivoro com pele espessa e poderosa constituicao. Eh conhecido pelos chifres grossos na ponta do nariz.]
+	[DESCRIPTION:Um enorme herbivoro com pele espessa e poderosa constituicão. É conhecido pelos chifres grossos na ponta do nariz.]
 	[NAME:rhinoceros:rhinoceroses:rhinoceros]
 	[CASTE_NAME:rhinoceros:rhinoceroses:rhinoceros]
 	[CHILD:10][GENERAL_CHILD_NAME:rhinoceros calf:rhinoceros calves]
@@ -3376,7 +3376,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:rhinoceros man:rhinoceros men:rhinoceros man]
-	[DESCRIPTION:Uma pessoa com cabeca e chifres de rinoceronte.]
+	[DESCRIPTION:Uma pessoa com cabeça e chifres de rinoceronte.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3414,7 +3414,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:GIRAFFE]
-	[DESCRIPTION:Um enorme mamifero comedor de folhas. Tem um pescoco extremamente longo. Sua pele tem um padrao distinto de marrom e branco.]
+	[DESCRIPTION:Um enorme mamifero comedor de folhas. Tem um pescoco extremamente longo. Sua pele tem um padrão distinto de marrom e branco.]
 	[NAME:giraffe:giraffes:giraffe]
 	[CASTE_NAME:giraffe:giraffes:giraffe]
 	[CHILD:10][GENERAL_CHILD_NAME:giraffe calf:giraffe calves]
@@ -3514,7 +3514,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:giraffe man:giraffe men:giraffe man]
-	[DESCRIPTION:Uma pessoa com cabeca e pescoco de girafa.]
+	[DESCRIPTION:Uma pessoa com cabeça e pescoco de girafa.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3682,7 +3682,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:honey badger man:honey badger men:honey badger man]
-	[DESCRIPTION:Um humanoide com a cabeca e listras de um texugo de mel.]
+	[DESCRIPTION:Um humanoide com a cabeça e listras de um texugo de mel.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3713,7 +3713,7 @@ creature_large_tropical
 	[NAME:giant honey badger:giant honey badgers:giant honey badger]
 	[CASTE_NAME:giant honey badger:giant honey badgers:giant honey badger]
 	[GENERAL_CHILD_NAME:giant honey badger cub:giant honey badger cubs]
-	[DESCRIPTION:Um monstro enorme na forma de um texugo de mel. Eh feroz em combate.]
+	[DESCRIPTION:Um monstro enorme na forma de um texugo de mel. É feroz em combate.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'B']
@@ -3844,7 +3844,7 @@ Giant tortoises were sponsored by the generous contributions of the Bay 12 commu
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:giant tortoise man:giant tortoise men:giant tortoise man]
-	[DESCRIPTION:Uma pessoa com um grande casco e a cabeca de uma tartaruga gigante.]
+	[DESCRIPTION:Uma pessoa com um grande casco e a cabeça de uma tartaruga gigante.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -3989,7 +3989,7 @@ Armadillos were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:armadillo man:armadillo men:armadillo man]
-	[DESCRIPTION:Pessoa com pele e cabeca de tatu.]
+	[DESCRIPTION:Pessoa com pele e cabeça de tatu.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

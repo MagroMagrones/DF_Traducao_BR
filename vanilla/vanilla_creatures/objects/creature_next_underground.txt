@@ -4,7 +4,7 @@ creature_next_underground
 
 [CREATURE:FLOATING_GUTS]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um monstro transparente e amorfo que vive no subsolo. Eh pequeno em tamanho e eh encontrado rastejando pelo chao da caverna. Seus orgaos parecem estar flutuando dentro de seu corpo.]
+	[DESCRIPTION:Um monstro transparente e amorfo que vive no subsolo. É pequeno em tamanho e é encontrado rastejando pelo chão da caverna. Seus orgãos parecem estar flutuando dentro de seu corpo.]
 	[NAME:floating guts:floating guts:floating guts]
 	[CASTE_NAME:floating guts:floating guts:floating guts]
 	[CREATURE_TILE:'%'][COLOR:7:0:0]
@@ -58,7 +58,7 @@ creature_next_underground
 
 [CREATURE:DRUNIAN]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um grande quadrupede com uma juba circundando seu rosto humano e maos no final de seus membros anteriores. Ele vive no subsolo e gosta de invadir os suprimentos dos postos avancados das cavernas.]
+	[DESCRIPTION:Um grande quadrupede com uma juba circundando seu rosto humano e mãos no final de seus membros anteriores. Ele vive no subsolo e gosta de invadir os suprimentos dos postos avancados das cavernas.]
 	[NAME:drunian:drunians:drunian]
 	[CASTE_NAME:drunian:drunians:drunian]
 	[CREATURE_TILE:'d'][COLOR:7:0:0]
@@ -150,7 +150,7 @@ creature_next_underground
 
 [CREATURE:CREEPING_EYE]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um pequeno monstro subterraneo que rasteja pela parede da caverna com suas quatro maos com garras. Tem um unico olho grande que pode brilhar com luz propria, caso contrario, sua pele petrea se confunde com a rocha. Nao tem boca e diz-se que se alimenta apenas do mal.]
+	[DESCRIPTION:Um pequeno monstro subterraneo que rasteja pela parede da caverna com suas quatro mãos com garras. Tem um unico olho grande que pode brilhar com luz propria, caso contrario, sua pele petrea se confunde com a rocha. Não tem boca e diz-se que se alimenta apenas do mal.]
 	[NAME:creeping eye:creeping eyes:creeping eye]
 	[CASTE_NAME:creeping eye:creeping eyes:creeping eye]
 	[CREATURE_TILE:'e'][COLOR:7:0:1]
@@ -204,7 +204,7 @@ creature_next_underground
 
 [CREATURE:VORACIOUS_CAVE_CRAWLER]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um enorme monstro da caverna com centenas de pes movendo-se ao longo da parte inferior de seu corpo comprido. No lugar da cabeca, tem uma enorme boca cheia de dentes.]
+	[DESCRIPTION:Um enorme monstro da caverna com centenas de pes movendo-se ão longo da parte inferior de seu corpo comprido. No lugar da cabeça, tem uma enorme boca cheia de dentes.]
 	[NAME:voracious cave crawler:voracious cave crawlers:voracious cave crawler]
 	[CASTE_NAME:voracious cave crawler:voracious cave crawlers:voracious cave crawler]
 	[CREATURE_TILE:'C'][COLOR:1:0:0]
@@ -276,7 +276,7 @@ creature_next_underground
 
 [CREATURE:BLIND_CAVE_OGRE]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um grande monstro humanoide que habita uma caverna. Tem uma boca escancarada com muitos dentes afiados. Nao tem olhos e apenas dois dedos em cada mao e pe.]
+	[DESCRIPTION:Um grande monstro humanoide que habita uma caverna. Tem uma boca escancarada com muitos dentes afiados. Não tem olhos e apenas dois dedos em cada mão e pe.]
 	[NAME:blind cave ogre:blind cave ogres:blind cave ogre]
 	[CASTE_NAME:blind cave ogre:blind cave ogres:blind cave ogre]
 	[CREATURE_TILE:'O'][COLOR:7:0:1]
@@ -505,7 +505,7 @@ creature_next_underground
 
 [CREATURE:CRUNDLE]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um pequeno monstro subterraneo com grandes garras e chifres. Ele anda sobre duas pernas e eh perigoso quando encontrado em grande numero.]
+	[DESCRIPTION:Um pequeno monstro subterraneo com grandes garras e chifres. Ele anda sobre duas pernas e é perigoso quando encontrado em grande numero.]
 	[NAME:crundle:crundles:crundle]
 	[CASTE_NAME:crundle:crundles:crundle]
 	[CREATURE_TILE:'c'][COLOR:4:0:0]
@@ -627,7 +627,7 @@ creature_next_underground
 
 [CREATURE:HUNGRY_HEAD]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma boca assustadora de dentes compridos do tamanho da cabeca de um homem, voando em asas de morcego. Eh encontrado em cavernas profundas.]
+	[DESCRIPTION:Uma boca assustadora de dentes compridos do tamanho da cabeça de um homem, voando em asas de morcego. É encontrado em cavernas profundas.]
 	[NAME:hungry head:hungry heads:hungry head]
 	[CASTE_NAME:hungry head:hungry heads:hungry head]
 	[CREATURE_TILE:'h'][COLOR:0:0:1]
@@ -699,7 +699,7 @@ creature_next_underground
 
 [CREATURE:FLESH_BALL]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma grande bola de pele foi encontrada movendo-se entre os detritos perto de lagoas subterraneas. Eh la que ele absorve materia morta para se alimentar.]
+	[DESCRIPTION:Uma grande bola de pele foi encontrada movendo-se entre os detritos perto de lagoas subterraneas. É la que ele absorve materia morta para se alimentar.]
 	[NAME:flesh ball:flesh balls:flesh ball]
 	[CASTE_NAME:flesh ball:flesh balls:flesh ball]
 	[CREATURE_TILE:'o'][COLOR:6:0:0]
@@ -743,7 +743,7 @@ creature_next_underground
 
 [CREATURE:ELK_BIRD]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma grande criatura encontrada pastando em cogumelos no subsolo. Anda sobre duas patas e tem a cabeca de um passaro com os chifres de um grande alce.]
+	[DESCRIPTION:Uma grande criatura encontrada pastando em cogumelos no subsolo. Anda sobre duas patas e tem a cabeça de um passaro com os chifres de um grande alce.]
 	[NAME:elk bird:elk birds:elk bird]
 	[CASTE_NAME:elk bird:elk birds:elk bird]
 	[GENERAL_CHILD_NAME:elk bird hatchling:elk bird hatchlings]
@@ -856,7 +856,7 @@ creature_next_underground
 
 [CREATURE:HELMET_SNAKE]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma criatura semelhante a uma cobra vivendo no subsolo. Sua cabeca eh coberta por uma armadura que lembra a cabeca de um dragao.]
+	[DESCRIPTION:Uma criatura semelhante a uma cobra vivendo no subsolo. Sua cabeça é coberta por uma armadura que lembra a cabeça de um dragão.]
 	[NAME:helmet snake:helmet snakes:helmet snake]
 	[CASTE_NAME:helmet snake:helmet snakes:helmet snake]
 	[CREATURE_TILE:'s'][COLOR:7:0:1]
@@ -1127,7 +1127,7 @@ creature_next_underground
 
 [CREATURE:CREEPY_CRAWLER]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma pequena criatura subterranea feita de uma massa de apendices semelhantes a dedos humanos. Ele rasteja pelo chao como uma estrela do mar e come com a boca na parte inferior do corpo.]
+	[DESCRIPTION:Uma pequena criatura subterranea feita de uma massa de apendices semelhantes a dedos humanos. Ele rasteja pelo chão como uma estrela do mar e come com a boca na parte inferior do corpo.]
 	[NAME:creepy crawler:creepy crawlers:creepy crawler]
 	[CASTE_NAME:creepy crawler:creepy crawlers:creepy crawler]
 	[CREATURE_TILE:'*'][COLOR:6:0:0]
@@ -1261,7 +1261,7 @@ creature_next_underground
 
 [CREATURE:GIANT_EARTHWORM]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma versao gigantesca de seu primo minusculo, esta criatura longa e viscosa abre tuneis nas rochas profundas do subsolo.]
+	[DESCRIPTION:Uma versão gigantesca de seu primo minusculo, esta criatura longa e viscosa abre tuneis nas rochas profundas do subsolo.]
 	[NAME:giant earthworm:giant earthworms:giant earthworm]
 	[CASTE_NAME:giant earthworm:giant earthworms:giant earthworm]
 	[CREATURE_TILE:'W'][COLOR:7:0:0]
@@ -1310,7 +1310,7 @@ creature_next_underground
 
 [CREATURE:BLOOD_MAN]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma abominacao em forma de homem feita inteiramente de sangue. Essas criaturas amaldicoadas so sao encontradas muito perto do submundo.]
+	[DESCRIPTION:Uma abominacão em forma de homem feita inteiramente de sangue. Essas criaturas amaldicoadas so são encontradas muito perto do submundo.]
 	[NAME:blood man:blood men:blood man]
 	[CASTE_NAME:blood man:blood men:blood man]
 	[EVIL]
@@ -1383,7 +1383,7 @@ creature_next_underground
 
 [CREATURE:BUGBAT]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma pequena criatura parecida com um morcego com a cabeca de um inseto. Eh encontrado nas profundezas do subsolo.]
+	[DESCRIPTION:Uma pequena criatura parecida com um morcego com a cabeça de um inseto. É encontrado nas profundezas do subsolo.]
 	[NAME:bugbat:bugbats:bugbat]
 	[CASTE_NAME:bugbat:bugbats:bugbat]
 	[CHILD:1][GENERAL_CHILD_NAME:bugbat pup:bugbat pups]
@@ -1467,7 +1467,7 @@ creature_next_underground
 
 [CREATURE:MANERA]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma criatura que rasteja ao longo do teto da caverna com quatro bracos longos. Seu corpo tem a forma da cabeca de um homem com a boca cheia de dentes de tubarao. Ele espera que sua presa passe abaixo.]
+	[DESCRIPTION:Uma criatura que rasteja ão longo do teto da caverna com quatro bracos longos. Seu corpo tem a forma da cabeça de um homem com a boca cheia de dentes de tubarão. Ele espera que sua presa passe abaixo.]
 	[NAME:manera:maneras:manera]
 	[CASTE_NAME:manera:maneras:manera]
 	[CREATURE_TILE:'m'][COLOR:6:0:0]
@@ -1550,7 +1550,7 @@ creature_next_underground
 
 [CREATURE:MOLEMARIAN]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um monstro hediondo que tem o corpo de um rato-toupeira gigante e o torso de um homem-rato-toupeira. Eh encontrado nas profundezas do subsolo.]
+	[DESCRIPTION:Um monstro hediondo que tem o corpo de um rato-toupeira gigante e o torso de um homem-rato-toupeira. É encontrado nas profundezas do subsolo.]
 	[NAME:molemarian:molemarians:molemarian]
 	[CASTE_NAME:molemarian:molemarians:molemarian]
 	[CHILD:10][GENERAL_CHILD_NAME:molemarian puppy:molemarian puppies]
@@ -1818,7 +1818,7 @@ creature_next_underground
 
 [CREATURE:BLIND_CAVE_BEAR]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um enorme urso de aparencia emaciada com grandes orelhas caidas e muitos dentes afiados. Eh encontrado nas profundezas do subsolo.]
+	[DESCRIPTION:Um enorme urso de aparencia emaciada com grandes orelhas caidas e muitos dentes afiados. É encontrado nas profundezas do subsolo.]
 	[NAME:blind cave bear:blind cave bears:blind cave bear]
 	[CASTE_NAME:blind cave bear:blind cave bears:blind cave bear]
 	[CHILD:1][GENERAL_CHILD_NAME:blind cave bear cub:blind cave bear cubs]
@@ -1905,7 +1905,7 @@ creature_next_underground
 
 [CREATURE:CAVE_DRAGON]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um monstro gigante, outrora um dragao, agora adaptado e poluido pelo subterraneo. Suas asas caem moles ao seu lado. Seu rosto esta cheio de dentes incrivelmente longos. Seus olhos sao grandes para penetrar na escuridao.]
+	[DESCRIPTION:Um monstro gigante, outrora um dragão, agora adaptado e poluido pelo subterraneo. Suas asas caem moles ão seu lado. Seu rosto esta cheio de dentes incrivelmente longos. Seus olhos são grandes para penetrar na escuridão.]
 	[NAME:cave dragon:cave dragons:cave draconic]
 	[CASTE_NAME:cave dragon:cave dragons:cave draconic]
 	[CREATURE_TILE:'D'][COLOR:7:0:1]
@@ -2014,7 +2014,7 @@ creature_next_underground
 
 [CREATURE:REACHER]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um monstro humanoide encontrado a espreita no subsolo. Ele finge estar morto, geralmente perto da agua, ate que uma vitima passe. Ele entao usa seus longos bracos para arrastar suas presas para a agua para afoga-las ou estrangula-las.]
+	[DESCRIPTION:Um monstro humanoide encontrado a espreita no subsolo. Ele finge estar morto, geralmente perto da agua, ate que uma vitima passe. Ele então usa seus longos bracos para arrastar suas presas para a agua para afoga-las ou estrangula-las.]
 	[NAME:reacher:reachers:reacher]
 	[CASTE_NAME:reacher:reachers:reacher]
 	[CREATURE_TILE:'R'][COLOR:7:0:0]
@@ -2118,7 +2118,7 @@ creature_next_underground
 
 [CREATURE:ELEMENTMAN_GABBRO]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Gabro vivo em forma de homem. Essas estranhas criaturas sao encontradas no subsolo.]
+	[DESCRIPTION:Gabro vivo em forma de homem. Essas estranhas criaturas são encontradas no subsolo.]
 	[NAME:gabbro man:gabbro men:gabbro man]
 	[CASTE_NAME:gabbro man:gabbro men:gabbro man]
 	[CREATURE_TILE:'M'][COLOR:0:0:1]
@@ -2180,7 +2180,7 @@ creature_next_underground
 
 [CREATURE:GORLAK]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um humanoide pequeno e redondo encontrado vagando pelas cavernas no subsolo. A maior parte de seu corpo eh ocupada por uma enorme boca com presas.]
+	[DESCRIPTION:Um humanoide pequeno e redondo encontrado vagando pelas cavernas no subsolo. A maior parte de seu corpo é ocupada por uma enorme boca com presas.]
 	[NAME:gorlak:gorlaks:gorlak]
 	[CASTE_NAME:gorlak:gorlaks:gorlak]
 	[GOOD]
@@ -2568,7 +2568,7 @@ creature_next_underground
 
 [CREATURE:ELEMENTMAN_AMETHYST]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Uma estranha criatura cristalina na forma de um homem. Eh encontrado nas profundezas do subsolo.]
+	[DESCRIPTION:Uma estranha criatura cristalina na forma de um homem. É encontrado nas profundezas do subsolo.]
 	[NAME:amethyst man:amethyst men:amethyst man]
 	[CASTE_NAME:amethyst man:amethyst men:amethyst man]
 	[CREATURE_TILE:'M'][COLOR:5:0:1]

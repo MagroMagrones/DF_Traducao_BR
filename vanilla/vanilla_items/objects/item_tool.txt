@@ -3,7 +3,7 @@ item_tool
 [OBJECT:ITEM]
 
 [ITEM_TOOL:ITEM_TOOL_CAULDRON]
-[NAME:caldeirao:caldeiroes]
+[NAME:caldeirão:caldeirões]
 [VALUE:50]
 [METAL_MAT]
 [TOOL_USE:LIQUID_COOKING]
@@ -42,7 +42,7 @@ item_tool
 [CONTAINER_CAPACITY:1000]
 
 [ITEM_TOOL:ITEM_TOOL_PESTLE]
-[NAME:pilao:piloes]
+[NAME:pilão:pilões]
 [VALUE:10]
 [HARD_MAT]
 [TOOL_USE:GRIND_POWDER_GRINDER]
@@ -211,7 +211,7 @@ item_tool
 [CONTAINER_CAPACITY:500000]
 
 [ITEM_TOOL:ITEM_TOOL_WHEELBARROW]
-[NAME:carrinho de mao:carrinhos de mao]
+[NAME:carrinho de mão:carrinhos de mão]
 [VALUE:50]
 [METAL_MAT]
 [WOOD_MAT]

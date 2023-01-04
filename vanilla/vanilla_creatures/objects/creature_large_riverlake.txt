@@ -3,7 +3,7 @@ creature_large_riverlake
 [OBJECT:CREATURE]
 
 [CREATURE:HIPPO]
-	[DESCRIPTION:Uma criatura enorme, redonda e sem pelos do rio. Eh um animal comedor de plantas, mas tem longas presas e pode ser agressivo e mortal se perturbado.]
+	[DESCRIPTION:Uma criatura enorme, redonda e sem pelos do rio. É um animal comedor de plantas, mas tem longas presas e pode ser agressivo e mortal se perturbado.]
 	[NAME:hippo:hippos:hippo]
 	[CASTE_NAME:hippo:hippos:hippo]
 	[CHILD:5][GENERAL_CHILD_NAME:hippo calf:hippo calves]
@@ -113,7 +113,7 @@ creature_large_riverlake
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:hippo man:hippo men:hippo man]
-	[DESCRIPTION:Uma pessoa grande com a cabeca de um hipopotamo.]
+	[DESCRIPTION:Uma pessoa grande com a cabeça de um hipopotamo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
@@ -147,7 +147,7 @@ creature_large_riverlake
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:FISH_GAR_LONGNOSE]
-	[DESCRIPTION:Peixe de tamanho medio com focinho comprido. Eh encontrado em lagos e riachos.]
+	[DESCRIPTION:Peixe de tamanho medio com focinho comprido. É encontrado em lagos e riachos.]
 	[NAME:longnose gar:longnose gars:longnose gar]
 	[CASTE_NAME:longnose gar:longnose gars:longnose gar]
 	[CHILD:1][GENERAL_CHILD_NAME:longnose gar fry:longnose gar fry]
@@ -320,7 +320,7 @@ creature_large_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_TIGERFISH]
-	[DESCRIPTION:Peixe predador de tamanho medio encontrado em lagos e riachos. Eh conhecido por seus ataques ferozes e dentes entrelacados.]
+	[DESCRIPTION:Peixe predador de tamanho medio encontrado em lagos e riachos. É conhecido por seus ataques ferozes e dentes entrelacados.]
 	[NAME:tigerfish:tigerfish:tigerfish]
 	[CASTE_NAME:tigerfish:tigerfish:tigerfish]
 	[CHILD:1][GENERAL_CHILD_NAME:tigerfish fry:tigerfish fry]
@@ -494,7 +494,7 @@ creature_large_riverlake
 
 Platypuses were sponsored by the generous contributions of the Bay 12 community.
 
-	Chaos would like to make http://lostsouls.org/ more closely resemble Dwarf Fortress :)
+	Chãos would like to make http://lostsouls.org/ more closely resemble Dwarf Fortress :)
 	James Brooker
 	Kryten likes black bronze, olivine, olivine and platypuses for their venomous spurs.
 	Stuntaneous deems the Platypus worthy of Dwarven .. attention
@@ -676,7 +676,7 @@ Platypuses were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:platypus man:platypus men:platypus man]
-	[DESCRIPTION:Um humanoide com cabeca, cauda e esporas venenosas de um ornitorrinco.]
+	[DESCRIPTION:Um humanoide com cabeça, cauda e esporas venenosas de um ornitorrinco.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

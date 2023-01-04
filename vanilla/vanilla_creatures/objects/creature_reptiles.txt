@@ -98,7 +98,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:lizard man:lizard men:lizard man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a cauda de um lagarto.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a cauda de um lagarto.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -235,7 +235,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:skink man:skink men:skink man]
-	[DESCRIPTION:Uma pessoa de corpo ha muito tempo com a cabeca e a cauda de um skink.]
+	[DESCRIPTION:Uma pessoa de corpo ha muito tempo com a cabeça e a cauda de um skink.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -372,7 +372,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:chameleon man:chameleon men:chameleon man]
-	[DESCRIPTION:Uma pessoa colorida com a cabeca e a cauda de um camaleao.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeça e a cauda de um camaleão.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -390,7 +390,7 @@ creature_reptiles
 	[GO_TO_START]
 	[NAME:giant chameleon:giant chameleons:giant chameleon]
 	[CASTE_NAME:giant chameleon:giant chameleons:giant chameleon]
-	[DESCRIPTION:Um grande monstro na forma de um camaleao.]
+	[DESCRIPTION:Um grande monstro na forma de um camaleão.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
@@ -506,7 +506,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:anole man:anole men:anole man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a cauda de um anole.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a cauda de um anole.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -650,7 +650,7 @@ creature_reptiles
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:iguana man:iguana men:iguana man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a cauda de uma iguana.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a cauda de uma iguana.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]

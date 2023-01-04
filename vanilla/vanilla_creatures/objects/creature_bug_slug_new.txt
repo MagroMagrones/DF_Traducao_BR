@@ -76,7 +76,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:damselfly man:damselfly men:damselfly man]
-	[DESCRIPTION:Uma pessoa com asas e cabeca de Libelinha.]
+	[DESCRIPTION:Uma pessoa com asas e cabeça de Libelinha.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -115,7 +115,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	Shakkara thinks this game had a serious lack of cute moths
 
 [CREATURE:MOTH]
-	[DESCRIPTION:Um minusculo inseto noturno. Ele voa em direcao as chamas na noite.]
+	[DESCRIPTION:Um minusculo inseto noturno. Ele voa em direcão as chamas na noite.]
 	[CREATURE_TILE:249][COLOR:6:0:0]
 	[NAME:moth:moths:moth]
 	[CASTE_NAME:moth:moths:moth]
@@ -184,7 +184,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:moth man:moth men:moth man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de mariposa.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de mariposa.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -288,7 +288,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:grasshopper man:grasshopper men:grasshopper man]
-	[DESCRIPTION:Uma pessoa com cabeca e pernas de gafanhoto.]
+	[DESCRIPTION:Uma pessoa com cabeça e pernas de gafanhoto.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -437,7 +437,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:bark scorpion man:bark scorpion men:bark scorpion man]
-	[DESCRIPTION:Uma pessoa com cabeca, pinca e cauda de um escorpiao de casca.]
+	[DESCRIPTION:Uma pessoa com cabeça, pinca e cauda de um escorpião de casca.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -472,7 +472,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[GO_TO_START]
 	[NAME:giant bark scorpion:giant bark scorpions:giant bark scorpion]
 	[CASTE_NAME:giant bark scorpion:giant bark scorpions:giant bark scorpion]
-	[DESCRIPTION:Um enorme monstro na forma de um escorpiao de casca.]
+	[DESCRIPTION:Um enorme monstro na forma de um escorpião de casca.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
@@ -563,7 +563,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:mantis man:mantis men:mantis man]
-	[DESCRIPTION:Uma pessoa verde com a cabeca e os bracos de um louva-a-deus.]
+	[DESCRIPTION:Uma pessoa verde com a cabeça e os bracos de um louva-a-deus.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -599,7 +599,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 
 Ticks were sponsored by the generous contributions of the Bay 12 community.
 
-	infection vector extraordinaire!
+	infection vector extrãordinaire!
 
 [CREATURE:TICK]
 	[DESCRIPTION:Um minusculo inseto sugador de sangue encontrado em areas arborizadas.]
@@ -672,7 +672,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:tick man:tick men:tick man]
-	[DESCRIPTION:Uma pessoa com a cabeca e as pernas de um carrapato.]
+	[DESCRIPTION:Uma pessoa com a cabeça e as pernas de um carrapato.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -779,7 +779,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:louse man:louse men:louse man]
-	[DESCRIPTION:Uma pessoa com cabeca e pernas de piolho.]
+	[DESCRIPTION:Uma pessoa com cabeça e pernas de piolho.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -887,7 +887,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:thrips man:thrips men:thrips man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de tripes.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de tripes.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -976,7 +976,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:slug man:slug men:slug man]
 	[CASTE_NAME:slug man:slug men:slug man]
-	[DESCRIPTION:Uma grande lesma com o torso de um homem. Ele se puxa pelo chao com as maos para maior velocidade.]
+	[DESCRIPTION:Uma grande lesma com o torso de um homem. Ele se puxa pelo chão com as mãos para maior velocidade.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -1085,7 +1085,7 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 	[GO_TO_START]
 	[NAME:mosquito man:mosquito men:mosquito man]
-	[DESCRIPTION:Pessoa com cabeca e asas de mosquito.]
+	[DESCRIPTION:Pessoa com cabeça e asas de mosquito.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -1121,10 +1121,10 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 
 Jumping spiders were sponsored by the generous contributions of the Bay 12 community.
 
-	John 'Chaoseed' Evans
+	John 'Chãoseed' Evans
 
 [CREATURE:SPIDER_JUMPING]
-	[DESCRIPTION:Um minusculo inseto preto que nao tem teia, mas pode saltar distancias curtas.]
+	[DESCRIPTION:Um minusculo inseto preto que não tem teia, mas pode saltar distancias curtas.]
 	[NAME:jumping spider:jumping spiders:jumping spider]
 	[CASTE_NAME:jumping spider:jumping spiders:jumping spider]
 	[CREATURE_TILE:250][COLOR:0:0:1]
@@ -1192,7 +1192,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:jumping spider man:jumping spider men:jumping spider man]
-	[DESCRIPTION:Uma pessoa com a cabeca e os bracos de uma aranha saltadora.]
+	[DESCRIPTION:Uma pessoa com a cabeça e os bracos de uma aranha saltadora.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -1297,7 +1297,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	"In soviet russia, snail eats YOU with tiny fork!"
 
 [CREATURE:MOON_SNAIL]
-	[DESCRIPTION:Um minusculo molusco predador. Eh brilhantemente colorido.]
+	[DESCRIPTION:Um minusculo molusco predador. É brilhantemente colorido.]
 	[NAME:moon snail:moon snails:moon snail]
 	[CASTE_NAME:moon snail:moon snails:moon snail]
 	[CREATURE_TILE:249][COLOR:4:0:1]
@@ -1368,7 +1368,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:moon snail man:moon snail men:moon snail man]
-	[DESCRIPTION:Uma pessoa colorida com a cabeca e a casca de um caracol lunar.]
+	[DESCRIPTION:Uma pessoa colorida com a cabeça e a casca de um caracol lunar.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -1512,7 +1512,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:brown recluse spider man:brown recluse spider men:brown recluse spider man]
-	[DESCRIPTION:Uma pessoa com a cabeca e os bracos de uma aranha-marrom.]
+	[DESCRIPTION:Uma pessoa com a cabeça e os bracos de uma aranha-marrom.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]

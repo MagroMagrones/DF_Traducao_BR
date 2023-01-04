@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Music]
-[DESCRIPTION:Estes sao os gatilhos para a musica ana padrao e os efeitos sonoros.]
+[DESCRIPTION:Estes são os gatilhos para a musica ana padrão e os efeitos sonoros.]

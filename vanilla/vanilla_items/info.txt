@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Items]
-[DESCRIPTION:Estes sao os itens padrao da fortaleza ana.]
+[DESCRIPTION:Estes são os itens padrão da fortaleza ana.]

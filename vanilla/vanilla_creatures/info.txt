@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Creatures]
-[DESCRIPTION:Estas sao as criaturas padrao da fortaleza ana.]
+[DESCRIPTION:Estas são as criaturas padrão da fortaleza ana.]

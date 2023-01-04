@@ -4,4 +4,4 @@ text_justificatoin_representation
 
 [TEXT_SET:JUSTIFICATION_REPRESENTATION]
 
-pode ser pensado como uma representacao
+pode ser pensado como uma representacão

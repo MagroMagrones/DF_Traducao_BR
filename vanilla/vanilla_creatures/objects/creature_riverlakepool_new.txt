@@ -218,7 +218,7 @@ Otters were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:otter man:otter men:otter man]
-	[DESCRIPTION:Uma pessoa com o corpo longo e a cabeca de uma lontra.]
+	[DESCRIPTION:Uma pessoa com o corpo longo e a cabeça de uma lontra.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -460,7 +460,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:snapping turtle man:snapping turtle men:snapping turtle man]
-	[DESCRIPTION:Uma pessoa com a concha e a cabeca de uma tartaruga.]
+	[DESCRIPTION:Uma pessoa com a concha e a cabeça de uma tartaruga.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -609,7 +609,7 @@ Beavers were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:beaver man:beaver men:beaver man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a cauda plana de um castor.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a cauda plana de um castor.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -846,7 +846,7 @@ Axolotls were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:axolotl man:axolotl men:axolotl man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a cauda de um axolote.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a cauda de um axolote.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -992,7 +992,7 @@ Minks were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:mink man:mink men:mink man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a cauda de um doninhas.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a cauda de um doninhas.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1135,7 +1135,7 @@ Pond turtles were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:pond turtle man:pond turtle men:pond turtle man]
-	[DESCRIPTION:Uma pessoa com a cabeca e a concha de uma tartaruga de lagoa.]
+	[DESCRIPTION:Uma pessoa com a cabeça e a concha de uma tartaruga de lagoa.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]

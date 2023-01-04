@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Languages]
-[DESCRIPTION:Essas sao as palavras da fortaleza ana padrao e suas traducoes para os idiomas do jogo no jogo.]
+[DESCRIPTION:Essas são as palavras da fortaleza ana padrão e suas traduções para os idiomas do jogo no jogo.]

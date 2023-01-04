@@ -785,7 +785,7 @@ creature_subterranean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MOLE_GIANT]
-	[DESCRIPTION:Uma criatura de escavacao gigantesca encontrada no subsolo.]
+	[DESCRIPTION:Uma criatura de escavacão gigantesca encontrada no subsolo.]
 	[NAME:giant mole:giant moles:giant mole]
 	[CASTE_NAME:giant mole:giant moles:giant mole]
 	[CHILD:1][GENERAL_CHILD_NAME:giant mole pup:giant mole pups]
@@ -1268,7 +1268,7 @@ creature_subterranean
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cave fish man:cave fish men:cave fish man]
-	[DESCRIPTION:Uma criatura humanóide com a cabeca de um peixe cego de caverna.Eles vivem em colônias em regioes aquosas no subsolo.]
+	[DESCRIPTION:Uma criatura humanóide com a cabeça de um peixe cego de caverna.Eles vivem em colônias em regiões aquosas no subsolo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1463,7 +1463,7 @@ creature_subterranean
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:olm man:olm men:olm man]
-	[DESCRIPTION:Uma pessoa animal com a cabeca do olm anfibio.Vive no subsolo perto da agua.]
+	[DESCRIPTION:Uma pessoa animal com a cabeça do olm anfibio.Vive no subsolo perto da agua.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1589,7 +1589,7 @@ creature_subterranean
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:bat man:bat men:bat man]
-	[DESCRIPTION:Um humanóide com a cabeca de um morcego e asas que se estendem do pulso ao tornozelo.]
+	[DESCRIPTION:Um humanóide com a cabeça de um morcego e asas que se estendem do pulso ão tornozelo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:20:30]
@@ -2080,7 +2080,7 @@ creature_subterranean
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cave swallow man:cave swallow men:cave swallow man]
-	[DESCRIPTION:Um homem emplumado com as asas e cabeca de um passaro.Vive no subsolo.]
+	[DESCRIPTION:Um homem emplumado com as asas e cabeça de um passaro.Vive no subsolo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:20:30]
@@ -2287,7 +2287,7 @@ creature_subterranean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:REPTILE_MAN]
-	[DESCRIPTION:Essas criaturas sao moldadas como homens cobertos com escamas asperas.Eles tem a cabeca e a cauda de um lagarto e possuem uma inteligencia sombria e maligna.Eles sao encontrados profundamente sob a terra.]
+	[DESCRIPTION:Essas criaturas são moldadas como homens cobertos com escamas asperas.Eles tem a cabeça e a cauda de um lagarto e possuem uma inteligencia sombria e maligna.Eles são encontrados profundamente sob a terra.]
 	[NAME:reptile man:reptile men:reptile man]
 	[CREATURE_TILE:'r'][COLOR:2:0:0]
 	[LARGE_ROAMING]
@@ -2408,7 +2408,7 @@ creature_subterranean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SERPENT_MAN]
-	[DESCRIPTION:Uma grande cobra branca com os bracos e o tronco de um homem.Essas criaturas sao mas e vivem muito no subsolo.]
+	[DESCRIPTION:Uma grande cobra branca com os bracos e o tronco de um homem.Essas criaturas são mas e vivem muito no subsolo.]
 	[NAME:serpent man:serpent men:serpent man]
 	[CREATURE_TILE:'s'][COLOR:7:0:1]
 	[CREATURE_CLASS:POISONOUS]
@@ -2548,7 +2548,7 @@ creature_subterranean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ANT_MAN]
-	[DESCRIPTION:Um humanóide com a cabeca e o corpo de uma formiga.]
+	[DESCRIPTION:Um humanóide com a cabeça e o corpo de uma formiga.]
 	[NAME:antman:antmen:antman]
 	[CREATURE_TILE:'a'][COLOR:0:0:1]
 	[LARGE_ROAMING]
@@ -2665,7 +2665,7 @@ creature_subterranean
 		[BODY_SIZE:2:0:20000]
 
 [CREATURE:RODENT MAN]
-	[DESCRIPTION:Um humanóide maligno com uma cauda longa, pelo espesso preto e nariz de contracao.Ele vive muito no subsolo.]
+	[DESCRIPTION:Um humanóide maligno com uma cauda longa, pelo espesso preto e nariz de contracão.Ele vive muito no subsolo.]
 	[NAME:rodent man:rodent men:rodent man]
 	[CREATURE_TILE:'r'][COLOR:0:0:1]
 	[CREATURE_CLASS:MAMMAL]

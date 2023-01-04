@@ -752,7 +752,7 @@ creature_birds
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:red-winged blackbird man:red-winged blackbird men:red-winged blackbird man]
-	[DESCRIPTION:Uma pessoa com cabeca e asas de Melro de asas vermelhas.]
+	[DESCRIPTION:Uma pessoa com cabeça e asas de Melro de asas vermelhas.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -798,7 +798,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	Theq629
 
 [CREATURE:BIRD_PENGUIN] (based on Magellanic penguin like the ones in the local zoo, while we only have 3 kinds)
-	[DESCRIPTION:Um pequeno passaro que nao voa que vive nas costas articas.]
+	[DESCRIPTION:Um pequeno passaro que não voa que vive nas costas articas.]
 	[NAME:penguin:penguins:penguin]
 	[CASTE_NAME:penguin:penguins:penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:penguin chick:penguin chicks]
@@ -893,7 +893,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_LITTLE]
-	[DESCRIPTION:Um pequeno passaro que nao voa, de cor azul, que vive nas costas articas.]
+	[DESCRIPTION:Um pequeno passaro que não voa, de cor azul, que vive nas costas articas.]
 	[NAME:little penguin:little penguins:little penguin]
 	[CASTE_NAME:little penguin:little penguins:little penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:little penguin chick:little penguin chicks]
@@ -989,7 +989,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_EMPEROR]
-	[DESCRIPTION:Um pequeno passaro que nao voa, eh o maior dos pinguins naturais. Eh conhecida por suas caminhadas por leguas de gelo glacial.]
+	[DESCRIPTION:Um pequeno passaro que não voa, é o maior dos pinguins naturais. É conhecida por suas caminhadas por leguas de gelo glacial.]
 	[NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CHILD:1][GENERAL_CHILD_NAME:emperor penguin chick:emperor penguin chicks]
@@ -1107,7 +1107,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:penguin man:penguin men:penguin man]
-	[DESCRIPTION:Um humanoide com cabeca, pes e penas de pinguim.]
+	[DESCRIPTION:Um humanoide com cabeça, pes e penas de pinguim.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1290,7 +1290,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:peregrine falcon man:peregrine falcon men:peregrine falcon man]
-	[DESCRIPTION:Pessoa com cabeca e asas de Falcao peregrino.]
+	[DESCRIPTION:Pessoa com cabeça e asas de Falcão peregrino.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1308,7 +1308,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[GO_TO_START]
 	[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]
 	[GENERAL_CHILD_NAME:giant peregrine falcon chick:giant peregrine falcon chicks]
-	[DESCRIPTION:Um grande monstro passaro que tem a mesma forma de um falcao peregrino.]
+	[DESCRIPTION:Um grande monstro passaro que tem a mesma forma de um falcão peregrino.]
 	[CREATURE_TILE:'P']
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
@@ -1334,7 +1334,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	Gregory Kampjes, McLovin
 
 [CREATURE:BIRD_KIWI]
-	[DESCRIPTION:Um pequeno passaro marrom que nao voa. Come insetos e larvas e eh conhecido por seu olfato agucado.]
+	[DESCRIPTION:Um pequeno passaro marrom que não voa. Come insetos e larvas e é conhecido por seu olfato agucado.]
 	[NAME:kiwi:kiwis:kiwi]
 	[CHILD:1][GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]
 	[CREATURE_TILE:'k'][COLOR:6:0:0]
@@ -1446,7 +1446,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kiwi man:kiwi men:kiwi man]
-	[DESCRIPTION:Uma pessoa com cabeca e penas de Kiwi.]
+	[DESCRIPTION:Uma pessoa com cabeça e penas de Kiwi.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1492,7 +1492,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	Tristan Hayes
 
 [CREATURE:BIRD_OSTRICH]
-	[DESCRIPTION:Uma grande ave que nao voa que corre pela savana. Tem um longo pescoco e pernas.]
+	[DESCRIPTION:Uma grande ave que não voa que corre pela savana. Tem um longo pescoco e pernas.]
 	[NAME:ostrich:ostriches:ostrich]
 	[CHILD:1][GENERAL_CHILD_NAME:ostrich chick:ostrich chicks]
 	[CREATURE_TILE:'O'][COLOR:0:0:1]
@@ -1629,7 +1629,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:ostrich man:ostrich men:ostrich man]
-	[DESCRIPTION:Esta eh uma criatura de tamanho medio com pernas e bracos, mas o longo pescoco e cabeca de um avestruz.]
+	[DESCRIPTION:Esta é uma criatura de tamanho medio com pernas e bracos, mas o longo pescoco e cabeça de um avestruz.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

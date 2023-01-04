@@ -5,7 +5,7 @@ text_temple_already_member
 [TEXT_SET:TEMPLE_ALREADY_MEMBER]
 
 simplesmente
-eh o suficiente para
-sua tarefa eh simples;
+é o suficiente para
+sua tarefa é simples;
 apenas
-tudo que voce precisa eh
+tudo que voce precisa é

@@ -259,7 +259,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_HAGFISH]
-	[DESCRIPTION:Um peixe pequeno, copassado e semelhante a uma enguia que vive no fundo do oceano.Pode transformar a agua ao redor de seu corpo em uma nuvem de lodo para escapar dos predadores.]
+	[DESCRIPTION:Um peixe pequeno, copassado e semelhante a uma enguia que vive no fundo do oceano.Pode transformar a agua ão redor de seu corpo em uma nuvem de lodo para escapar dos predadores.]
 	[NAME:hagfish:hagfish:hagfish]
 	[CASTE_NAME:hagfish:hagfish:hagfish]
 	[CREATURE_TILE:'~'][COLOR:6:0:0]
@@ -327,7 +327,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_LAMPREY_BROOK]
-	[DESCRIPTION:Um peixe pequeno, sem mandibula e alimentacao de filtros encontrado em riachos e riachos.]
+	[DESCRIPTION:Um peixe pequeno, sem mandibula e alimentacão de filtros encontrado em riachos e riachos.]
 	[NAME:brook lamprey:brook lampreys:brook lamprey]
 	[CASTE_NAME:brook lamprey:brook lampreys:brook lamprey]
 	[CREATURE_TILE:'~'][COLOR:3:0:0]
@@ -531,7 +531,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RATFISH_SPOTTED]
-	[DESCRIPTION:Uma pequena criatura parecida com um tubarao que vive nas aguas rasas lamacentas do oceano.Sua pele brilha e tem uma coluna venenosa nas costas.]
+	[DESCRIPTION:Uma pequena criatura parecida com um tubarão que vive nas aguas rasas lamacentas do oceano.Sua pele brilha e tem uma coluna venenosa nas costas.]
 	[NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CREATURE_TILE:224][COLOR:6:0:0]
@@ -1538,7 +1538,7 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:squid man:squid men:squid man]
-	[DESCRIPTION:Uma pessoa pequena com uma cabeca com dez tentaculos.]
+	[DESCRIPTION:Uma pessoa pequena com uma cabeça com dez tentaculos.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

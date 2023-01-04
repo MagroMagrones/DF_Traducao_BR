@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Reactions]
-[DESCRIPTION:Essas sao as reacoes padrao da fortaleza ana, que sao varias atividades semelhantes a tarefas.]
+[DESCRIPTION:Essas são as reações padrão da fortaleza ana, que são varias atividades semelhantes a tarefas.]

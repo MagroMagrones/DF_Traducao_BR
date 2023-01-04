@@ -4,4 +4,4 @@ text_greet
 
 [TEXT_SET:GREET]
 
-Saudacoes.  Meu nome eh [SPEAKER:TRANS_NAME].
+Saudações.  Meu nome é [SPEAKER:TRANS_NAME].

@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Environment]
-[DESCRIPTION:Os graficos de fortaleza ana padrao para paredes, pisos, fluidos e outros objetos ambientais.]
+[DESCRIPTION:Os graficos de fortaleza ana padrão para paredes, pisos, fluidos e outros objetos ambientais.]

@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Buildings Graphics]
-[DESCRIPTION:Estes sao os graficos para os edificios de fortaleza ana padrao.]
+[DESCRIPTION:Estes são os graficos para os edificios de fortaleza ana padrão.]

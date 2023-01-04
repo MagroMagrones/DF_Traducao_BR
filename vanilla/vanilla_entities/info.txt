@@ -5,4 +5,4 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:Bay 12 Games]
 [NAME:Vanilla Entities]
-[DESCRIPTION:Estas sao as civilizacoes da fortaleza ana padrao.]
+[DESCRIPTION:Estas são as civilizações da fortaleza ana padrão.]
