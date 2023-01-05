@@ -3,7 +3,7 @@ creature_reptiles
 [OBJECT:CREATURE]
 
 [CREATURE:LIZARD]  zootoca vivipara, no eggs
-	[DESCRIPTION:Um pequeno reptil.]
+	[DESCRIPTION:Um pequeno r‚ptil.]
 	[NAME:lizard:lizards:lizard]
 	[CASTE_NAME:lizard:lizards:lizard]
 	[CREATURE_TILE:249][COLOR:6:0:0]

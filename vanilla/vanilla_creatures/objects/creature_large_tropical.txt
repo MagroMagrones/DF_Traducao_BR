@@ -2948,7 +2948,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:CROCODILE_SALTWATER]
-	[DESCRIPTION:Um enorme reptil predador encontrado em pÃ¢ntanos costeiros e deltas de rios. Ele embosca sua presa na costa e usa seu grande tamanho para arrastar a vitima para baixo e afoga-la.]
+	[DESCRIPTION:Um enorme r‚ptil predador encontrado em pÃ¢ntanos costeiros e deltas de rios. Ele embosca sua presa na costa e usa seu grande tamanho para arrastar a vitima para baixo e afoga-la.]
 	[NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]
 	[CASTE_NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]
 	[CHILD:3][GENERAL_CHILD_NAME:saltwater crocodile filhote:saltwater crocodile filhotes]
@@ -3737,7 +3737,7 @@ Giant tortoises were sponsored by the generous contributions of the Bay 12 commu
 	Ves - They were so edible.
 
 [CREATURE:GIANT TORTOISE]
-	[DESCRIPTION:Um reptil de tamanho medio com uma concha grande. Ele pode se esconder em sua concha para escapar de predadores.]
+	[DESCRIPTION:Um r‚ptil de tamanho medio com uma concha grande. Ele pode se esconder em sua concha para escapar de predadores.]
 	[NAME:giant tortoise:giant tortoises:giant tortoise]
 	[CASTE_NAME:giant tortoise:giant tortoises:giant tortoise]
 	[CHILD:1][GENERAL_CHILD_NAME:giant tortoise filhote:giant tortoise filhotes]

@@ -312,7 +312,7 @@ creature_other
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LIZARD_RHINO_TWO_LEGGED]
-	[DESCRIPTION:Um pequeno reptil, correndo em duas pernas.Tem uma buzina no final do nariz.]
+	[DESCRIPTION:Um pequeno r‚ptil, correndo em duas pernas.Tem uma buzina no final do nariz.]
 	[NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged rhino lizard]
 	[CASTE_NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged rhino lizard]
 	[GNAWER:gnawed]
