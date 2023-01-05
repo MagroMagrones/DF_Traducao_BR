@@ -2948,7 +2948,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:CROCODILE_SALTWATER]
-	[DESCRIPTION:Um enorme reptil predador encontrado em pantanos costeiros e deltas de rios. Ele embosca sua presa na costa e usa seu grande tamanho para arrastar a vitima para baixo e afoga-la.]
+	[DESCRIPTION:Um enorme reptil predador encontrado em pântanos costeiros e deltas de rios. Ele embosca sua presa na costa e usa seu grande tamanho para arrastar a vitima para baixo e afoga-la.]
 	[NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]
 	[CASTE_NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]
 	[CHILD:3][GENERAL_CHILD_NAME:saltwater crocodile filhote:saltwater crocodile filhotes]

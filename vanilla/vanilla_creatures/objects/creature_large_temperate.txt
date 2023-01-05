@@ -1371,7 +1371,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:ALLIGATOR]
-	[DESCRIPTION:Um enorme reptil, encontrado em rios e pantanos. � um predador de emboscada, solitario e territorial.]
+	[DESCRIPTION:Um enorme reptil, encontrado em rios e pântanos. � um predador de emboscada, solitario e territorial.]
 	[NAME:alligator:alligators:alligator]
 	[CASTE_NAME:alligator:alligators:alligator]
 	[CHILD:1][GENERAL_CHILD_NAME:alligator filhote:alligator filhotes]

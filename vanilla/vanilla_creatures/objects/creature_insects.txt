@@ -3,7 +3,7 @@ creature_insects
 [OBJECT:CREATURE]
 
 [CREATURE:FLY]
-	[DESCRIPTION:Um min£sculo inseto voador encontrado em torno de carne podre e lixo. Esses insetos s∆o amplamente considerados um incomodo.]
+	[DESCRIPTION:Um minÔøΩsculo inseto voador encontrado em torno de carne podre e lixo. Esses insetos sÔøΩo amplamente considerados um incomodo.]
 	[NAME:fly:flies:fly]
 	[CASTE_NAME:fly:flies:fly]
 	[CREATURE_TILE:250][COLOR:0:0:1]
@@ -75,7 +75,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:fly man:fly men:fly man]
-	[DESCRIPTION:Uma pessoa com asas e cabeáa de mosca.]
+	[DESCRIPTION:Uma pessoa com asas e cabeÔøΩa de mosca.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -109,7 +109,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:ROACH_LARGE]
-	[DESCRIPTION:Um pequeno inseto que procura comida e lixo n∆o vigiados. Eles temem a luz.]
+	[DESCRIPTION:Um pequeno inseto que procura comida e lixo nÔøΩo vigiados. Eles temem a luz.]
 	[NAME:large roach:large roaches:large roach]
 	[CASTE_NAME:large roach:large roaches:large roach]
 	[CREATURE_TILE:249][COLOR:6:0:0]
@@ -181,7 +181,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:roach man:roach men:roach man]
-	[DESCRIPTION:Uma pessoa com asas e cabeáa de barata.]
+	[DESCRIPTION:Uma pessoa com asas e cabeÔøΩa de barata.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -215,7 +215,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:BEETLE]
-	[DESCRIPTION:Um min£sculo inseto que pode ser encontrado em quase qualquer lugar do lado de fora.]
+	[DESCRIPTION:Um minÔøΩsculo inseto que pode ser encontrado em quase qualquer lugar do lado de fora.]
 	[NAME:beetle:beetles:beetle]
 	[CASTE_NAME:beetle:beetles:beetle]
 	[CREATURE_TILE:250][COLOR:4:0:0]
@@ -284,7 +284,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:beetle man:beetle men:beetle man]
-	[DESCRIPTION:Pessoa com carapaca e cabeáa de besouro.]
+	[DESCRIPTION:Pessoa com carapaca e cabeÔøΩa de besouro.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -317,7 +317,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:ANT]
-	[DESCRIPTION:Este min£sculo inseto pode ser encontrado em enormes colonias na terra. Eles oprimem seus inimigos com enxames. Alguns tem picadas de veneno.]
+	[DESCRIPTION:Este minÔøΩsculo inseto pode ser encontrado em enormes colonias na terra. Eles oprimem seus inimigos com enxames. Alguns tem picadas de veneno.]
 	[NAME:ant:ants:ant]
 	[CREATURE_TILE:250][COLOR:7:0:0]
 	[NATURAL]
@@ -396,7 +396,7 @@ creature_insects
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BUTTERFLY_MONARCH]
-	[DESCRIPTION:Um pequeno inseto com grandes asas laranja. ê admirado por sua beleza.]
+	[DESCRIPTION:Um pequeno inseto com grandes asas laranja. ÔøΩ admirado por sua beleza.]
 	[CREATURE_TILE:249][COLOR:4:0:1]
 	[NAME:monarch butterfly:monarch butterflies:monarch butterfly]
 	[CASTE_NAME:monarch butterfly:monarch butterflies:monarch butterfly]
@@ -465,7 +465,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:monarch butterfly man:monarch butterfly men:monarch butterfly man]
-	[DESCRIPTION:Uma pessoa com asas e cabeáa de uma borboleta monarca.]
+	[DESCRIPTION:Uma pessoa com asas e cabeÔøΩa de uma borboleta monarca.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -499,7 +499,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:FIREFLY]
-	[DESCRIPTION:Um min£sculo inseto voador que pode ser visto a noite por sua cauda brilhante.]
+	[DESCRIPTION:Um minÔøΩsculo inseto voador que pode ser visto a noite por sua cauda brilhante.]
 	[NAME:firefly:fireflies:firefly]
 	[CASTE_NAME:firefly:fireflies:firefly]
 	[CREATURE_TILE:249][COLOR:2:0:1]
@@ -570,7 +570,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:firefly man:firefly men:firefly man]
-	[DESCRIPTION:Uma pessoa com asas e cabeáa de vaga-lume.]
+	[DESCRIPTION:Uma pessoa com asas e cabeÔøΩa de vaga-lume.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -604,7 +604,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:DRAGONFLY]
-	[DESCRIPTION:Um inseto relativamente grande encontrado em pantanos e pantanos.]
+	[DESCRIPTION:Um inseto relativamente grande encontrado em p√¢ntanos e p√¢ntanos.]
 	[NAME:dragonfly:dragonflies:dragonfly]
 	[CASTE_NAME:dragonfly:dragonflies:dragonfly]
 	[CREATURE_TILE:249][COLOR:3:0:1]
@@ -673,7 +673,7 @@ creature_insects
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:dragonfly man:dragonfly men:dragonfly man]
-	[DESCRIPTION:Uma pessoa com asas e cabeáa de libelula.]
+	[DESCRIPTION:Uma pessoa com asas e cabeÔøΩa de libelula.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
@@ -714,7 +714,7 @@ Bees were sponsored by the generous contributions of the Bay 12 community.
 	John McNeil
 
 [CREATURE:HONEY_BEE]
-	[DESCRIPTION:Um pequeno inseto voador que vive em grandes colonias. Tem um ferr∆o poderoso na cauda. Suas colmeias s∆o valorizadas por seu mel.]
+	[DESCRIPTION:Um pequeno inseto voador que vive em grandes colonias. Tem um ferrÔøΩo poderoso na cauda. Suas colmeias sÔøΩo valorizadas por seu mel.]
 	[NAME:honey bee:honey bees:honey bee]
 	[CREATURE_TILE:250][COLOR:6:0:1]
 	[NATURAL]

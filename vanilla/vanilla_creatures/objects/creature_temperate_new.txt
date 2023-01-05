@@ -9,7 +9,7 @@ Wild boars were sponsored by the generous contributions of the Bay 12 community.
 	TheWanderer
 
 [CREATURE:WILD_BOAR]
-	[DESCRIPTION:Uma besta de tamanho medio, conhecido por suas presas e construcÆo poderosa.]
+	[DESCRIPTION:Uma besta de tamanho medio, conhecido por suas presas e construcï¿½o poderosa.]
 	[NAME:wild boar:wild boars:wild boar]
 	[CHILD:1][GENERAL_CHILD_NAME:wild boar piglet:wild boar piglets]
 	[CREATURE_TILE:'B'][COLOR:6:0:0]
@@ -136,7 +136,7 @@ Wild boars were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:wild boar man:wild boar men:wild boar man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a de um javali.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a de um javali.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -180,7 +180,7 @@ Coyotes were sponsored by the generous contributions of the Bay 12 community.
 	"The Trickster can find his way into anything, the hard part is getting out!"
 
 [CREATURE:COYOTE]
-	[DESCRIPTION:Uma criatura de cÆo de tamanho medio.e astuto, e os grupos podem ser ouvidos uivando a noite.]
+	[DESCRIPTION:Uma criatura de cï¿½o de tamanho medio.e astuto, e os grupos podem ser ouvidos uivando a noite.]
 	[NAME:coyote:coyotes:coyote]
 	[CASTE_NAME:coyote:coyotes:coyote]
 	[CHILD:1][GENERAL_CHILD_NAME:coyote pup:coyote pups]
@@ -299,7 +299,7 @@ Coyotes were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:coyote man:coyote men:coyote man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e a cauda de um coiote.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e a cauda de um coiote.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
@@ -486,7 +486,7 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kangaroo man:kangaroo men:kangaroo man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e pernas poderosas de um canguru.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e pernas poderosas de um canguru.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -647,7 +647,7 @@ Koalas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:koala man:koala men:koala man]
-	[DESCRIPTION:Uma pessoa cinza com a cabe‡a de um coala.]
+	[DESCRIPTION:Uma pessoa cinza com a cabeï¿½a de um coala.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -829,7 +829,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:adder man:adder men:adder man]
-	[DESCRIPTION:Um grande somador com o tronco e os bra‡os de um homem.]
+	[DESCRIPTION:Um grande somador com o tronco e os braï¿½os de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1002,7 +1002,7 @@ Echidnas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:echidna man:echidna men:echidna man]
-	[DESCRIPTION:Uma pessoa espinhosa com a cabe‡a de uma equidna.]
+	[DESCRIPTION:Uma pessoa espinhosa com a cabeï¿½a de uma equidna.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1165,7 +1165,7 @@ Porcupines were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:porcupine man:porcupine men:porcupine man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e as penas de um porco-espinho.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e as penas de um porco-espinho.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1309,7 +1309,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:kingsnake man:kingsnake men:kingsnake man]
-	[DESCRIPTION:Uma pessoa sem pernas com a cabe‡a e a cauda de uma cobra-rei.]
+	[DESCRIPTION:Uma pessoa sem pernas com a cabeï¿½a e a cauda de uma cobra-rei.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -1462,7 +1462,7 @@ Gray langurs were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:gray langur man:gray langur men:gray langur man]
-	[DESCRIPTION:Uma pessoa cinza com a cabe‡a e a cauda de um langur cinza.]
+	[DESCRIPTION:Uma pessoa cinza com a cabeï¿½a e a cauda de um langur cinza.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1620,7 +1620,7 @@ Bobcats were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:bobcat man:bobcat men:bobcat man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e a cauda curta de um bobcat.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e a cauda curta de um bobcat.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1773,7 +1773,7 @@ Skunks were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:skunk man:skunk men:skunk man]
-	[DESCRIPTION:Uma pessoa listrada com a cabe‡a e a cauda de um gamba.]
+	[DESCRIPTION:Uma pessoa listrada com a cabeï¿½a e a cauda de um gamba.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1899,7 +1899,7 @@ Green tree frogs were sponsored by the generous contributions of the Bay 12 comm
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:green tree frog man:green tree frog men:green tree frog man]
-	[DESCRIPTION:Uma pessoa verde com a cabe‡a de um sapo verde.]
+	[DESCRIPTION:Uma pessoa verde com a cabeï¿½a de um sapo verde.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2053,7 +2053,7 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:hare man:hare men:hare man]
-	[DESCRIPTION:Uma pessoa de orelha ha muito tempo com a cabe‡a e a cauda de uma lebre.]
+	[DESCRIPTION:Uma pessoa de orelha ha muito tempo com a cabeï¿½a e a cauda de uma lebre.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2227,7 +2227,7 @@ Rattlesnakes were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:rattlesnake man:rattlesnake men:rattlesnake man]
-	[DESCRIPTION:Uma pessoa que se assemelha a uma grande cascavel com os bra‡os.]
+	[DESCRIPTION:Uma pessoa que se assemelha a uma grande cascavel com os braï¿½os.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -2281,7 +2281,7 @@ Weasels were sponsored by the generous contributions of the Bay 12 community.
 	Vorith
 
 [CREATURE:WEASEL]
-	[DESCRIPTION:Um min£sculo mamifero com um corpo esbelto.ca‡a em buracos de mouse, bem como no celeiro.]
+	[DESCRIPTION:Um minï¿½sculo mamifero com um corpo esbelto.caï¿½a em buracos de mouse, bem como no celeiro.]
 	[NAME:weasel:weasels:weasel]
 	[CASTE_NAME:weasel:weasels:weasel]
 	[GENERAL_CHILD_NAME:weasel kit:weasel kits]
@@ -2393,7 +2393,7 @@ Weasels were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:weasel man:weasel men:weasel man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e a cauda de uma doninha.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e a cauda de uma doninha.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2434,7 +2434,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	For Joalton. Because it had to be snakes.
 
 [CREATURE:COPPERHEAD_SNAKE]
-	[DESCRIPTION:Uma pequena cobra venenosa encontrada na floresta e pantanos.]
+	[DESCRIPTION:Uma pequena cobra venenosa encontrada na floresta e pÃ¢ntanos.]
 	[NAME:copperhead snake:copperhead snakes:copperhead snake]
 	[CASTE_NAME:copperhead snake:copperhead snakes:copperhead snake]
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
@@ -2565,7 +2565,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:copperhead snake man:copperhead snake men:copperhead snake man]
-	[DESCRIPTION:Uma grande cobra de cobre com os bra‡os de um homem.]
+	[DESCRIPTION:Uma grande cobra de cobre com os braï¿½os de um homem.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -2740,7 +2740,7 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:ibex man:ibex men:ibex man]
-	[DESCRIPTION:Uma pessoa com chifres com a cabe‡a de um bode-ibex.]
+	[DESCRIPTION:Uma pessoa com chifres com a cabeï¿½a de um bode-ibex.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2892,7 +2892,7 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:wombat man:wombat men:wombat man]
-	[DESCRIPTION:Uma pessoa musculosa com a cabe‡a de um marsupial wombat.]
+	[DESCRIPTION:Uma pessoa musculosa com a cabeï¿½a de um marsupial wombat.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -2932,7 +2932,7 @@ Dingoes were sponsored by the generous contributions of the Bay 12 community.
 	culling66
 
 [CREATURE:DINGO]
-	[DESCRIPTION:Uma pequena criatura parecida com um cachorro.Eles sÆo conhecidos por atacar o gado.]
+	[DESCRIPTION:Uma pequena criatura parecida com um cachorro.Eles sï¿½o conhecidos por atacar o gado.]
 	[NAME:dingo:dingoes:dingo]
 	[CASTE_NAME:dingo:dingoes:dingo]
 	[CHILD:1][GENERAL_CHILD_NAME:dingo pup:dingo pups]
@@ -3044,7 +3044,7 @@ Dingoes were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:dingo man:dingo men:dingo man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a de um canideo dingo.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a de um canideo dingo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:3:10]
 	[MAXAGE:60:80]
@@ -3195,7 +3195,7 @@ Coatis were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:coati man:coati men:coati man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e a cauda de um coati.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e a cauda de um coati.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -3348,7 +3348,7 @@ Opossums were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:opossum man:opossum men:opossum man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e a cauda de um gamba.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e a cauda de um gamba.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]

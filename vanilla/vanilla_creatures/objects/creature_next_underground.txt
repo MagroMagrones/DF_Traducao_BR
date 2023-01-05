@@ -371,7 +371,7 @@ creature_next_underground
 
 [CREATURE:CAP_HOPPER]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um pequeno anfibio com uma longa cauda preensil. Ele vive em pantanos subterraneos e florestas de torres das quais se alimenta.]
+	[DESCRIPTION:Um pequeno anfibio com uma longa cauda preensil. Ele vive em pântanos subterraneos e florestas de torres das quais se alimenta.]
 	[NAME:cap hopper:cap hoppers:cap hopper]
 	[CASTE_NAME:cap hopper:cap hoppers:cap hopper]
 	[CREATURE_TILE:249][COLOR:2:0:0]

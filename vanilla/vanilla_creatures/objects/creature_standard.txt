@@ -4400,7 +4400,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BEAK_DOG]
-	[DESCRIPTION:Uma criatura do pantano do mal.Lembra um p�ssaros agachado e sem asas com bico e pernas poderosos.Sua pele manchada e colorida.]
+	[DESCRIPTION:Uma criatura do pântano do mal.Lembra um p�ssaros agachado e sem asas com bico e pernas poderosos.Sua pele manchada e colorida.]
 	[NAME:beak dog:beak dogs:beak dog]
 	[CASTE_NAME:beak dog:beak dogs:beak dog]
 	[CHILD:1][GENERAL_CHILD_NAME:beak dog pup:beak dog pups]
@@ -4503,7 +4503,7 @@ creature_standard
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:GRIMELING]
-	[DESCRIPTION:Um monstro maligno do pantano.Assemelha -se a um n� de ervas daninhas encharcadas, mas vai atingir a vitima inconsciente.]
+	[DESCRIPTION:Um monstro maligno do pântano.Assemelha -se a um n� de ervas daninhas encharcadas, mas vai atingir a vitima inconsciente.]
 	[NAME:grimeling:grimelings:grimeling]
 	[CASTE_NAME:grimeling:grimelings:grimeling]
 	[CREATURE_TILE:'g'][COLOR:2:0:0]
