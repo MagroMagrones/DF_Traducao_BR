@@ -3,7 +3,7 @@ creature_large_temperate
 [OBJECT:CREATURE]
 
 [CREATURE:BEAR_GRIZZLY]
-	[DESCRIPTION:Uma enorme criatura marrom encontrada em florestas temperadas. ê conhecido por seu ataque feroz, geralmente quando ele ou seus filhotes s∆o ameacados.]
+	[DESCRIPTION:Uma enorme criatura marrom encontrada em florestas temperadas. ÔøΩ conhecido por seu ataque feroz, geralmente quando ele ou seus filhotes sÔøΩo ameacados.]
 	[NAME:grizzly bear:grizzly bears:grizzly bear]
 	[CASTE_NAME:grizzly bear:grizzly bears:grizzly bear]
 	[CHILD:1][GENERAL_CHILD_NAME:grizzly bear cub:grizzly bear cubs]
@@ -122,7 +122,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:grizzly bear man:grizzly bear men:grizzly bear man]
-	[DESCRIPTION:Uma pessoa grande com a cabeáa de um urso pardo.]
+	[DESCRIPTION:Uma pessoa grande com a cabeÔøΩa de um urso pardo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
@@ -159,7 +159,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BEAR_BLACK]
-	[DESCRIPTION:Um grande predador onivoro encontrado em florestas temperadas. Alimentando-se principalmente de bagas, tambem rouba carcaáas de outros caáadores. Embora normalmente seja um animal docil, sabe-se que mata em um ataque predatorio.]
+	[DESCRIPTION:Um grande predador onivoro encontrado em florestas temperadas. Alimentando-se principalmente de bagas, tambem rouba carcaÔøΩas de outros caÔøΩadores. Embora normalmente seja um animal docil, sabe-se que mata em um ataque predatorio.]
 	[NAME:black bear:black bears:black bear]
 	[CASTE_NAME:black bear:black bears:black bear]
 	[CHILD:1][GENERAL_CHILD_NAME:black bear cub:black bear cubs]
@@ -276,7 +276,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:black bear man:black bear men:black bear man]
-	[DESCRIPTION:Uma pessoa grande com a cabeáa de um urso preto.]
+	[DESCRIPTION:Uma pessoa grande com a cabeÔøΩa de um urso preto.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
@@ -441,7 +441,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:deer man:deer men:deer man]
-	[DESCRIPTION:Uma pessoa com a cabeáa de um cervo.]
+	[DESCRIPTION:Uma pessoa com a cabeÔøΩa de um cervo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -475,7 +475,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:FOX]
-	[DESCRIPTION:Um pequeno animal carnivoro encontrado em climas temperados. Tem pelagem laranja e Ç conhecido por sua esperteza.]
+	[DESCRIPTION:Um pequeno animal carnivoro encontrado em climas temperados. Tem pelagem laranja e ÔøΩ conhecido por sua esperteza.]
 	[NAME:fox:foxes:fox]
 	[CASTE_NAME:fox:foxes:fox]
 	[CHILD:1][GENERAL_CHILD_NAME:fox pup:fox pups]
@@ -586,7 +586,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:fox man:fox men:fox man]
-	[DESCRIPTION:Uma pessoa com cabeáa e cauda de raposa.]
+	[DESCRIPTION:Uma pessoa com cabeÔøΩa e cauda de raposa.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
@@ -622,7 +622,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:RACCOON]
-	[DESCRIPTION:Um pequeno animal onivoro com uma mascara brilhante de pelo. ê noturno e encontrado em florestas temperadas. ê um animal curioso e Ç conhecido por roubar de †reas civilizadas.]
+	[DESCRIPTION:Um pequeno animal onivoro com uma mascara brilhante de pelo. ÔøΩ noturno e encontrado em florestas temperadas. ÔøΩ um animal curioso e ÔøΩ conhecido por roubar de ÔøΩreas civilizadas.]
 	[NAME:raccoon:raccoons:raccoon]
 	[CASTE_NAME:raccoon:raccoons:raccoon]
 	[CHILD:1][GENERAL_CHILD_NAME:raccoon pup:raccoon pups]
@@ -772,7 +772,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:MACAQUE_RHESUS]
-	[DESCRIPTION:Um macaco de tamanho medio encontrado em florestas e pastagens. Geralmente vive de raizes e insetos, mas pode se tornar uma praga em †reas civilizadas, vagando em grandes grupos e implorando por restos.]
+	[DESCRIPTION:Um macaco de tamanho medio encontrado em florestas e pastagens. Geralmente vive de raizes e insetos, mas pode se tornar uma praga em ÔøΩreas civilizadas, vagando em grandes grupos e implorando por restos.]
 	[NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CASTE_NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CREATURE_TILE:'m'][COLOR:7:0:0]
@@ -884,7 +884,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man]
-	[DESCRIPTION:Uma pessoa com a cabeáa e a cauda de um macaco mulatta.]
+	[DESCRIPTION:Uma pessoa com a cabeÔøΩa e a cauda de um macaco mulatta.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -920,7 +920,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:COUGAR]
-	[DESCRIPTION:Um grande felino solitario. ê encontrado com mais frequencia em vegetac∆o densa, emboscando suas presas.]
+	[DESCRIPTION:Um grande felino solitario. ÔøΩ encontrado com mais frequencia em vegetacÔøΩo densa, emboscando suas presas.]
 	[NAME:cougar:cougars:cougar]
 	[CASTE_NAME:cougar:cougars:cougar]
 	[CHILD:3][GENERAL_CHILD_NAME:cougar cub:cougar cubs]
@@ -1034,7 +1034,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cougar man:cougar men:cougar man]
-	[DESCRIPTION:Uma pessoa com cabeáa e cauda de puma.]
+	[DESCRIPTION:Uma pessoa com cabeÔøΩa e cauda de puma.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1071,7 +1071,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:WOLF]
-	[DESCRIPTION:Um grande canino encontrado em regi‰es temperadas. ê territorial e caáa em bandos.]
+	[DESCRIPTION:Um grande canino encontrado em regiÔøΩes temperadas. ÔøΩ territorial e caÔøΩa em bandos.]
 	[NAME:wolf:wolves:wolf]
 	[CASTE_NAME:wolf:wolves:wolf]
 	[CHILD:1][GENERAL_CHILD_NAME:wolf pup:wolf pups]
@@ -1185,7 +1185,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:wolf man:wolf men:wolf man]
-	[DESCRIPTION:Uma pessoa com cabeáa e cauda de lobo.]
+	[DESCRIPTION:Uma pessoa com cabeÔøΩa e cauda de lobo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
@@ -1335,7 +1335,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:groundhog man:groundhog men:groundhog man]
-	[DESCRIPTION:Uma pessoa com cabeáa e pelo de marmota.]
+	[DESCRIPTION:Uma pessoa com cabeÔøΩa e pelo de marmota.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1371,10 +1371,10 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:ALLIGATOR]
-	[DESCRIPTION:Um enorme reptil, encontrado em rios e pantanos. ê um predador de emboscada, solitario e territorial.]
+	[DESCRIPTION:Um enorme reptil, encontrado em rios e pantanos. ÔøΩ um predador de emboscada, solitario e territorial.]
 	[NAME:alligator:alligators:alligator]
 	[CASTE_NAME:alligator:alligators:alligator]
-	[CHILD:1][GENERAL_CHILD_NAME:alligator hatchling:alligator hatchlings]
+	[CHILD:1][GENERAL_CHILD_NAME:alligator filhote:alligator filhotes]
 	[CREATURE_TILE:'A'][COLOR:2:0:0]
 	[AMPHIBIOUS]
 	[BIOME:SWAMP_TEMPERATE_FRESHWATER]
@@ -1493,7 +1493,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:alligator man:alligator men:alligator man]
-	[DESCRIPTION:Uma pessoa com cabeáa e cauda de jacare.]
+	[DESCRIPTION:Uma pessoa com cabeÔøΩa e cauda de jacare.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -1513,7 +1513,7 @@ creature_large_temperate
 	[GO_TO_START]
 	[NAME:giant alligator:giant alligators:giant alligator]
 	[CASTE_NAME:giant alligator:giant alligators:giant alligator]
-	[GENERAL_CHILD_NAME:giant alligator hatchling:giant alligator hatchlings]
+	[GENERAL_CHILD_NAME:giant alligator filhote:giant alligator filhotes]
 	[DESCRIPTION:Um enorme monstro em forma de jacare.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
@@ -1529,10 +1529,10 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:3251:2446:1640:798:4600:6500] 11 kph
 
 [CREATURE:BIRD_BUZZARD]
-	[DESCRIPTION:Um p†ssaros preto de rosto vermelho de tamanho medio que procura carniáa nas terras temperadas.]
+	[DESCRIPTION:Um pÔøΩssaros preto de rosto vermelho de tamanho medio que procura carniÔøΩa nas terras temperadas.]
 	[NAME:buzzard:buzzards:buzzard]
 	[CASTE_NAME:buzzard:buzzards:buzzard]
-	[GENERAL_CHILD_NAME:buzzard hatchling:buzzard hatchlings]
+	[GENERAL_CHILD_NAME:buzzard filhote:buzzard filhotes]
 	[CREATURE_TILE:'b'][COLOR:0:0:1]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
@@ -1654,7 +1654,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:buzzard man:buzzard men:buzzard man]
-	[DESCRIPTION:Uma pessoa com cabeáa e asas de urubu.]
+	[DESCRIPTION:Uma pessoa com cabeÔøΩa e asas de urubu.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1672,7 +1672,7 @@ creature_large_temperate
 	[GO_TO_START]
 	[NAME:giant buzzard:giant buzzards:giant buzzard]
 	[CASTE_NAME:giant buzzard:giant buzzards:giant buzzard]
-	[GENERAL_CHILD_NAME:giant buzzard hatchling:giant buzzard hatchlings]
+	[GENERAL_CHILD_NAME:giant buzzard filhote:giant buzzard filhotes]
 	[DESCRIPTION:Um enorme monstro em forma de urubu.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
@@ -1879,7 +1879,7 @@ Pandas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:panda man:panda men:panda man]
-	[DESCRIPTION:Uma criatura humanoide com cabeáa e barriga de panda.]
+	[DESCRIPTION:Uma criatura humanoide com cabeÔøΩa e barriga de panda.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2049,7 +2049,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:capybara man:capybara men:capybara man]
-	[DESCRIPTION:Um humanoide com cabeáa de capivara. Gosta de nadar.]
+	[DESCRIPTION:Um humanoide com cabeÔøΩa de capivara. Gosta de nadar.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2063,7 +2063,7 @@ Badgers were sponsored by the generous contributions of the Bay 12 community.
 	canccu
 
 [CREATURE:BADGER]
-	[DESCRIPTION:Um pequeno mamifero com um rosto listrado. Vive em grupos e Ç feroz em combate.]
+	[DESCRIPTION:Um pequeno mamifero com um rosto listrado. Vive em grupos e ÔøΩ feroz em combate.]
 	[NAME:badger:badgers:badger]
 	[CHILD:1][GENERAL_CHILD_NAME:badger cub:badger cubs]
 	[CREATURE_TILE:'b'][COLOR:7:0:0]
@@ -2196,7 +2196,7 @@ Badgers were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:badger man:badger men:badger man]
-	[DESCRIPTION:Um humanoide com a cabeáa e listras de um texugo.]
+	[DESCRIPTION:Um humanoide com a cabeÔøΩa e listras de um texugo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2226,7 +2226,7 @@ Badgers were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:giant badger:giant badgers:giant badger]
 	[GENERAL_CHILD_NAME:giant badger cub:giant badger cubs]
-	[DESCRIPTION:Um enorme monstro com a forma de um texugo. ê feroz em combate.]
+	[DESCRIPTION:Um enorme monstro com a forma de um texugo. ÔøΩ feroz em combate.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:4:12]
 	[CREATURE_TILE:'B']
@@ -2392,7 +2392,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:moose man:moose men:moose man]
-	[DESCRIPTION:Um humanoide com cabeáa e chifres de alce.]
+	[DESCRIPTION:Um humanoide com cabeÔøΩa e chifres de alce.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -2437,7 +2437,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	m0nster
 
 [CREATURE:RED PANDA]
-	[DESCRIPTION:Um pequeno mamifero arboricola com cores distintas. Ergue-se sobre as patas traseiras quando encurralado. Ele usa suas patas dianteiras como m∆os.]
+	[DESCRIPTION:Um pequeno mamifero arboricola com cores distintas. Ergue-se sobre as patas traseiras quando encurralado. Ele usa suas patas dianteiras como mÔøΩos.]
 	[NAME:red panda:red pandas:red panda]
 	[CHILD:1][GENERAL_CHILD_NAME:red panda cub:red panda cubs]
 	[CREATURE_TILE:'p'][COLOR:4:0:0]
@@ -2589,7 +2589,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:red panda man:red panda men:red panda man]
-	[DESCRIPTION:Um panda vermelho ambulante de tamanho medio com braáos e cauda. Prefere a floresta e suas amadas arvores.]
+	[DESCRIPTION:Um panda vermelho ambulante de tamanho medio com braÔøΩos e cauda. Prefere a floresta e suas amadas arvores.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
