@@ -3,7 +3,7 @@ item_weapon
 [OBJECT:ITEM]
 
 [ITEM_WEAPON:ITEM_WEAPON_WHIP]
-[NAME:whip:whips]
+[NAME:chicote:chicotes]
 [SIZE:100]
 [SKILL:WHIP]
 [TWO_HANDED:27500]
@@ -14,7 +14,7 @@ item_weapon
 	[ATTACK_FLAG_BAD_MULTIATTACK]
 
 [ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE]
-[NAME:battle axe:battle axes]
+[NAME:machado de guerra:machados de guerra]
 [SIZE:800]
 [SKILL:AXE]
 [TWO_HANDED:47500]
@@ -32,7 +32,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR]
-[NAME:war hammer:war hammers]
+[NAME:martelo de guerra:martelos de guerra]
 [SIZE:400]
 [SKILL:HAMMER]
 [TWO_HANDED:37500]
@@ -42,7 +42,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT]
-[NAME:short sword:short swords]
+[NAME:espada curta:espadas curtas]
 [SIZE:300]
 [SKILL:SWORD]
 [TWO_HANDED:37500]
@@ -59,7 +59,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR]
-[NAME:spear:spears]
+[NAME:lança:lanças]
 [SIZE:400]
 [SKILL:SPEAR]
 [TWO_HANDED:47500]
@@ -71,7 +71,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MACE]
-[NAME:mace:maces]
+[NAME:maça:maças]
 [SIZE:800]
 [SKILL:MACE]
 [TWO_HANDED:37500]
@@ -81,7 +81,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_CROSSBOW]
-[NAME:crossbow:crossbows]
+[NAME:besta:bestas]
 [SIZE:400]
 [SKILL:HAMMER]
 [RANGED:CROSSBOW:BOLT]
@@ -94,7 +94,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_PICK]
-[NAME:pick:picks]
+[NAME:perfurador:perfuradores]
 [SIZE:500]
 [SKILL:MINING]
 [TWO_HANDED:47500]
@@ -104,7 +104,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_BOW]
-[NAME:bow:bows]
+[NAME:arco:arcos]
 [SIZE:300]
 [SKILL:SWORD]
 [RANGED:BOW:ARROW]
@@ -117,7 +117,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_BLOWGUN]
-[NAME:blowgun:blowguns]
+[NAME:zarabatana:zarabatanas]
 [SIZE:150]
 [SKILL:SWORD]
 [RANGED:BLOWGUN:BLOWDART]
@@ -130,7 +130,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_PIKE]
-[NAME:pike:pikes]
+[NAME:pique:piques]
 [SIZE:800]
 [SKILL:PIKE]
 [TWO_HANDED:77500]
@@ -142,7 +142,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_HALBERD]
-[NAME:halberd:halberds]
+[NAME:alabarda:alabardas]
 [SIZE:1200]
 [SKILL:AXE]
 [TWO_HANDED:77500]
@@ -156,7 +156,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_2H]
-[NAME:two-handed sword:two-handed swords]
+[NAME:espada de duas mãos:espadas de duas mãos]
 [SIZE:900]
 [SKILL:SWORD]
 [TWO_HANDED:77500]
@@ -172,7 +172,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG]
-[NAME:long sword:long swords]
+[NAME:espada longa:espadas longas]
 [SIZE:700]
 [SKILL:SWORD]
 [TWO_HANDED:57500]
@@ -188,7 +188,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MAUL]
-[NAME:maul:mauls]
+[NAME:malho:malhos]
 [SIZE:1300]
 [SKILL:HAMMER]
 [TWO_HANDED:77500]
@@ -198,7 +198,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT]
-[NAME:great axe:great axes]
+[NAME:grande machado:grandes machados]
 [SIZE:1300]
 [SKILL:AXE]
 [TWO_HANDED:77500]
@@ -212,7 +212,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE]
-[NAME:dagger:daggers]
+[NAME:adaga:adagas]
 [ADJECTIVE:large]
 [SIZE:200]
 [SKILL:DAGGER]
@@ -227,7 +227,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SCOURGE]
-[NAME:scourge:scourges]
+[NAME:flagelo:flagelos]
 [SIZE:300]
 [SKILL:WHIP]
 [TWO_HANDED:27500]
@@ -238,7 +238,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_FLAG_BAD_MULTIATTACK]
 
 [ITEM_WEAPON:ITEM_WEAPON_FLAIL]
-[NAME:flail:flails]
+[NAME:mangual:manguais]
 [SIZE:500]
 [SKILL:MACE]
 [TWO_HANDED:47500]
@@ -248,7 +248,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR]
-[NAME:morningstar:morningstars]
+[NAME:estrela do amanhã:estrelas do amanhã]
 [SIZE:500]
 [SKILL:MACE]
 [TWO_HANDED:37500]
@@ -260,7 +260,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SCIMITAR]
-[NAME:scimitar:scimitars]
+[NAME:cimitarra:cimitarras]
 [SIZE:300]
 [SKILL:SWORD]
 [TWO_HANDED:37500]
@@ -276,7 +276,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING]
-[NAME:training axe:training axes]
+[NAME:machado de treino:machados de treino]
 [SIZE:800]
 [SKILL:AXE]
 [TWO_HANDED:47500]
@@ -291,7 +291,7 @@ Penetration size currently only matters for edged attacks.
 [TRAINING]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING]
-[NAME:training sword:training swords]
+[NAME:espada de treino:espadas de treino]
 [SIZE:300]
 [SKILL:SWORD]
 [TWO_HANDED:37500]
@@ -308,7 +308,7 @@ Penetration size currently only matters for edged attacks.
 [TRAINING]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING]
-[NAME:training spear:training spears]
+[NAME:lança de treino:lanças de treino]
 [SIZE:400]
 [SKILL:SPEAR]
 [TWO_HANDED:47500]
