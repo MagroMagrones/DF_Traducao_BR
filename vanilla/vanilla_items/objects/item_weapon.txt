@@ -14,7 +14,7 @@ item_weapon
 	[ATTACK_FLAG_BAD_MULTIATTACK]
 
 [ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE]
-[NAME:machado de batalha:machados de batalha]
+[NAME:machado de guerra:machados de guerra]
 [SIZE:800]
 [SKILL:AXE]
 [TWO_HANDED:47500]
@@ -59,7 +59,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR]
-[NAME:lanca:lancas]
+[NAME:lança:lanças]
 [SIZE:400]
 [SKILL:SPEAR]
 [TWO_HANDED:47500]
@@ -71,7 +71,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MACE]
-[NAME:maca:macas]
+[NAME:maça:maças]
 [SIZE:800]
 [SKILL:MACE]
 [TWO_HANDED:37500]
@@ -156,7 +156,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_2H]
-[NAME:espada de duas maos:espadas de duas maos]
+[NAME:espada de duas mãos:espadas de duas mãos]
 [SIZE:900]
 [SKILL:SWORD]
 [TWO_HANDED:77500]
@@ -248,7 +248,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR]
-[NAME:estrela do amanha:estrelas do amanha]
+[NAME:estrela do amanhã:estrelas do amanhã]
 [SIZE:500]
 [SKILL:MACE]
 [TWO_HANDED:37500]
@@ -308,7 +308,7 @@ Penetration size currently only matters for edged attacks.
 [TRAINING]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING]
-[NAME:lanca de treino:lancas de treino]
+[NAME:lança de treino:lanças de treino]
 [SIZE:400]
 [SKILL:SPEAR]
 [TWO_HANDED:47500]
