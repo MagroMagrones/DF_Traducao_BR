@@ -1,8 +1,15 @@
-[ID:vanilla_interactions]
-[NUMERIC_VERSION:5001]
-[DISPLAYED_VERSION:50.01]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
-[AUTHOR:Bay 12 Games]
-[NAME:Vanilla Interactions]
-[DESCRIPTION:Essas são as interações padrão da fortaleza ana, que permitem as criaturas fazer algumas ações incomuns.]
+[ID:PTBR_vanilla_interactions]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Interactions PTBR]
+[DESCRIPTION:Estas são as interações padrão do Dwarf Fortress, as quais permitem que as criaturas façam algumas ações não usuais.]
+[CONFLICTS_WITH_ID:vanilla_interactions]
+
+[STEAM_TITLE:Vanilla Interactions PTBR]
+[STEAM_DESCRIPTION:Estas são as interações padrão do Dwarf Fortress, as quais permitem que as criaturas façam algumas ações não usuais.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,interactions]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890
