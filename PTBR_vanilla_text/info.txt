@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_text]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Text PTBR]
+[DESCRIPTION:Vários textos utilizados pelo jogo.]
+[CONFLICTS_WITH_ID:vanilla_text]
+
+[STEAM_TITLE:Vanilla Text PTBR]
+[STEAM_DESCRIPTION:Vários textos utilizados pelo jogo.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,text]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890

@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_bodies]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Bodies PTBR]
+[DESCRIPTION:Estes são os corpos padrão para criaturas do Dwarf Fortress, incluindo criaturas geradas aleatoriamente e modelos de tecidos.]
+[CONFLICTS_WITH_ID:vanilla_bodies]
+
+[STEAM_TITLE:Vanilla Bodies PTBR]
+[STEAM_DESCRIPTION:Estes são os corpos padrão para criaturas do Dwarf Fortress, incluindo criaturas geradas aleatoriamente e modelos de tecidos.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,bodies]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890

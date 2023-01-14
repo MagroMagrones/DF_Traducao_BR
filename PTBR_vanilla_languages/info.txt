@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_languages]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Languages PTBR]
+[DESCRIPTION:Estas são as palavras padrão do Dwarf Fortress e as suas traduções para as línguas do jogo.]
+[CONFLICTS_WITH_ID:vanilla_languages]
+
+[STEAM_TITLE:Vanilla Languages PTBR]
+[STEAM_DESCRIPTION:Estas são as palavras padrão do Dwarf Fortress e as suas traduções para as línguas do jogo.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,languages]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890

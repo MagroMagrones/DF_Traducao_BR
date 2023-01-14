@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_buildings]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Buildings PTBR]
+[DESCRIPTION:Estas são as construções padrão do Dwarf Fortress.]
+[CONFLICTS_WITH_ID:vanilla_buildings]
+
+[STEAM_TITLE:Vanilla Buildings PTBR]
+[STEAM_DESCRIPTION:Estas são as construções padrão do Dwarf Fortress.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,buildings]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890

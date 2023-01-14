@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_creatures]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Creatures PTBR]
+[DESCRIPTION:Estas são as criaruras padrão do Dwarf Fortress.]
+[CONFLICTS_WITH_ID:vanilla_creatures]
+
+[STEAM_TITLE:Vanilla Creatures PTBR]
+[STEAM_DESCRIPTION:Estas são as criaruras padrão do Dwarf Fortress.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,creatures]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890

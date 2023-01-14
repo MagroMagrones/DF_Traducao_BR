@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_reactions]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Reactions PTBR]
+[DESCRIPTION:Estas são as reações padrão do Dwarf Fortress, as quais são diversas atividades como tarefas.]
+[CONFLICTS_WITH_ID:vanilla_reactions]
+
+[STEAM_TITLE:Vanilla Reactions PTBR]
+[STEAM_DESCRIPTION:Estas são as reações padrão do Dwarf Fortress, as quais são diversas atividades como tarefas.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,reactions]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890

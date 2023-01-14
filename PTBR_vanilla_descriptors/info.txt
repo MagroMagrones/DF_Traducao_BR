@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_descriptors]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Descriptors PTBR]
+[DESCRIPTION:As definições de objectos para formas e cores.]
+[CONFLICTS_WITH_ID:vanilla_descriptors]
+
+[STEAM_TITLE:Vanilla Descriptors PTBR]
+[STEAM_DESCRIPTION:As definições de objectos para formas e cores.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,descriptors]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890

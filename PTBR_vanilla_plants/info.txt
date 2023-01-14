@@ -1,0 +1,15 @@
+[ID:PTBR_vanilla_plants]
+[NUMERIC_VERSION:500101]
+[DISPLAYED_VERSION:50.01 PTBR 01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:500101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01 PTBR 01]
+[AUTHOR:DF Brasil]
+[NAME:Vanilla Plants PTBR]
+[DESCRIPTION:Estas são as plantas e fungos padrão do Dwarf Fortress.]
+[CONFLICTS_WITH_ID:vanilla_plants]
+
+[STEAM_TITLE:Vanilla Plants PTBR]
+[STEAM_DESCRIPTION:Estas são as plantas e fungos padrão do Dwarf Fortress.]
+[STEAM_KEY_VALUE_TAG:mod,language,translation,traducao,pt-br,vanilla,plants]
+STEAM_CHANGELOG:Versão inicial das traduções.
+STEAM_FILE_ID:1234567890
