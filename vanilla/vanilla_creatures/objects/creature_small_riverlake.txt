@@ -439,7 +439,7 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_CHAR]
-	[DESCRIPTION:Um peixe manchado de tamanho medio encontrado em lagos e rios temperados.]
+	[DESCRIPTION:Um peixe manchado de tamanho médio encontrado em lagos e rios temperados.]
 	[NAME:char:char:char]
 	[CASTE_NAME:char:char:char]
 	[CREATURE_TILE:224][COLOR:0:0:1]
@@ -510,7 +510,7 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_TROUT_RAINBOW]
-	[DESCRIPTION:Um peixe manchado de tamanho medio encontrado em rios e lagos temperados.]
+	[DESCRIPTION:Um peixe manchado de tamanho médio encontrado em rios e lagos temperados.]
 	[NAME:rainbow trout:rainbow trout:rainbow trout]
 	[CASTE_NAME:rainbow trout:rainbow trout:rainbow trout]
 	[CREATURE_TILE:224][COLOR:2:0:1]
@@ -581,7 +581,7 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_MOLLY_SAILFIN]
-	[DESCRIPTION:Um peixe malhado min�sculo encontrado em rios costeiros e lagos temperados.]
+	[DESCRIPTION:Um peixe malhado min�sculo encontrado em rios costeiros e lagos temperados.]
 	[NAME:sailfin molly:sailfin mollies:sailfin molly]
 	[CASTE_NAME:sailfin molly:sailfin mollies:sailfin molly]
 	[CREATURE_TILE:224][COLOR:2:0:0]

@@ -3,7 +3,7 @@ creature_large_tropical
 [OBJECT:CREATURE]
 
 [CREATURE:ELEPHANT]
-	[DESCRIPTION:Um enorme mamifero sem pelos, encontrado pastando em grupos de pastagens. Come plantas que levanta com seu longo tronco. Quando irritado, atacara com suas longas presas.]
+	[DESCRIPTION:Um enorme mamífero sem pelos, encontrado pastando em grupos de pastagens. Come plantas que levanta com seu longo tronco. Quando irritado, atacara com suas longas presas.]
 	[NAME:elephant:elephants:elephant]
 	[CASTE_NAME:elephant:elephants:elephant]
 	[CHILD:10][GENERAL_CHILD_NAME:elephant calf:elephant calves]
@@ -171,7 +171,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:WARTHOG]
-	[DESCRIPTION:Um animal de tamanho medio que vive na grama e na floresta. Tem um focinho grande com quatro presas afiadas. Ele se defendera agressivamente.]
+	[DESCRIPTION:Um animal de tamanho médio que vive na grama e na floresta. Tem um focinho grande com quatro presas afiadas. Ele se defendera agressivamente.]
 	[NAME:warthog:warthogs:warthog]
 	[CASTE_NAME:warthog:warthogs:warthog]
 	[CHILD:1][GENERAL_CHILD_NAME:warthog piglet:warthog piglets]
@@ -1742,7 +1742,7 @@ creature_large_tropical
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GIBBON_SIAMANG]
-	[DESCRIPTION:Um macaco de tamanho medio encontrado nas arvores. � conhecido por suas chamadas altas.]
+	[DESCRIPTION:Um macaco de tamanho médio encontrado nas arvores. � conhecido por suas chamadas altas.]
 	[NAME:siamang:siamangs:siamang]
 	[CASTE_NAME:siamang:siamangs:siamang]
 	[CREATURE_TILE:'s'][COLOR:0:0:1]
@@ -2948,7 +2948,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:CROCODILE_SALTWATER]
-	[DESCRIPTION:Um enorme r�ptil predador encontrado em pântanos costeiros e deltas de rios. Ele embosca sua presa na costa e usa seu grande tamanho para arrastar a vitima para baixo e afoga-la.]
+	[DESCRIPTION:Um enorme r�ptil predador encontrado em pântanos costeiros e deltas de rios. Ele embosca sua presa na costa e usa seu grande tamanho para arrastar a vitima para baixo e afoga-la.]
 	[NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]
 	[CASTE_NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]
 	[CHILD:3][GENERAL_CHILD_NAME:saltwater crocodile filhote:saltwater crocodile filhotes]
@@ -3414,7 +3414,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:GIRAFFE]
-	[DESCRIPTION:Um enorme mamifero comedor de folhas. Tem um pescoco extremamente longo. Sua pele tem um padr�o distinto de marrom e branco.]
+	[DESCRIPTION:Um enorme mamífero comedor de folhas. Tem um pescoco extremamente longo. Sua pele tem um padr�o distinto de marrom e branco.]
 	[NAME:giraffe:giraffes:giraffe]
 	[CASTE_NAME:giraffe:giraffes:giraffe]
 	[CHILD:10][GENERAL_CHILD_NAME:giraffe calf:giraffe calves]
@@ -3551,7 +3551,7 @@ creature_large_tropical
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:HONEY BADGER]
-	[DESCRIPTION:Um pequeno mamifero conhecido por se defender ferozmente em combate, muitas vezes lutando contra varios animais muitas vezes seu tamanho.]
+	[DESCRIPTION:Um pequeno mamífero conhecido por se defender ferozmente em combate, muitas vezes lutando contra varios animais muitas vezes seu tamanho.]
 	[NAME:honey badger:honey badgers:honey badger]
 	[CASTE_NAME:honey badger:honey badgers:honey badger]
 	[CHILD:1][GENERAL_CHILD_NAME:honey badger cub:honey badger cubs]
@@ -3737,7 +3737,7 @@ Giant tortoises were sponsored by the generous contributions of the Bay 12 commu
 	Ves - They were so edible.
 
 [CREATURE:GIANT TORTOISE]
-	[DESCRIPTION:Um r�ptil de tamanho medio com uma concha grande. Ele pode se esconder em sua concha para escapar de predadores.]
+	[DESCRIPTION:Um r�ptil de tamanho médio com uma concha grande. Ele pode se esconder em sua concha para escapar de predadores.]
 	[NAME:giant tortoise:giant tortoises:giant tortoise]
 	[CASTE_NAME:giant tortoise:giant tortoises:giant tortoise]
 	[CHILD:1][GENERAL_CHILD_NAME:giant tortoise filhote:giant tortoise filhotes]
@@ -3884,7 +3884,7 @@ Armadillos were sponsored by the generous contributions of the Bay 12 community.
 	Enkufka
 
 [CREATURE:ARMADILLO]
-	[DESCRIPTION:Um pequeno mamifero com uma pele de couro. Ele pode rolar em uma bola para escapar de predadores.]
+	[DESCRIPTION:Um pequeno mamífero com uma pele de couro. Ele pode rolar em uma bola para escapar de predadores.]
 	[NAME:armadillo:armadillos:armadillo]
 	[CHILD:1][GENERAL_CHILD_NAME:armadillo pup:armadillo pups]
 	[CREATURE_TILE:'a'][COLOR:7:0:0]

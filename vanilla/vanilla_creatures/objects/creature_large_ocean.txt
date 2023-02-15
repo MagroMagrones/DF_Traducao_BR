@@ -3,10 +3,10 @@ creature_large_ocean
 [OBJECT:CREATURE]
 
 [CREATURE:WALRUS]
-	[DESCRIPTION:Um enorme mamifero aquatico com presas gigantes e bigodes densos. Eles s∆o grossos e gordos e vivem quase exclusivamente de mexilh‰es.]
-	[NAME:walrus:walruses:walrus]
-	[CASTE_NAME:walrus:walruses:walrus]
-	[CHILD:1][GENERAL_CHILD_NAME:walrus calf:walrus calves]
+	[DESCRIPTION:Um enorme mam√≠fero aquatico com presas gigantes e bigodes densos. Eles sÔøΩo grossos e gordos e vivem quase exclusivamente de mexilhÔøΩes.]
+	[NAME:morsa:morsas:morsa]
+	[CASTE_NAME:morsa:morsas:morsa]
+	[CHILD:1][GENERAL_CHILD_NAME:filhote de morsa:filhotes de morsas]
 	[CREATURE_TILE:'W'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:400]
@@ -17,13 +17,13 @@ creature_large_ocean
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:3:7]
 	[BENIGN][MEANDERER][NATURAL]
-	[PREFSTRING:tusks]
-	[PREFSTRING:whiskers]
+	[PREFSTRING:presas]
+	[PREFSTRING:bigodes]
 	[BODY:BASIC_2PARTBODY:BASIC_HEAD_NECK:FRONT_BODY_FLIPPERS:REAR_BODY_FLIPPERS:2EYES:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:TONGUE:2TUSKS:GENERIC_TEETH:RIBCAGE]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
 		[USE_MATERIAL_TEMPLATE:IVORY:TOOTH_TEMPLATE]
-			[STATE_NAME:ALL_SOLID:ivory]
-			[STATE_ADJ:ALL_SOLID:ivory]
+			[STATE_NAME:ALL_SOLID:marfim]
+			[STATE_ADJ:ALL_SOLID:marfim]
 	[BODY_DETAIL_PLAN:STANDARD_TISSUES]
 		[USE_TISSUE_TEMPLATE:IVORY:IVORY_TEMPLATE]
 			[TISSUE_NAME:ivory:NP]
@@ -83,9 +83,9 @@ creature_large_ocean
 	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
-		[CASTE_NAME:walrus man:walrus men:walrus man]
+		[CASTE_NAME:homem-morsa:homens-morsa:homem-morsa]
 	[SELECT_CASTE:FEMALE]
-		[CASTE_NAME:walrus woman:walrus women:walrus woman]
+		[CASTE_NAME:mulher-morsa:mulheres-morsa:mulher-morsa]
 	[SELECT_CASTE:ALL]
 	[APPLY_CREATURE_VARIATION:PUNCH_ATTACK]
 	[APPLY_CREATURE_VARIATION:TUSK_STAB_ATTACK]
@@ -94,8 +94,8 @@ creature_large_ocean
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:900:734:568:366:1900:2900] 24 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
-	[NAME:walrus man:walrus men:walrus man]
-	[DESCRIPTION:Uma pessoa sem pernas com a cabeáa e nadadeiras traseiras de uma morsa.]
+	[NAME:homem-morsa:homens-morsa:homem-morsa]
+	[DESCRIPTION:Uma pessoa sem pernas com a cabeÔøΩa e nadadeiras traseiras de uma morsa.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -111,9 +111,9 @@ creature_large_ocean
 	[SELECT_CASTE:ALL]
 	[CHANGE_BODY_SIZE_PERC:802]
 	[GO_TO_START]
-	[NAME:giant walrus:giant walruss:giant walrus]
-	[CASTE_NAME:giant walrus:giant walruss:giant walrus]
-	[GENERAL_CHILD_NAME:giant walrus pup:giant walrus pups]
+	[NAME:morsa gigante:morsas gigantes:morsa gigante]
+	[CASTE_NAME:morsa gigante:morsas gigantes:morsa gigante]
+	[GENERAL_CHILD_NAME:filhote de morsa gigante:filhotes de morsas gigantes]
 	[DESCRIPTION:Um monstro gigante na forma de uma morsa.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:3:7]
@@ -130,7 +130,7 @@ creature_large_ocean
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:900:691:482:251:1900:2900] 35 kph
 
 [CREATURE:FISH_LAMPREY_SEA]
-	[DESCRIPTION:Uma pequena criatura oceanica parecida com uma enguia que se agarra ∆o lado de sua vitima e a rasga.]
+	[DESCRIPTION:Uma pequena criatura oceanica parecida com uma enguia que se agarra ÔøΩo lado de sua vitima e a rasga.]
 	[NAME:sea lamprey:sea lampreys:sea lamprey]
 	[CASTE_NAME:sea lamprey:sea lampreys:sea lamprey]
 	[CHILD:1][GENERAL_CHILD_NAME:larval sea lamprey:larval sea lampreys]
@@ -456,7 +456,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_WOBBEGONG_SPOTTED]
-	[DESCRIPTION:Um enorme peixe coberto de protuberancias e manchas que usa para se esconder no fundo do mar. N∆o costuma ser agressivo.]
+	[DESCRIPTION:Um enorme peixe coberto de protuberancias e manchas que usa para se esconder no fundo do mar. NÔøΩo costuma ser agressivo.]
 	[NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]
 	[CASTE_NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]
 	[CHILD:1][GENERAL_CHILD_NAME:spotted wobbegong pup:spotted wobbegong pups]
@@ -676,7 +676,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_NURSE]
-	[DESCRIPTION:Um grande peixe noturno que vive no fundo. ê lento em movimento e encontrado em costas quase tropicais.]
+	[DESCRIPTION:Um grande peixe noturno que vive no fundo. ÔøΩ lento em movimento e encontrado em costas quase tropicais.]
 	[NAME:nurse shark:nurse sharks:nurse shark]
 	[CASTE_NAME:nurse shark:nurse sharks:nurse shark]
 	[CHILD:1][GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]
@@ -755,7 +755,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_MAKO_SHORTFIN]
-	[DESCRIPTION:Um peixe oceanico grande e agressivo com uma boca cheia de dentes pontiagudos. ê capaz de grande velocidade.]
+	[DESCRIPTION:Um peixe oceanico grande e agressivo com uma boca cheia de dentes pontiagudos. ÔøΩ capaz de grande velocidade.]
 	[NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]
 	[CASTE_NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]
 	[CHILD:1][GENERAL_CHILD_NAME:shortfin mako shark pup:shortfin mako shark pup]
@@ -835,7 +835,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_MAKO_LONGFIN]
-	[DESCRIPTION:Um grande peixe que se alimenta ∆o longo de aguas costeiras tropicais e temperadas.]
+	[DESCRIPTION:Um grande peixe que se alimenta ÔøΩo longo de aguas costeiras tropicais e temperadas.]
 	[NAME:longfin mako shark:longfin mako sharks:longfin mako shark]
 	[CASTE_NAME:longfin mako shark:longfin mako sharks:longfin mako shark]
 	[CHILD:1][GENERAL_CHILD_NAME:longfin mako shark pup:longfin mako shark pup]
@@ -994,7 +994,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_BULL]
-	[DESCRIPTION:Peixe de tamanho medio, agressivo e territorial. Pode ser encontrado em aguas oceanicas rasas e tambem Ç conhecido por subir grandes rios.]
+	[DESCRIPTION:Peixe de tamanho m√©dio, agressivo e territorial. Pode ser encontrado em aguas oceanicas rasas e tambem ÔøΩ conhecido por subir grandes rios.]
 	[NAME:bull shark:bull sharks:bull shark]
 	[CASTE_NAME:bull shark:bull sharks:bull shark]
 	[CHILD:1][GENERAL_CHILD_NAME:bull shark pup:bull shark pups]
@@ -1073,7 +1073,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_REEF_BLACKTIP]
-	[DESCRIPTION:Peixe de tamanho medio encontrado em aguas oceanicas rasas.]
+	[DESCRIPTION:Peixe de tamanho m√©dio encontrado em aguas oceanicas rasas.]
 	[NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark]
 	[CASTE_NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark]
 	[CHILD:1][GENERAL_CHILD_NAME:blacktip reef shark pup:blacktip reef shark pups]
@@ -1153,7 +1153,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_REEF_WHITETIP]
-	[DESCRIPTION:Peixe de tamanho medio que se abriga em cavernas no fundo do mar raso. caáa em bandos para se alimentar, mas n∆o Ç agressivo.]
+	[DESCRIPTION:Peixe de tamanho m√©dio que se abriga em cavernas no fundo do mar raso. caÔøΩa em bandos para se alimentar, mas nÔøΩo ÔøΩ agressivo.]
 	[NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]
 	[CASTE_NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]
 	[CHILD:1][GENERAL_CHILD_NAME:whitetip reef shark pup:whitetip reef shark pups]
@@ -1232,7 +1232,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_BLUE]
-	[DESCRIPTION:Um peixe grande e perigoso encontrado caáando em bandos em qualquer oceano.]
+	[DESCRIPTION:Um peixe grande e perigoso encontrado caÔøΩando em bandos em qualquer oceano.]
 	[NAME:blue shark:blue sharks:blue shark]
 	[CASTE_NAME:blue shark:blue sharks:blue shark]
 	[CHILD:1][GENERAL_CHILD_NAME:blue shark pup:blue shark pups]
@@ -1311,7 +1311,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_HAMMERHEAD]
-	[DESCRIPTION:Um peixe grande e perigoso, frequentemente encontrado caáando sozinho ∆o longo da costa.]
+	[DESCRIPTION:Um peixe grande e perigoso, frequentemente encontrado caÔøΩando sozinho ÔøΩo longo da costa.]
 	[NAME:hammerhead shark:hammerhead sharks:hammerhead shark]
 	[CASTE_NAME:hammerhead shark:hammerhead sharks:hammerhead shark]
 	[CHILD:1][GENERAL_CHILD_NAME:hammerhead shark pup:hammerhead shark pups]
@@ -1391,7 +1391,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_ANGEL]
-	[DESCRIPTION:Peixe grande, achatado e camuflado encontrado no fundo do mar em aguas temperadas. ê bastante passivo.]
+	[DESCRIPTION:Peixe grande, achatado e camuflado encontrado no fundo do mar em aguas temperadas. ÔøΩ bastante passivo.]
 	[NAME:angelshark:angelsharks:angelshark]
 	[CASTE_NAME:angelshark:angelsharks:angelshark]
 	[CHILD:1][GENERAL_CHILD_NAME:angelshark pup:angelshark pups]
@@ -1471,7 +1471,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SKATE_COMMON]
-	[DESCRIPTION:Peixe de tamanho medio, plano e que vive no fundo.]
+	[DESCRIPTION:Peixe de tamanho m√©dio, plano e que vive no fundo.]
 	[NAME:common skate:common skates:common skate]
 	[CASTE_NAME:common skate:common skates:common skate]
 	[CHILD:1][GENERAL_CHILD_NAME:common skate pup:common skate pups]
@@ -1543,7 +1543,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RAY_MANTA]
-	[DESCRIPTION:Um enorme peixe filtrador com grandes asas. Eles viajam pelos oceanos e s∆o curiosos e amigaveis.]
+	[DESCRIPTION:Um enorme peixe filtrador com grandes asas. Eles viajam pelos oceanos e sÔøΩo curiosos e amigaveis.]
 	[NAME:manta ray:manta rays:manta ray]
 	[CASTE_NAME:manta ray:manta rays:manta ray]
 	[CHILD:1][GENERAL_CHILD_NAME:manta ray pup:manta ray pups]
@@ -1605,7 +1605,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_STINGRAY]
-	[DESCRIPTION:Um peixe achatado de tamanho medio. Vive perto da praia e se defende com farpas afiadas.]
+	[DESCRIPTION:Um peixe achatado de tamanho m√©dio. Vive perto da praia e se defende com farpas afiadas.]
 	[NAME:stingray:stingrays:stingray]
 	[CASTE_NAME:stingray:stingrays:stingray]
 	[CHILD:1][GENERAL_CHILD_NAME:stingray pup:stingray pups]
@@ -1683,7 +1683,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_COELACANTH]
-	[DESCRIPTION:Um peixe indescritivel de tamanho medio encontrado em aguas costeiras.]
+	[DESCRIPTION:Um peixe indescritivel de tamanho m√©dio encontrado em aguas costeiras.]
 	[NAME:coelacanth:coelacanths:coelacanth]
 	[CASTE_NAME:coelacanth:coelacanths:coelacanth]
 	[CHILD:1][GENERAL_CHILD_NAME:coelacanth fry:coelacanth fry]
@@ -1851,7 +1851,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_CONGER_EEL]
-	[DESCRIPTION:Peixe de tamanho medio, marrom, semelhante a uma cobra, encontrado nas aguas oceanicas.]
+	[DESCRIPTION:Peixe de tamanho m√©dio, marrom, semelhante a uma cobra, encontrado nas aguas oceanicas.]
 	[NAME:conger eel:conger eels:conger eel]
 	[CASTE_NAME:conger eel:conger eels:conger eel]
 	[CHILD:1][GENERAL_CHILD_NAME:conger eel fry:conger eel fry]
@@ -1920,7 +1920,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_MILKFISH]
-	[DESCRIPTION:Peixe de tamanho medio encontrado nas costas e ilhas. ê uma presa facil para os predadores.]
+	[DESCRIPTION:Peixe de tamanho m√©dio encontrado nas costas e ilhas. ÔøΩ uma presa facil para os predadores.]
 	[NAME:milkfish:milkfish:milkfish]
 	[CASTE_NAME:milkfish:milkfish:milkfish]
 	[CHILD:1][GENERAL_CHILD_NAME:milkfish fry:milkfish fry]
@@ -2009,7 +2009,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_COD]
-	[DESCRIPTION:Peixe oceanico de tamanho medio, frequentemente caáado por sua carne.]
+	[DESCRIPTION:Peixe oceanico de tamanho m√©dio, frequentemente caÔøΩado por sua carne.]
 	[NAME:cod:cod:cod]
 	[CASTE_NAME:cod:cod:cod]
 	[CHILD:1][GENERAL_CHILD_NAME:cod fry:cod fry]
@@ -2093,7 +2093,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_OPAH]
-	[DESCRIPTION:Um grande peixe oceanico. ê plano, redondo e vermelho.]
+	[DESCRIPTION:Um grande peixe oceanico. ÔøΩ plano, redondo e vermelho.]
 	[NAME:opah:opah:opah]
 	[CASTE_NAME:opah:opah:opah]
 	[CHILD:1][GENERAL_CHILD_NAME:opah fry:opah fry]
@@ -2258,7 +2258,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BLUEFISH]
-	[DESCRIPTION:Um peixe oceanico de tamanho medio. Tem cauda bifurcada e Ç muito procurado por sua carne.]
+	[DESCRIPTION:Um peixe oceanico de tamanho m√©dio. Tem cauda bifurcada e ÔøΩ muito procurado por sua carne.]
 	[NAME:bluefish:bluefish:bluefish]
 	[CASTE_NAME:bluefish:bluefish:bluefish]
 	[CHILD:1][GENERAL_CHILD_NAME:bluefish fry:bluefish fry]
@@ -2342,7 +2342,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SUNFISH_OCEAN]
-	[DESCRIPTION:Uma criatura oceanica gigante que se assemelha a uma enorme cabeáa de peixe conectada a uma cauda larga.]
+	[DESCRIPTION:Uma criatura oceanica gigante que se assemelha a uma enorme cabeÔøΩa de peixe conectada a uma cauda larga.]
 	[NAME:ocean sunfish:ocean sunfish:ocean sunfish]
 	[CASTE_NAME:ocean sunfish:ocean sunfish:ocean sunfish]
 	[CHILD:1][GENERAL_CHILD_NAME:ocean sunfish fry:ocean sunfish fry]
@@ -2677,7 +2677,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BARRACUDA_GREAT]
-	[DESCRIPTION:Um peixe grande e comprido com muitas presas afiadas. Ele caáa emboscando sua presa.]
+	[DESCRIPTION:Um peixe grande e comprido com muitas presas afiadas. Ele caÔøΩa emboscando sua presa.]
 	[NAME:great barracuda:great barracudas:great barracuda]
 	[CASTE_NAME:great barracuda:great barracudas:great barracuda]
 	[CHILD:1][GENERAL_CHILD_NAME:great barracuda fry:great barracuda fry]
@@ -2855,7 +2855,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 	Kete
 
 [CREATURE:NARWHAL]
-	[DESCRIPTION:Um mamifero marinho de tamanho medio com um chifre longo e fino no nariz. Ele usa esse chifre para se comunicar e quebrar o gelo.]
+	[DESCRIPTION:Um mam√≠fero marinho de tamanho m√©dio com um chifre longo e fino no nariz. Ele usa esse chifre para se comunicar e quebrar o gelo.]
 	[NAME:narwhal:narwhals:narwhal]
 	[CASTE_NAME:narwhal:narwhals:narwhal]
 	[CHILD:1][GENERAL_CHILD_NAME:narwhal calf:narwhal calves]
@@ -2965,7 +2965,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:narwhal man:narwhal men:narwhal man]
-	[DESCRIPTION:Uma criatura de tamanho medio com os braáos e o tronco de um homem, mas com a cabeáa e a cauda de um narval.]
+	[DESCRIPTION:Uma criatura de tamanho m√©dio com os braÔøΩos e o tronco de um homem, mas com a cabeÔøΩa e a cauda de um narval.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

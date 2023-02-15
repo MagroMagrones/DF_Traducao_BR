@@ -8,7 +8,7 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	Naros - Stoats! The solution to your rabbit and/or cat problems.
 
 [CREATURE:STOAT]
-	[DESCRIPTION:Uma pequena criatura parecida com a doninha que ca‡a roedores e penhas nos ninhos de p ssaross.]
+	[DESCRIPTION:Uma pequena criatura parecida com a doninha que caï¿½a roedores e penhas nos ninhos de pï¿½ssaross.]
 	[NAME:stoat:stoats:stoat]
 	[GENERAL_CHILD_NAME:stoat kit:stoat kits]
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
@@ -160,7 +160,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	When you simply can't have a lobster -- veok, the Lobster Rage Fist
 
 [CREATURE:LYNX]
-	[DESCRIPTION:Um predador de mamiferos de tamanho medio.e conhecido pelos tufos de cabelo reveladores nas pontas de suas orelhas.]
+	[DESCRIPTION:Um predador de mamÃ­feros de tamanho mÃ©dio.e conhecido pelos tufos de cabelo reveladores nas pontas de suas orelhas.]
 	[NAME:lynx:lynx:lynx]
 	[CASTE_NAME:lynx:lynx:lynx]
 	[CHILD:3][GENERAL_CHILD_NAME:lynx cub:lynx cubs]
@@ -272,7 +272,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:lynx man:lynx men:lynx man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e a cauda de um lince.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e a cauda de um lince.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]

@@ -9,7 +9,7 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	DevHyfes - Should this journey lead to death, we ride together!
 
 [CREATURE:MONGOOSE]
-	[DESCRIPTION:Um mamifero muito pequeno com pernas curtas e uma cauda longa.ca�a pequenos animais para comer.]
+	[DESCRIPTION:Um mamífero muito pequeno com pernas curtas e uma cauda longa.ca�a pequenos animais para comer.]
 	[NAME:mongoose:mongooses:mongoose]
 	[CASTE_NAME:mongoose:mongooses:mongoose]
 	[CHILD:1][GENERAL_CHILD_NAME:mongoose pup:mongoose pups]
@@ -162,7 +162,7 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 	Cruxador
 
 [CREATURE:HYENA]
-	[DESCRIPTION:Um predador de pacote de tamanho medio encontrado na savana.]
+	[DESCRIPTION:Um predador de pacote de tamanho médio encontrado na savana.]
 	[NAME:hyena:hyenas:hyena]
 	[CASTE_NAME:hyena:hyenas:hyena]
 	[CHILD:1][GENERAL_CHILD_NAME:hyena cub:hyena cubs]
@@ -318,7 +318,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	Jayson French - "May these creatures be blessed with the alacrity and lethality of the mighty carp."
 
 [CREATURE:ANACONDA]
-	[DESCRIPTION:Uma cobra de tamanho medio que vive nas arvores.Comer presas muito maiores que ele e as mata esmagando-as ate a morte.]
+	[DESCRIPTION:Uma cobra de tamanho médio que vive nas arvores.Comer presas muito maiores que ele e as mata esmagando-as ate a morte.]
 	[NAME:anaconda:anacondas:anaconda]
 	[CASTE_NAME:anaconda:anacondas:anaconda]
 	[CREATURE_TILE:'A'][COLOR:2:0:1]
@@ -451,7 +451,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 	Hi, Zari
 
 [CREATURE:MONITOR_LIZARD]
-	[DESCRIPTION:Um reptil de tamanho medio.Eles podem ser encontrados buscando alimentos como ovos ou vermes.Dizem que eles s�o os mais inteligentes da sua especie.]
+	[DESCRIPTION:Um reptil de tamanho médio.Eles podem ser encontrados buscando alimentos como ovos ou vermes.Dizem que eles s�o os mais inteligentes da sua especie.]
 	[NAME:monitor lizard:monitor lizards:monitor lizard]
 	[CASTE_NAME:monitor lizard:monitor lizards:monitor lizard]
 	[CHILD:1][GENERAL_CHILD_NAME:monitor lizard filhote:monitor lizard filhotes]
@@ -1254,7 +1254,7 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 Sloths were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SLOTH]
-	[DESCRIPTION:Um pequeno mamifero em movimento lento que vive nas arvores.]
+	[DESCRIPTION:Um pequeno mamífero em movimento lento que vive nas arvores.]
 	[NAME:sloth:sloths:sloth]
 	[CASTE_NAME:sloth:sloths:sloth]
 	[CREATURE_TILE:'s'][COLOR:7:0:0]
@@ -1551,7 +1551,7 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 Pangolins were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:PANGOLIN]
-	[DESCRIPTION:Um pequeno mamifero coberto de escamas duras.Tem um nariz e lingua longos que ele usa para alimentar.]
+	[DESCRIPTION:Um pequeno mamífero coberto de escamas duras.Tem um nariz e lingua longos que ele usa para alimentar.]
 	[NAME:pangolin:pangolins:pangolin]
 	[CASTE_NAME:pangolin:pangolins:pangolin]
 	[GENERAL_CHILD_NAME:baby pangolin:baby pangolins]
@@ -1908,7 +1908,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 Sloth bears were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BEAR_SLOTH]
-	[DESCRIPTION:Um mamifero de tamanho medio que vive nas arvores.e conhecido por sua natureza descontraida.]
+	[DESCRIPTION:Um mamífero de tamanho médio que vive nas arvores.e conhecido por sua natureza descontraida.]
 	[NAME:sloth bear:sloth bears:sloth bear]
 	[CASTE_NAME:sloth bear:sloth bears:sloth bear]
 	[CHILD:1][GENERAL_CHILD_NAME:sloth bear cub:sloth bear cubs]
@@ -2061,7 +2061,7 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 	LASD
 
 [CREATURE:AYE-AYE]
-	[DESCRIPTION:Um pequeno mamifero noturno e morador de arvores.Ele usa seus dedos longos para pescar larvas da madeira.]
+	[DESCRIPTION:Um pequeno mamífero noturno e morador de arvores.Ele usa seus dedos longos para pescar larvas da madeira.]
 	[NAME:aye-aye:aye-ayes:aye-aye]
 	[CASTE_NAME:aye-aye:aye-ayes:aye-aye]
 	[CREATURE_TILE:'a'][COLOR:7:0:0]
@@ -2546,7 +2546,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	Samthere - Release the war tapirs!
 
 [CREATURE:TAPIR]
-	[DESCRIPTION:Um mamifero de tamanho medio com nariz de anta.Ele vive na floresta tropical.]
+	[DESCRIPTION:Um mamífero de tamanho médio com nariz de anta.Ele vive na floresta tropical.]
 	[NAME:tapir:tapirs:tapir]
 	[CASTE_NAME:tapir:tapirs:tapir]
 	[CHILD:1][GENERAL_CHILD_NAME:tapir calf:tapir calves]
@@ -2885,7 +2885,7 @@ Aardvarks were sponsored by the generous contributions of the Bay 12 community.
 	Morty TC
 
 [CREATURE:AARDVARK]
-	[DESCRIPTION:Um pequeno mamifero noturno.Tem uma lingua longa com a qual comer insetos.]
+	[DESCRIPTION:Um pequeno mamífero noturno.Tem uma lingua longa com a qual comer insetos.]
 	[NAME:aardvark:aardvarks:aardvark]
 	[CASTE_NAME:aardvark:aardvarks:aardvark]
 	[GENERAL_CHILD_NAME:aardvark cub:aardvark cubs]

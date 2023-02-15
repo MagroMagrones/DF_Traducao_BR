@@ -9,7 +9,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	Gigalith
 
 [CREATURE:OCTOPUS]
-	[DESCRIPTION:Um molusco subaquatico de tamanho medio com oito bra‡os.e o mais inteligente do genero.]
+	[DESCRIPTION:Um molusco subaquatico de tamanho mÃ©dio com oito braï¿½os.e o mais inteligente do genero.]
 	[NAME:octopus:octopuses:octopus]
 	[CASTE_NAME:octopus:octopuses:octopus]
 	[CREATURE_TILE:'o'][COLOR:7:0:0]
@@ -121,7 +121,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:octopus man:octopus men:octopus man]
-	[DESCRIPTION:Uma pessoa com um polvo no lugar de uma cabe‡a.]
+	[DESCRIPTION:Uma pessoa com um polvo no lugar de uma cabeï¿½a.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -240,7 +240,7 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:crab man:crab men:crab man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e pincas de um caranguejo.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e pincas de um caranguejo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -278,7 +278,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	heph
 
 [CREATURE:LEOPARD_SEAL]
-	[DESCRIPTION:Um grande mamifero anfibio predat¢rio.e dificil evitar uma vez na agua.]
+	[DESCRIPTION:Um grande mamÃ­fero anfibio predatï¿½rio.e dificil evitar uma vez na agua.]
 	[NAME:leopard seal:leopard seals:leopard seal]
 	[CASTE_NAME:leopard seal:leopard seals:leopard seal]
 	[CHILD:1][GENERAL_CHILD_NAME:leopard seal pup:leopard seal pups]
@@ -372,7 +372,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:leopard seal man:leopard seal men:leopard seal man]
-	[DESCRIPTION:Uma pessoa sem pernas com a cabe‡a e as nadadeiras de um selo de leopardo.]
+	[DESCRIPTION:Uma pessoa sem pernas com a cabeï¿½a e as nadadeiras de um selo de leopardo.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -411,7 +411,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	Duncan Pettengill - "If you push something hard enough, it will fall over"
 
 [CREATURE:CUTTLEFISH]
-	[DESCRIPTION:Um min£sculo molusco do mar.Pode mudar os padräes de cor e pele para comunicacÆo.]
+	[DESCRIPTION:Um minï¿½sculo molusco do mar.Pode mudar os padrï¿½es de cor e pele para comunicacï¿½o.]
 	[NAME:cuttlefish:cuttlefish:cuttlefish]
 	[CASTE_NAME:cuttlefish:cuttlefish:cuttlefish]
 	[CREATURE_TILE:11][COLOR:6:0:0]
@@ -524,7 +524,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:cuttlefish man:cuttlefish men:cuttlefish man]
-	[DESCRIPTION:Uma pessoa com um choco no lugar de uma cabe‡a.]
+	[DESCRIPTION:Uma pessoa com um choco no lugar de uma cabeï¿½a.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -568,7 +568,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 Orcas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:ORCA]
-	[DESCRIPTION:Um enorme mamifero oceanico.e um predador cruel e pode ca‡ar em grupos.]
+	[DESCRIPTION:Um enorme mamÃ­fero oceanico.e um predador cruel e pode caï¿½ar em grupos.]
 	[NAME:orca:orcas:orca]
 	[CASTE_NAME:orca:orcas:orca]
 	[CHILD:1][GENERAL_CHILD_NAME:orca calf:orca calves]
@@ -757,7 +757,7 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:sponge man:sponge men:sponge man]
 	[CASTE_NAME:sponge man:sponge men:sponge man]
-	[DESCRIPTION:Uma pessoa na forma de uma esponja com bra‡os e pernas.]
+	[DESCRIPTION:Uma pessoa na forma de uma esponja com braï¿½os e pernas.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -775,7 +775,7 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 	[GO_TO_START]
 	[NAME:giant sponge:giant sponges:giant sponge]
 	[CASTE_NAME:giant sponge:giant sponges:giant sponge]
-	[DESCRIPTION:Uma enorme esponja im¢vel.]
+	[DESCRIPTION:Uma enorme esponja imï¿½vel.]
 	[POPULATION_NUMBER:250:500]
 	[CREATURE_TILE:'S']
 	[COLOR:4:0:1]
@@ -790,7 +790,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	"We were here ages ago, we'll be here after all of you are gone."
 
 [CREATURE:HORSESHOE_CRAB]
-	[DESCRIPTION:Um min£sculo animal do mar que vive na areia apenas no mar.Tem um corpo plano com pernas por baixo.]
+	[DESCRIPTION:Um minï¿½sculo animal do mar que vive na areia apenas no mar.Tem um corpo plano com pernas por baixo.]
 	[NAME:horseshoe crab:horseshoe crabs:horseshoe crab]
 	[CASTE_NAME:horseshoe crab:horseshoe crabs:horseshoe crab]
 	[CREATURE_TILE:'c'][COLOR:6:0:0]
@@ -856,7 +856,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:horseshoe crab man:horseshoe crab men:horseshoe crab man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a, concha e cauda de um caranguejo em ferradura.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a, concha e cauda de um caranguejo em ferradura.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
@@ -892,7 +892,7 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	MUX
 
 [CREATURE:SPERM_WHALE]
-	[DESCRIPTION:Um mamifero marinho gigante com uma mandibula de dente.]
+	[DESCRIPTION:Um mamÃ­fero marinho gigante com uma mandibula de dente.]
 	[NAME:sperm whale:sperm whales:sperm whale]
 	[CASTE_NAME:sperm whale:sperm whales:sperm whale]
 	[CHILD:1][GENERAL_CHILD_NAME:sperm whale calf:sperm whale calves]
@@ -991,7 +991,7 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:sperm whale man:sperm whale men:sperm whale man]
-	[DESCRIPTION:Uma pessoa enorme com a cabe‡a e as nadadeiras de uma baleia de esperma.]
+	[DESCRIPTION:Uma pessoa enorme com a cabeï¿½a e as nadadeiras de uma baleia de esperma.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
@@ -1028,7 +1028,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	Cruxador
 
 [CREATURE:ELEPHANT_SEAL]
-	[DESCRIPTION:Um grande mamifero marinho predat¢rio.]
+	[DESCRIPTION:Um grande mamÃ­fero marinho predatï¿½rio.]
 	[NAME:elephant seal:elephant seals:elephant seal]
 	[CASTE_NAME:elephant seal:elephant seals:elephant seal]
 	[CHILD:1][GENERAL_CHILD_NAME:elephant seal pup:elephant seal pups]
@@ -1126,7 +1126,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:elephant seal man:elephant seal men:elephant seal man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e nadadeiras de um selo de elefante.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e nadadeiras de um selo de elefante.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
@@ -1163,7 +1163,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 Harp seals were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:HARP_SEAL]
-	[DESCRIPTION:Um pequeno mamifero marinho.Seus jovens sÆo valorizados por seu pelo branco.]
+	[DESCRIPTION:Um pequeno mamÃ­fero marinho.Seus jovens sï¿½o valorizados por seu pelo branco.]
 	[NAME:harp seal:harp seals:harp seal]
 	[CASTE_NAME:harp seal:harp seals:harp seal]
 	[CHILD:1][GENERAL_CHILD_NAME:harp seal pup:harp seal pups]
@@ -1257,7 +1257,7 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:harp seal man:harp seal men:harp seal man]
-	[DESCRIPTION:Uma pessoa com a cabe‡a e nadadeiras de um selo de harpa.]
+	[DESCRIPTION:Uma pessoa com a cabeï¿½a e nadadeiras de um selo de harpa.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:3:7]
 	[MAXAGE:60:80]
@@ -1295,7 +1295,7 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	Adam Isom
 
 [CREATURE:NAUTILUS]
-	[DESCRIPTION:Um molusco min£sculo com uma concha grande e muitos tentaculos.]
+	[DESCRIPTION:Um molusco minï¿½sculo com uma concha grande e muitos tentaculos.]
 	[NAME:nautilus:nautiluses:nautilus]
 	[CASTE_NAME:nautilus:nautiluses:nautilus]
 	[CREATURE_TILE:11][COLOR:4:0:1]

@@ -313,7 +313,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:DEER]
-	[DESCRIPTION:Uma criatura da floresta com cascos de tamanho medio que cresce seus chifres de volta a cada ano.]
+	[DESCRIPTION:Uma criatura da floresta com cascos de tamanho médio que cresce seus chifres de volta a cada ano.]
 	[NAME:deer:deer:deer]
 	[CASTE_NAME:deer:deer:deer]
 	[CHILD:1][GENERAL_CHILD_NAME:deer fawn:deer fawns]
@@ -475,7 +475,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:FOX]
-	[DESCRIPTION:Um pequeno animal carnivoro encontrado em climas temperados. Tem pelagem laranja e � conhecido por sua esperteza.]
+	[DESCRIPTION:Um pequeno animal carnívoro encontrado em climas temperados. Tem pelagem laranja e � conhecido por sua esperteza.]
 	[NAME:fox:foxes:fox]
 	[CASTE_NAME:fox:foxes:fox]
 	[CHILD:1][GENERAL_CHILD_NAME:fox pup:fox pups]
@@ -772,7 +772,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:MACAQUE_RHESUS]
-	[DESCRIPTION:Um macaco de tamanho medio encontrado em florestas e pastagens. Geralmente vive de raizes e insetos, mas pode se tornar uma praga em �reas civilizadas, vagando em grandes grupos e implorando por restos.]
+	[DESCRIPTION:Um macaco de tamanho médio encontrado em florestas e pastagens. Geralmente vive de raizes e insetos, mas pode se tornar uma praga em �reas civilizadas, vagando em grandes grupos e implorando por restos.]
 	[NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CASTE_NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CREATURE_TILE:'m'][COLOR:7:0:0]
@@ -1371,7 +1371,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:ALLIGATOR]
-	[DESCRIPTION:Um enorme r�ptil, encontrado em rios e pântanos. � um predador de emboscada, solitario e territorial.]
+	[DESCRIPTION:Um enorme r�ptil, encontrado em rios e pântanos. � um predador de emboscada, solitario e territorial.]
 	[NAME:alligator:alligators:alligator]
 	[CASTE_NAME:alligator:alligators:alligator]
 	[CHILD:1][GENERAL_CHILD_NAME:alligator filhote:alligator filhotes]
@@ -1529,7 +1529,7 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:3251:2446:1640:798:4600:6500] 11 kph
 
 [CREATURE:BIRD_BUZZARD]
-	[DESCRIPTION:Um p�ssaros preto de rosto vermelho de tamanho medio que procura carni�a nas terras temperadas.]
+	[DESCRIPTION:Um p�ssaros preto de rosto vermelho de tamanho médio que procura carni�a nas terras temperadas.]
 	[NAME:buzzard:buzzards:buzzard]
 	[CASTE_NAME:buzzard:buzzards:buzzard]
 	[GENERAL_CHILD_NAME:buzzard filhote:buzzard filhotes]
@@ -1896,7 +1896,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	Cameo
 
 [CREATURE:CAPYBARA]
-	[DESCRIPTION:Um roedor semi-aquatico de tamanho medio. Vive em grandes manadas e late quando esta alarmado.]
+	[DESCRIPTION:Um roedor semi-aquatico de tamanho médio. Vive em grandes manadas e late quando esta alarmado.]
 	[NAME:capybara:capybaras:capybara]
 	[CASTE_NAME:capybara:capybaras:capybara]
 	[CHILD:1][GENERAL_CHILD_NAME:capybara pup:capybara pups]
@@ -2063,7 +2063,7 @@ Badgers were sponsored by the generous contributions of the Bay 12 community.
 	canccu
 
 [CREATURE:BADGER]
-	[DESCRIPTION:Um pequeno mamifero com um rosto listrado. Vive em grupos e � feroz em combate.]
+	[DESCRIPTION:Um pequeno mamífero com um rosto listrado. Vive em grupos e � feroz em combate.]
 	[NAME:badger:badgers:badger]
 	[CHILD:1][GENERAL_CHILD_NAME:badger cub:badger cubs]
 	[CREATURE_TILE:'b'][COLOR:7:0:0]
@@ -2254,7 +2254,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 	A m??se once bit my sister. / Mynd you, m??se bites kan be pretty nasti...
 
 [CREATURE:MOOSE]
-	[DESCRIPTION:Um grande mamifero com grandes chifres e nariz grande. Vive em florestas temperadas.]
+	[DESCRIPTION:Um grande mamífero com grandes chifres e nariz grande. Vive em florestas temperadas.]
 	[NAME:moose:moose:moose]
 	[CHILD:1][GENERAL_CHILD_NAME:moose calf:moose calves]
 	[CREATURE_TILE:'M'][COLOR:6:0:0]
@@ -2437,7 +2437,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	m0nster
 
 [CREATURE:RED PANDA]
-	[DESCRIPTION:Um pequeno mamifero arboricola com cores distintas. Ergue-se sobre as patas traseiras quando encurralado. Ele usa suas patas dianteiras como m�os.]
+	[DESCRIPTION:Um pequeno mamífero arboricola com cores distintas. Ergue-se sobre as patas traseiras quando encurralado. Ele usa suas patas dianteiras como m�os.]
 	[NAME:red panda:red pandas:red panda]
 	[CHILD:1][GENERAL_CHILD_NAME:red panda cub:red panda cubs]
 	[CREATURE_TILE:'p'][COLOR:4:0:0]
@@ -2589,7 +2589,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[GO_TO_START]
 	[NAME:red panda man:red panda men:red panda man]
-	[DESCRIPTION:Um panda vermelho ambulante de tamanho medio com bra�os e cauda. Prefere a floresta e suas amadas arvores.]
+	[DESCRIPTION:Um panda vermelho ambulante de tamanho médio com bra�os e cauda. Prefere a floresta e suas amadas arvores.]
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]

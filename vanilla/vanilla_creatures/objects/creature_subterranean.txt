@@ -254,7 +254,7 @@ creature_subterranean
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:BAT_GIANT]
-	[DESCRIPTION:Um mamifero voador gigante encontrado no subsolo.]
+	[DESCRIPTION:Um mamífero voador gigante encontrado no subsolo.]
 	[NAME:giant bat:giant bats:giant bat]
 	[CASTE_NAME:giant bat:giant bats:giant bat]
 	[CHILD:1][GENERAL_CHILD_NAME:giant bat pup:giant bat pups]

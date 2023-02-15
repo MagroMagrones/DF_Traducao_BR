@@ -969,7 +969,7 @@ creature_next_underground
 
 [CREATURE:GREEN_DEVOURER]
 	[ARENA_RESTRICTED]
-	[DESCRIPTION:Um monstro de tamanho medio andando sobre duas pernas com garras. Tem duas bocas nas pontas de um par de tentaculos. Ele usa a boca para digerir suas vitimas com acido e fileiras de dentes semelhantes a navalhas.]
+	[DESCRIPTION:Um monstro de tamanho médio andando sobre duas pernas com garras. Tem duas bocas nas pontas de um par de tentaculos. Ele usa a boca para digerir suas vitimas com acido e fileiras de dentes semelhantes a navalhas.]
 	[NAME:green devourer:green devourers:green devourer]
 	[CASTE_NAME:green devourer:green devourers:green devourer]
 	[CREATURE_TILE:'G'][COLOR:2:0:1]

@@ -448,7 +448,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HUMAN]
-	[DESCRIPTION:Uma criatura de tamanho medio propenso a uma grande ambic�o.]
+	[DESCRIPTION:Uma criatura de tamanho médio propenso a uma grande ambic�o.]
 	[NAME:human:humans:human]
 	[CASTE_NAME:human:humans:human]
 	[OUTSIDER_CONTROLLABLE]
@@ -728,7 +728,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ELF]
-	[DESCRIPTION:Uma criatura de tamanho medio dedicado a protec�o implacavel da natureza.]
+	[DESCRIPTION:Uma criatura de tamanho médio dedicado a protec�o implacavel da natureza.]
 	[NAME:elf:elves:elven]
 	[CASTE_NAME:elf:elves:elven]
 	[CREATURE_TILE:'e'][COLOR:3:0:0]
@@ -1006,7 +1006,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GOBLIN]
-	[DESCRIPTION:Um human�ide de tamanho medio dirigido a crueldade por sua natureza maligna.]
+	[DESCRIPTION:Um human�ide de tamanho médio dirigido a crueldade por sua natureza maligna.]
 	[NAME:goblin:goblins:goblin]
 	[CASTE_NAME:goblin:goblins:goblin]
 	[CREATURE_TILE:'g'][COLOR:7:0:0]
@@ -2335,7 +2335,7 @@ creature_standard
 		[MELTING_POINT:10000]
 
 [CREATURE:SATYR]
-	[DESCRIPTION:Um human�ide de tamanho medio com os chifres e pernas de uma cabra.]
+	[DESCRIPTION:Um human�ide de tamanho médio com os chifres e pernas de uma cabra.]
 	[NAME:satyr:satyrs:satyr]
 	[CASTE_NAME:satyr:satyrs:satyr]
 	[CREATURE_TILE:'s'][COLOR:6:0:0]

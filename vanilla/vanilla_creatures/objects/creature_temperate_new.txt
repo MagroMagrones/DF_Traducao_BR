@@ -9,7 +9,7 @@ Wild boars were sponsored by the generous contributions of the Bay 12 community.
 	TheWanderer
 
 [CREATURE:WILD_BOAR]
-	[DESCRIPTION:Uma besta de tamanho medio, conhecido por suas presas e construc�o poderosa.]
+	[DESCRIPTION:Uma besta de tamanho médio, conhecido por suas presas e construc�o poderosa.]
 	[NAME:wild boar:wild boars:wild boar]
 	[CHILD:1][GENERAL_CHILD_NAME:wild boar piglet:wild boar piglets]
 	[CREATURE_TILE:'B'][COLOR:6:0:0]
@@ -180,7 +180,7 @@ Coyotes were sponsored by the generous contributions of the Bay 12 community.
 	"The Trickster can find his way into anything, the hard part is getting out!"
 
 [CREATURE:COYOTE]
-	[DESCRIPTION:Uma criatura de c�o de tamanho medio.e astuto, e os grupos podem ser ouvidos uivando a noite.]
+	[DESCRIPTION:Uma criatura de c�o de tamanho médio.e astuto, e os grupos podem ser ouvidos uivando a noite.]
 	[NAME:coyote:coyotes:coyote]
 	[CASTE_NAME:coyote:coyotes:coyote]
 	[CHILD:1][GENERAL_CHILD_NAME:coyote pup:coyote pups]
@@ -340,7 +340,7 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Duncan Burke
 
 [CREATURE:KANGAROO]
-	[DESCRIPTION:Uma criatura de tamanho medio que pode ser encontrado pulando pelas pastagens.]
+	[DESCRIPTION:Uma criatura de tamanho médio que pode ser encontrado pulando pelas pastagens.]
 	[NAME:kangaroo:kangaroos:kangaroo]
 	[CHILD:1][GENERAL_CHILD_NAME:kangaroo joey:kangaroo joeys]
 	[CREATURE_TILE:'K'][COLOR:6:0:0]
@@ -884,7 +884,7 @@ Echidnas were sponsored by the generous contributions of the Bay 12 community.
 	Strange guy
 
 [CREATURE:ECHIDNA]
-	[DESCRIPTION:Um pequeno mamifero espinhoso com um focinho longo.Come formigas e cupins e se reproduz colocando ovos.]
+	[DESCRIPTION:Um pequeno mamífero espinhoso com um focinho longo.Come formigas e cupins e se reproduz colocando ovos.]
 	[NAME:echidna:echidnas:echidna]
 	[CASTE_NAME:echidna:echidnas:echidna]
 	[GENERAL_CHILD_NAME:puggle:puggles]
@@ -1658,7 +1658,7 @@ Bobcats were sponsored by the generous contributions of the Bay 12 community.
 Skunks were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SKUNK]
-	[DESCRIPTION:Um pequeno mamifero em preto e branco.e capaz de pulverizar um fluido fedorento.]
+	[DESCRIPTION:Um pequeno mamífero em preto e branco.e capaz de pulverizar um fluido fedorento.]
 	[NAME:skunk:skunks:skunk]
 	[CASTE_NAME:skunk:skunks:skunk]
 	[GENERAL_CHILD_NAME:skunk kit:skunk kits]
@@ -2281,7 +2281,7 @@ Weasels were sponsored by the generous contributions of the Bay 12 community.
 	Vorith
 
 [CREATURE:WEASEL]
-	[DESCRIPTION:Um min�sculo mamifero com um corpo esbelto.ca�a em buracos de mouse, bem como no celeiro.]
+	[DESCRIPTION:Um min�sculo mamífero com um corpo esbelto.ca�a em buracos de mouse, bem como no celeiro.]
 	[NAME:weasel:weasels:weasel]
 	[CASTE_NAME:weasel:weasels:weasel]
 	[GENERAL_CHILD_NAME:weasel kit:weasel kits]
@@ -2619,7 +2619,7 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	Stam, haMevin yavin, ya manyak - Josh B
 
 [CREATURE:IBEX]
-	[DESCRIPTION: Um pequeno mamifero com chifres.Pode ser encontrado nas montanhas saltando de rock para rock.]
+	[DESCRIPTION: Um pequeno mamífero com chifres.Pode ser encontrado nas montanhas saltando de rock para rock.]
 	[NAME:ibex:ibexes:ibex]
 	[CASTE_NAME:ibex:ibexes:ibex]
 	[GENERAL_CHILD_NAME:ibex kid:ibex kids]
@@ -2778,7 +2778,7 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	culling66
 
 [CREATURE:WOMBAT]
-	[DESCRIPTION:Um pequeno mamifero atarracado.e encontrado das montanhas para as florestas.]
+	[DESCRIPTION:Um pequeno mamífero atarracado.e encontrado das montanhas para as florestas.]
 	[NAME:wombat:wombats:wombat]
 	[CASTE_NAME:wombat:wombats:wombat]
 	[GENERAL_CHILD_NAME:wombat joey:wombat joeys]
@@ -3235,7 +3235,7 @@ Opossums were sponsored by the generous contributions of the Bay 12 community.
 	The master-plan unfolds, silent sinister / Is there any hope left, Opossum Minister?
 
 [CREATURE:OPOSSUM]
-	[DESCRIPTION:Um pequeno mamifero semelhante a um grande rato branco.]
+	[DESCRIPTION:Um pequeno mamífero semelhante a um grande rato branco.]
 	[NAME:opossum:opossums:opossum]
 	[CASTE_NAME:opossum:opossums:opossum]
 	[GENERAL_CHILD_NAME:baby opossum:baby opossums]
